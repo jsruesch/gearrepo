@@ -34,8 +34,8 @@
   <div class="container-fluid mar20-bot pad30-left pad30-right">
     <div class="container">
       <div class="col-sm-8">
-        <div class="row">
-          <iframe src="https://player.vimeo.com/video/179368796?byline=0&portrait=0" width="100%" height="440" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        <div class="row vid-embed-container">
+          <iframe src="https://player.vimeo.com/video/179368796?byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
         </div>
       </div>
       <div class="col-sm-4">

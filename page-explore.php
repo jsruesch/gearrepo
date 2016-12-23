@@ -15,7 +15,7 @@
     <!--
       BEGIN: UNIFIED VISION
       -->
-      <div class="row new-vision mar30-bot">
+      <div class="row bg-fill-new-vision mar30-bot">
         <div class="col-sm-6 col-sm-offset-6 bg-green pad60">
           <h1 class="text-white">Born of a <br /> unified vision</h1>
           <div class="thickdiv mar10-bot mar10-top"></div>
@@ -28,7 +28,7 @@
     <!--
       BEGIN: NEW LOCATION
       -->
-      <div class="row new-vision mar30-bot">
+      <div class="row bg-fill-new-vision mar30-bot">
         <div class="col-sm-6 bg-ddblue pad60">
           <h1 class="text-green">Where Learning <br /> Lives</h1>
           <div class="thickdiv mar10-bot mar10-top"></div>
@@ -287,7 +287,7 @@
         <!--
           BEGIN: CHANGE LEARNING
           -->
-          <div class="row new-vision mar30-top">
+          <div class="row bg-fill-new-vision mar30-top">
             <div class="col-sm-6 col-sm-offset-6 bg-green pad60">
               <h1 class="text-white">Let's Change<br /> Learning Together</h1>
               <div class="thickdiv mar10-bot mar10-top"></div>

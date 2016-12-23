@@ -377,7 +377,7 @@ table tr{  }
     background-size: cover;
   }
 
-.new-vision{
+.bg-fill-new-vision{
   background: url(img/new-vision.png) 50% 0% no-repeat;
   background-size: auto 100%;
 }
@@ -399,6 +399,22 @@ table tr{  }
 
 /* END: Portrait Container */
 
+/**
+ * =========================================
+ * Blog
+ * =========================================
+ */
+
+  .post-img-container{
+    a img{
+      width: 100%;
+      height: auto;
+    }
+  }
+
+  .post p{ color: $lblue; }
+
+ /* END: Blog */
 
 /**
  * =========================================

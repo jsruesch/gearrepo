@@ -982,7 +982,7 @@ h1, h2, h3, h4, h5, h6 {
   background-position: center center;
   background-size: cover; }
 
-.new-vision {
+.bg-fill-new-vision {
   background: url(img/new-vision.png) 50% 0% no-repeat;
   background-size: auto 100%; }
 
@@ -999,6 +999,19 @@ h1, h2, h3, h4, h5, h6 {
     right: auto !important; }
 
 /* END: Portrait Container */
+/**
+ * =========================================
+ * Blog
+ * =========================================
+ */
+.post-img-container a img {
+  width: 100%;
+  height: auto; }
+
+.post p {
+  color: #a3aaba; }
+
+/* END: Blog */
 /**
  * =========================================
  * Profile Page

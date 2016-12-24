@@ -34,28 +34,27 @@
   <div class="container-fluid mar20-bot pad30-left pad30-right">
     <div class="container">
       <div class="row mar20-bot">
-        <div class="row vid-embed-container">
+        <div class="row iframe-embed-container">
           <iframe src="https://player.vimeo.com/video/179368796?byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
         </div>
       </div>
+      <!-- Tools -->
+      <div class="row mar20-bot">
+        <div class="col-sm-6">
+          <div class="row video-embed-container-md">
+            <video data-src-high="<?php echo get_template_directory_uri(); ?>/vid/test-render-02.mp4" type"video/mp4" autoplay muted loop data-js-init="video" src="<?php echo get_template_directory_uri(); ?>/vid/test-render-02.mp4"></video>
+          </div>
+        </div>
+        <div class="col-sm-6 pad30">
+          <h2 class="text-green">From the page to your fingertips</h2>
+          <div class="thickdiv mar10-bot mar10-top"></div>
+          <p class="text-lblue">
+            At Play in the Cosmos takes concepts from the textbook and transforms them in to interactive, intuitive tools and interactives that help students experience content in a way never done before.
+          </p>
+        </div>
+      </div><!-- END: Tools -->
+      <div class="row pad30 bg-ddblue">
 
-      <div class="col-sm-6">
-        <div class="row bg-green pad60">
-          <h3 class="text-white"> <br /> unified vision</h3>
-          <div class="thickdiv mar10-bot mar10-top"></div>
-          <p class="text-lblue">
-            Together with WW Norton,
-          </p>
-        </div>
-      </div>
-      <div class="col-sm-6">
-        <div class="row bg-ddblue pad60">
-          <h3 class="text-white"> <br /> unified vision</h3>
-          <div class="thickdiv mar10-bot mar10-top"></div>
-          <p class="text-lblue">
-            Together with WW Norton,
-          </p>
-        </div>
       </div>
     </div><!-- /.container -->
   </div><!-- /.container-fluid -->

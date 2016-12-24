@@ -685,6 +685,21 @@ p {
   font-family: 'Open Sans', sans-serif !important;
   font-size: 17px;
   line-height: 1.6em; }
+  p a {
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    -ms-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease;
+    box-shadow: none;
+    padding-bottom: 3px;
+    color: #ffffff; }
+    p a:hover {
+      -webkit-transition: all 0.2s ease;
+      -moz-transition: all 0.2s ease;
+      -ms-transition: all 0.2s ease;
+      -o-transition: all 0.2s ease;
+      color: #87b840;
+      box-shadow: inset 0px -4px 0px #ffffff; }
 
 ul {
   list-style: none;
@@ -815,6 +830,41 @@ h1, h2, h3, h4, h5, h6 {
     cursor: pointer;
     color: #ffffff;
     background: rgba(255, 255, 255, 0.15); }
+
+iframe {
+  width: 100%; }
+
+.iframe-embed-container {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56%; }
+  .iframe-embed-container iframe {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0; }
+
+.video-embed-container-lg,
+.video-embed-container-md {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: 0; }
+  .video-embed-container-lg video,
+  .video-embed-container-md video {
+    position: absolute;
+    height: auto;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%); }
+
+.video-embed-container-lg {
+  padding-bottom: 25%; }
+
+.video-embed-container-md {
+  padding-bottom: 50%; }
 
 /* END: Utility Classes */
 /**
@@ -1008,6 +1058,12 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   height: auto; }
 
+.featured-img-container {
+  position: relative; }
+  .featured-img-container a img {
+    width: 100%;
+    height: auto; }
+
 .post p {
   color: #a3aaba; }
 
@@ -1136,21 +1192,6 @@ textarea {
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
     height: 100%; }
-
-iframe {
-  width: 100%; }
-
-.vid-embed-container {
-  position: relative;
-  width: 100%;
-  height: 0;
-  padding-bottom: 56%; }
-  .vid-embed-container iframe {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    left: 0;
-    top: 0; }
 
 /* END: Projects */
 /**

@@ -1,4 +1,6 @@
 <?php get_header(); ?>
+<?php include ('nav.php'); ?>
+
 
 <!--
   BEGIN: Main Content
@@ -6,23 +8,32 @@
   <div class="container-fluid mc">
     <div class="container">
 
-		<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
+
+    <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 			<!-- Featured Image -->
-			<div class="row featured-image-excerpt">
-				<?php echo get_the_post_thumbnail( $page->ID, 'post_thumbnail' ); ?>
-			</div><!-- Featured Image -->
+      <div class="row post-img-container mar10-top">
+        <a href="<?php the_permalink() ?>">
+        <?php
+          if ( has_post_thumbnail() ) {
+            the_post_thumbnail();
+          }?>
+        </a>
+      </div><!-- Featured Image -->
 
 			<div class="row" <?php post_class() ?> id="post-<?php the_ID(); ?>">
-				<!-- Title and Meta -->
-				<div class="row pad15 bg-lblue">
-					<h2 class="text-white"><?php the_title(); ?></h2>
-				</div><!-- Title and Meta -->
-				<!-- Entry -->
-				<div class="entry row pad15 bg-lgrey">
-					<?php the_content(); ?>
-					<?php wp_link_pages(array('before' => 'Pages: ', 'next_or_number' => 'number')); ?>
-					<?php the_tags( 'Tags: ', ', ', ''); ?>
-				</div><!-- Entry -->
+
+        <div class="row pad30 bg-ddblue">
+          <h2 class="text-green"><?php the_title(); ?></h2>
+          <div class="thickdiv mar10-bot mar10-top"></div>
+          <div class="text-lblue">By <?php the_author_posts_link(); ?> on <?php the_time('F j, Y') ?></div>		
+
+        </div>
+        <div class="row pad20 bg-white">
+          <p  class="text-lblue">
+            <?php the_content(); ?>
+          </p>
+        </div>
+
 				<!-- Edit This Entry -->
 				<div class="row pad15-top">
 					<?php edit_post_link('Edit this entry','','.'); ?>

@@ -24,20 +24,17 @@
               <?php while (have_posts()) : the_post(); ?>
                 <!-- The Content -->
                 <div <?php post_class() ?>>
-                  <div class="row post-img-container">
+                  <div class="row featured-img-container">
                     <a href="<?php the_permalink() ?>">
-                      <div class="featured-img-container">
                         <?php
                           if ( has_post_thumbnail() ) {
                             the_post_thumbnail();
                           }?>
-                          <div class="row pad30 bg-ddblue">
-                            <h4><a href="<?php the_permalink() ?>"  class="text-green"><?php the_title(); ?></a></h4>
-                            <div class="thickdiv mar10-bot mar10-top"></div>
-                            <p><span  class="text-lblue"><?php the_content( $more_link_text , $strip_teaser ); ?>
+                          <div class="row pad30 bg-ddblue featured-title-container">
+                            <h3 class="text-white">GEAR Feature:</h3>
+                            <h1><a href="<?php the_permalink() ?>"><?php the_title(); ?></a></h1>
                             </span></p>
                           </div>
-                      </div>
                     </a>
                   </div>
 

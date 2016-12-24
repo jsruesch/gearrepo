@@ -46,6 +46,30 @@
     height: 225px !important;
   }
 
+  .featured-img-container{
+    position: relative;
+    box-shadow: 5px 0px 30px black;
+    border: 5px solid $white;
+    border-style: inset;
+
+    .featured-title-container{
+      position: relative !important;
+      bottom: auto !important;
+      left: auto !important;
+
+      h1{ font-size: 30px; }
+      h3{ font-size: 18px; }
+
+      h1 a{
+        color: $green !important;
+      }
+    }
+
+    a img{
+      width: 100%;
+      height: auto;
+    }
+  }
 
 }
 @media (max-device-width:768px){

@@ -866,6 +866,9 @@ iframe {
 .video-embed-container-md {
   padding-bottom: 50%; }
 
+.text-shadow {
+  text-shadow: 0px 1px 10px black; }
+
 /* END: Utility Classes */
 /**
  * =========================================

@@ -53,9 +53,20 @@
           </p>
         </div>
       </div><!-- END: Tools -->
-      <div class="row pad30 bg-ddblue">
+      <!-- Narrative -->
+      <div class="row pad60 bg-ddblue">
+        <div class="col-sm-6">
+          <h2 class="text-green">Play up to 20 narrative-driven missions!</h2>
+          <div class="thickdiv mar10-bot mar10-top"></div>
+          <p class="text-lblue">
+            At Play in the Cosmos offers a complex, story-driven campaign along side a robust sandbox mission mode where players get to roam the universe and research new locations and environments.
+          </p>
+        </div>
+        <div class="col-sm-6">
 
+        </div>
       </div>
+      <!-- END: Narrative -->
     </div><!-- /.container -->
   </div><!-- /.container-fluid -->
 <!-- END: Main Content -->

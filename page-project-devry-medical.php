@@ -1,6 +1,6 @@
 <?php
 /*
- Template Name: DeVry Medical
+ Template Name: Project - DeVry Medical
 */
 ?>
 

@@ -1,6 +1,6 @@
 <?php
 /*
- Template Name: Project - DeVry Anatomy Table
+ Template Name: Project - Crystals of Kaydor
 */
 ?>
 

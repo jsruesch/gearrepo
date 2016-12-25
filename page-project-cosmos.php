@@ -1,6 +1,6 @@
 <?php
 /*
- Template Name: Cosmos
+ Template Name: Project - Cosmos
 */
 ?>
 

@@ -1,6 +1,6 @@
 <?php
 /*
- Template Name: DeVry Vet
+ Template Name: Project - DeVry Vet
 */
 ?>
 

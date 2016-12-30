@@ -12,7 +12,10 @@
 -->
 <div class="hp-banner-container">
   <div class="container-fluid">
-    <video data-src-high="<?php echo get_template_directory_uri(); ?>/vid/test-render-04.mp4" type"video/mp4" autoplay muted loop data-js-init="video" src="<?php echo get_template_directory_uri(); ?>/vid/test-render-04.mp4"></video>
+    <video data-src-high="<?php echo get_template_directory_uri(); ?>/vid/test-render-04.mp4" type"video/mp4" autoplay muted loop data-js-init="video" src="<?php echo get_template_directory_uri(); ?>/vid/test-render-04.mp4">
+        <img src="<?php echo get_template_directory_uri(); ?>/img/banner-space-with-ship.png">
+        Your browser does not support the video tag.
+    </video>
     <div class="container">
       <div class="row pad30-left pad30-right">
         <!-- Type JS -->

@@ -1,39 +1,52 @@
 <?php get_header(); ?>
+<?php include ('nav.php'); ?>
 
-	<div class="main_post_content_container">
+<!--
+  BEGIN: Main Content
+-->
+<div class="container-fluid mar20-top mar20-bot pad30-left pad30-right">
+  <div class="container pad10-left pad10-right">
+	<div class="row pad20-top pad20-bot">
 
 		<?php if (have_posts()) : ?>
  			<?php $post = $posts[0]; // Hack. Set $post so that the_date() works. ?>
 			<?php /* If this is a category archive */ if (is_category()) { ?>
-				<h2>Archive for the &#8216;<?php single_cat_title(); ?>&#8217; Category</h2>
+				<h1 class="pagetitle text-green pad20-bot">Archive for the &#8216;<?php single_cat_title(); ?>&#8217; Category</h1>
 			<?php /* If this is a tag archive */ } elseif( is_tag() ) { ?>
-				<h2>Posts Tagged &#8216;<?php single_tag_title(); ?>&#8217;</h2>
+				<h1 class="pagetitle text-green pad20-bot">Posts Tagged &#8216;<?php single_tag_title(); ?>&#8217;</h1>
 			<?php /* If this is a daily archive */ } elseif (is_day()) { ?>
-				<h2>Archive for <?php the_time('F jS, Y'); ?></h2>
+				<h1 class="pagetitle text-green pad20-bot">Archive for <?php the_time('F jS, Y'); ?></h1>
 			<?php /* If this is a monthly archive */ } elseif (is_month()) { ?>
-				<h2>Archive for <?php the_time('F, Y'); ?></h2>
+				<h1 class="pagetitle text-green pad20-bot">Archive for <?php the_time('F, Y'); ?></h1>
 			<?php /* If this is a yearly archive */ } elseif (is_year()) { ?>
-				<h2 class="pagetitle">Archive for <?php the_time('Y'); ?></h2>
+				<h1 class="pagetitle text-green pad20-bot">Archive for <?php the_time('Y'); ?></h1>
 			<?php /* If this is an author archive */ } elseif (is_author()) { ?>
-				<h2 class="pagetitle">Author Archive</h2>
+				<h1 class="pagetitle text-green pad20-bot"><span class="text-white">Author</span> Archive</h1>
 			<?php /* If this is a paged archive */ } elseif (isset($_GET['paged']) && !empty($_GET['paged'])) { ?>
-				<h2 class="pagetitle">Blog Archives</h2>
+				<h1 class="pagetitle text-green pad20-bot"><span class="text-white">Blog</span> Archives</h1>
 			<?php } ?>
-			<?php include (TEMPLATEPATH . '/inc/nav.php' ); ?>
-			<?php while (have_posts()) : the_post(); ?>
-				<div <?php post_class() ?>>
-						<h2 id="post-<?php the_ID(); ?>"><a href="<?php the_permalink() ?>"><?php the_title(); ?></a></h2>
-						<?php include (TEMPLATEPATH . '/inc/meta.php' ); ?>
-						<div class="entry">
-							<?php the_content(); ?>
-						</div>
-				</div>
-			<?php endwhile; ?>
-			<?php include (TEMPLATEPATH . '/inc/nav.php' ); ?>
-		<?php else : ?>
-			<h2>Nothing found</h2>
-		<?php endif; ?>
-		<?php the_excerpt() ;?>
+
+			<div class="row pad20 bg-white">
+				<?php include (TEMPLATEPATH . '/inc/nav.php' ); ?>
+				<?php while (have_posts()) : the_post(); ?>
+					<div <?php post_class() ?>>
+						<div  class="pad15-top pad15-bot">
+							<h3 id="post-<?php the_ID(); ?>"><a href="<?php the_permalink() ?>"><?php the_title(); ?></a></h3>
+							<?php include (TEMPLATEPATH . '/inc/meta.php' ); ?>
+							<div class="entry">
+								<?php the_content(); ?>
+							</div>
+						</div><!-- /.pad15 -->
+					</div>
+				<?php endwhile; ?>
+				<?php include (TEMPLATEPATH . '/inc/nav.php' ); ?>
+			<?php else : ?>
+				<h2>Nothing found</h2>
+			<?php endif; ?>
+			<?php the_excerpt() ;?>
+		</div><!-- /.bg-white -->
 	</div>
+</div>
+</div>
 
 <?php get_footer(); ?>

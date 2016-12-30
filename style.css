@@ -1054,6 +1054,14 @@ iframe {
   background-position: center center;
   background-size: cover; }
 
+.none {
+  min-height: 100%;
+  width: 100%;
+  background: url(img/portraits/portrait-none.png);
+  opacity: .25;
+  background-position: center center;
+  background-size: cover; }
+
 .bg-fill-new-vision {
   background: url(img/new-vision.png) 50% 0% no-repeat;
   background-size: auto 100%; }

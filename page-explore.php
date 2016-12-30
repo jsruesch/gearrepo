@@ -82,7 +82,7 @@
                   <h4 class="text-green">Leonid<br />Umansky</h4>
                   <p class="text-white small bold text-uppercase">Software Engineer</p>
                 </div>
-                <div class="portrait-btn greg"></div>
+                <div class="portrait-btn none"></div>
               </div>
               </a>
             </div><!-- END: Leo -->
@@ -95,7 +95,7 @@
                   <h4 class="text-green">John<br />Karczewski</h4>
                   <p class="text-white small bold text-uppercase">Software Engineer</p>
                 </div>
-                <div class="portrait-btn greg"></div>
+                <div class="portrait-btn none"></div>
               </div>
               </a>
             </div><!-- END: John -->
@@ -108,7 +108,7 @@
                   <h4 class="text-green">Keith<br />Decker</h4>
                   <p class="text-white small bold text-uppercase">Software Engineer</p>
                 </div>
-                <div class="portrait-btn greg"></div>
+                <div class="portrait-btn none"></div>
               </div>
               </a>
             </div><!-- END: Keith -->

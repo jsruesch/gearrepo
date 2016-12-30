@@ -17,7 +17,7 @@
         Your browser does not support the video tag.
     </video>
     <div class="container">
-      <div class="row pad30-left pad30-right">
+      <div class="row pad15-left pad15-right">
         <!-- Type JS -->
         <div class="col-sm-6">
           <h1 class="text-shadow">

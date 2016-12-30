@@ -226,8 +226,9 @@
         <div class="col-sm-6 pad10">
           <a href="">
             <div class="row selproj-btn">
-              <div class="row">
-              </div>
+                <div class="row project-page-image">
+                  <img src="<?php echo get_template_directory_uri(); ?>/img/projects/zoombinis/project-page-image-zoombinis-01.png"/>
+                </div>
               <div class="row bg-ddblue pad25">
                 <h3 class="text-green">Zoombinis</h3>
                 <p class="text-lblue">

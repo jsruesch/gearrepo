@@ -48,7 +48,7 @@
         </div><!-- Econauts -->
         <!-- Oztoc Expedition -->
         <div class="col-sm-6 pad10">
-          <a href="">
+          <a href="<?php echo get_template_directory_uri(); ?>/microsites/oztoc/" target="_blank">
             <div class="row selproj-btn">
               <div class="row project-page-image">
                 <img src="<?php echo get_template_directory_uri(); ?>/img/projects/oztoc/project-page-image-oztoc-01.png"/>
@@ -64,7 +64,7 @@
         </div><!-- END: Oztoc Expedition -->
         <!-- Progenitor X -->
         <div class="col-sm-6 pad10">
-          <a href="">
+          <a href="<?php echo get_template_directory_uri(); ?>/microsites/progenitor/" target="_blank">
             <div class="row selproj-btn">
               <div class="row project-page-image">
                 <img src="<?php echo get_template_directory_uri(); ?>/img/projects/progenitor/project-page-image-progenitor-01.png"/>
@@ -80,7 +80,7 @@
         </div><!-- END: Progenitor X -->
         <!-- Crystals of Kaydor -->
         <div class="col-sm-6 pad10">
-          <a href="">
+          <a href="<?php echo get_template_directory_uri(); ?>/microsites/kaydor/" target="_blank">
             <div class="row selproj-btn">
               <div class="row project-page-image">
                 <img src="<?php echo get_template_directory_uri(); ?>/img/projects/crystals/project-page-image-crystals-01.png"/>
@@ -160,7 +160,7 @@
         </div><!-- END: Tenacity -->
         <!-- Fair Play -->
         <div class="col-sm-6 pad10">
-          <a href="">
+          <a href="http://fairplaygame.org" target="_blank">
             <div class="row selproj-btn">
               <div class="row project-page-image">
                 <img src="<?php echo get_template_directory_uri(); ?>/img/projects/fairplay/project-page-image-fairplay-01.png"/>
@@ -176,7 +176,7 @@
         </div><!-- END: Fair Play -->
         <!-- Soul of a Place -->
         <div class="col-sm-6 pad10">
-          <a href="">
+         <a href="<?php echo get_template_directory_uri(); ?>/microsites/soul/" target="_blank">
             <div class="row selproj-btn">
               <div class="row project-page-image">
                 <img src="<?php echo get_template_directory_uri(); ?>/img/projects/soul/project-page-image-soul-01.png"/>
@@ -192,7 +192,7 @@
         </div><!-- END: Soul of a Place -->
         <!-- At Play in the Cosmos -->
         <div class="col-sm-6 pad10">
-          <a href="">
+          <a href="<?php echo get_template_directory_uri(); ?>/microsites/virulent/" target="_blank">
             <div class="row selproj-btn">
               <div class="row project-page-image">
                 <img src="<?php echo get_template_directory_uri(); ?>/img/projects/virulent/project-page-image-virulent-01.png"/>
@@ -224,7 +224,7 @@
         </div><!-- END: At Play in the Cosmos -->
         <!-- At Play in the Cosmos -->
         <div class="col-sm-6 pad10">
-          <a href="">
+          <a href="https://external-wiki.terc.edu/display/ZOOM/The+Game" target="_blank">
             <div class="row selproj-btn">
                 <div class="row project-page-image">
                   <img src="<?php echo get_template_directory_uri(); ?>/img/projects/zoombinis/project-page-image-zoombinis-01.png"/>

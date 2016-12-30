@@ -94,6 +94,54 @@
             </div>
             </a>
         </div><!-- END: Crystals of Kaydor -->
+        <!-- DeVry Medical -->
+        <div class="col-sm-6 pad10">
+          <a href="">
+            <div class="row selproj-btn">
+                <div class="row project-page-image">
+                  <img src="<?php echo get_template_directory_uri(); ?>/img/projects/rosstide/project-page-image-rosstide-01.png"/>
+                </div>
+              <div class="row bg-ddblue pad25">
+                <h3 class="text-green">Rosstide</h3>
+                <p class="text-lblue">
+                    Medical Anatomy
+                </p>
+              </div>
+            </div>
+            </a>
+        </div><!-- END: DeVry Medical -->
+        <!-- DeVry Veterinary -->
+        <div class="col-sm-6 pad10">
+          <a href="">
+            <div class="row selproj-btn">
+                <div class="row project-page-image">
+                  <img src="<?php echo get_template_directory_uri(); ?>/img/projects/pawpad/project-page-image-pawpad-01.png"/>
+                </div>
+              <div class="row bg-ddblue pad25">
+                <h3 class="text-green">Pawpad</h3>
+                <p class="text-lblue">
+                    Veterinary Anatomy
+                </p>
+              </div>
+            </div>
+            </a>
+        </div><!-- END: DeVry Veterinary -->
+        <!-- Vetruvian Table -->
+        <div class="col-sm-6 pad10">
+          <a href="">
+            <div class="row selproj-btn">
+                <div class="row project-page-image">
+                  <img src="<?php echo get_template_directory_uri(); ?>/img/projects/apex/project-page-image-apex-01.png"/>
+                </div>
+              <div class="row bg-ddblue pad25">
+                <h3 class="text-green">Apex Anatomy Table</h3>
+                <p class="text-lblue">
+                    Interactable Anatomy Table
+                </p>
+              </div>
+            </div>
+            </a>
+        </div><!-- END: DeVry Medical -->
         <!-- Tenacity -->
         <div class="col-sm-6 pad10">
           <a href="">
@@ -174,52 +222,6 @@
             </div>
             </a>
         </div><!-- END: At Play in the Cosmos -->
-        <!-- DeVry Medical -->
-        <div class="col-sm-6 pad10">
-          <a href="">
-            <div class="row selproj-btn">
-              <div class="row">
-              </div>
-              <div class="row bg-ddblue pad25">
-                <h3 class="text-green">Rosstide</h3>
-                <p class="text-lblue">
-                    Medical Anatomy
-                </p>
-              </div>
-            </div>
-            </a>
-        </div><!-- END: DeVry Medical -->
-        <!-- DeVry Veterinary -->
-        <div class="col-sm-6 pad10">
-          <a href="">
-            <div class="row selproj-btn">
-              <div class="row">
-              </div>
-              <div class="row bg-ddblue pad25">
-                <h3 class="text-green">Pawpad</h3>
-                <p class="text-lblue">
-                    Veterinary Anatomy
-                </p>
-              </div>
-            </div>
-            </a>
-        </div><!-- END: DeVry Veterinary -->
-        <!-- Vetruvian Table -->
-        <div class="col-sm-6 pad10">
-          <a href="">
-            <div class="row selproj-btn">
-                <div class="row project-page-image">
-                  <img src="<?php echo get_template_directory_uri(); ?>/img/projects/apex/project-page-image-apex-01.png"/>
-                </div>
-              <div class="row bg-ddblue pad25">
-                <h3 class="text-green">Apex Anatomy Table</h3>
-                <p class="text-lblue">
-                    Interactable Anatomy Table
-                </p>
-              </div>
-            </div>
-            </a>
-        </div><!-- END: DeVry Medical -->
         <!-- At Play in the Cosmos -->
         <div class="col-sm-6 pad10">
           <a href="">

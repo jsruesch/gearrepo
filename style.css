@@ -674,6 +674,60 @@ h1, h2, h3, h4, h5, p {
     .featured-img-container a img {
       width: 100%;
       height: auto; } }
+@media (max-device-width: 768px) {
+  .nav-menu {
+    display: none; }
+
+  .mobile-dropdown {
+    display: block !important; }
+
+  .hp-banner-container {
+    height: 275px !important;
+    margin-bottom: 0px !important;
+    width: 100%;
+    background: url(img/banner-space-with-ship.png) 90% 0% no-repeat !important; }
+    .hp-banner-container h1 {
+      font-size: 41px !important;
+      letter-spacing: 0px;
+      padding-top: 70px !important;
+      text-align: center; }
+
+  .mc {
+    padding-left: 30px !important;
+    padding-right: 30px !important; }
+
+  .navbar-header {
+    background: #101319; }
+
+  .icon-bar {
+    background: #ffffff;
+    border-radius: 0 !important;
+    height: 3px !important;
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+    width: 30px !important; }
+
+  .item {
+    height: 225px !important; }
+
+  .featured-img-container {
+    position: relative;
+    box-shadow: 5px 0px 30px black;
+    border: 5px solid #ffffff;
+    border-style: inset; }
+    .featured-img-container .featured-title-container {
+      position: relative !important;
+      bottom: auto !important;
+      left: auto !important; }
+      .featured-img-container .featured-title-container h1 {
+        font-size: 30px; }
+      .featured-img-container .featured-title-container h3 {
+        font-size: 18px; }
+      .featured-img-container .featured-title-container h1 a {
+        color: #87b840 !important; }
+    .featured-img-container a img {
+      width: 100%;
+      height: auto; } }
 /* END: Imports */
 /**
  * =========================================

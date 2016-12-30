@@ -42,12 +42,9 @@
           </div><!-- END: Mike -->
         <!-- Paragraph 03 -->
           <div class="row">
-              <p class="text-lblue">
-                Founded by Kurt and Rich…
-                <br/>
-                <br/>
-                Building on successes... FairPlay
-              </p>
+              <h3 class="text-lblue text-center">
+                Our full website is nearly finished! Please check back soon!
+            </h3>
           </div><!-- END: Paragraph 03 -->
         </div><!-- /.col-sm-8 .col-sm-offset-2 -->
       </div><!-- /.row -->

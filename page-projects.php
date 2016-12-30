@@ -181,7 +181,7 @@
               <div class="row">
               </div>
               <div class="row bg-ddblue pad25">
-                <h3 class="text-green">DeVry Medical</h3>
+                <h3 class="text-green">Rosstide</h3>
                 <p class="text-lblue">
                     Medical Anatomy
                 </p>
@@ -196,7 +196,7 @@
               <div class="row">
               </div>
               <div class="row bg-ddblue pad25">
-                <h3 class="text-green">DeVry Veterinary</h3>
+                <h3 class="text-green">Pawpad</h3>
                 <p class="text-lblue">
                     Veterinary Anatomy
                 </p>
@@ -208,12 +208,13 @@
         <div class="col-sm-6 pad10">
           <a href="">
             <div class="row selproj-btn">
-              <div class="row">
-              </div>
+                <div class="row project-page-image">
+                  <img src="<?php echo get_template_directory_uri(); ?>/img/projects/apex/project-page-image-apex-01.png"/>
+                </div>
               <div class="row bg-ddblue pad25">
-                <h3 class="text-green">Vetruvian Table</h3>
+                <h3 class="text-green">Apex Anatomy Table</h3>
                 <p class="text-lblue">
-                    Vetruvian Table
+                    Interactable Anatomy Table
                 </p>
               </div>
             </div>
@@ -226,69 +227,9 @@
               <div class="row">
               </div>
               <div class="row bg-ddblue pad25">
-                <h3 class="text-green">ADAGE</h3>
-                <p class="text-lblue">
-                    Data Collection Framework
-                </p>
-              </div>
-            </div>
-            </a>
-        </div><!-- END: At Play in the Cosmos -->
-        <!-- At Play in the Cosmos -->
-        <div class="col-sm-6 pad10">
-          <a href="">
-            <div class="row selproj-btn">
-              <div class="row">
-              </div>
-              <div class="row bg-ddblue pad25">
-                <h3 class="text-green">Quandary</h3>
-                <p class="text-lblue">
-                    Ethics
-                </p>
-              </div>
-            </div>
-            </a>
-        </div><!-- END: At Play in the Cosmos -->
-        <!-- At Play in the Cosmos -->
-        <div class="col-sm-6 pad10">
-          <a href="">
-            <div class="row selproj-btn">
-              <div class="row">
-              </div>
-              <div class="row bg-ddblue pad25">
                 <h3 class="text-green">Zoombinis</h3>
                 <p class="text-lblue">
                     Logic & Puzzle Solving
-                </p>
-              </div>
-            </div>
-            </a>
-        </div><!-- END: At Play in the Cosmos -->
-        <!-- At Play in the Cosmos -->
-        <div class="col-sm-6 pad10">
-          <a href="">
-            <div class="row selproj-btn">
-              <div class="row">
-              </div>
-              <div class="row bg-ddblue pad25">
-                <h3 class="text-green">CALL</h3>
-                <p class="text-lblue">
-                    Learning Assessment
-                </p>
-              </div>
-            </div>
-            </a>
-        </div><!-- END: At Play in the Cosmos -->
-        <!-- At Play in the Cosmos -->
-        <div class="col-sm-6 pad10">
-          <a href="">
-            <div class="row selproj-btn">
-              <div class="row">
-              </div>
-              <div class="row bg-ddblue pad25">
-                <h3 class="text-green">Studio K</h3>
-                <p class="text-lblue">
-                    Curriculum Tool
                 </p>
               </div>
             </div>

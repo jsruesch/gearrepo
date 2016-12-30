@@ -48,7 +48,24 @@
   <div class="container-fluid mar20-top mar20-bot pad30-left pad30-right">
     <div class="container">
       <div class="col-sm-8 mar20-top pad10-left pad10-right">
-        <div class="row">
+          <!--
+            BEGIN: Featured Post
+          -->
+            <div class="row mar20-bot">
+                <div class="recent-release-img-container">
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/featured-image-cosmos-01.png"/>
+                    <div class="row pad30 bg-ddblue recent-release-title-container">
+                      <h3 class="text-white">Recent Release</h3>
+                      <h1 class="text-green"><a href="">At Play in the Cosmos</a></h1>
+                      <div class="thickdiv mar10-bot mar10-top"></div>
+                      <p class="text-lblue">
+                        At Play in the Cosmos takes concepts from the textbook and transforms them in to interactive, intuitive tools and interactives that help students experience content in a way never done before.
+                      </p>
+                    </div>
+                </div>
+            </div>
+          <!-- END: Featured Post -->
+        <div class="row mar60-top mar60-bot">
             <h2 class="text-green"><span class="text-white">Seven Years</span> in the making</h2>
             <div class="thickdiv mar10-top mar10-bot"></div>
            <p class="text-lblue">

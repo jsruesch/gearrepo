@@ -1022,6 +1022,25 @@ iframe {
   margin-left: -20%;
   margin-bottom: -60px; }
 
+.recent-release-img-container {
+  position: relative;
+  box-shadow: 5px 0px 30px black;
+  border: 5px solid #ffffff;
+  border-style: inset; }
+  .recent-release-img-container .recent-release-title-container {
+    position: relative !important;
+    bottom: auto !important;
+    left: auto !important; }
+    .recent-release-img-container .recent-release-title-container h1 {
+      font-size: 30px; }
+    .recent-release-img-container .recent-release-title-container h3 {
+      font-size: 18px; }
+    .recent-release-img-container .recent-release-title-container h1 a {
+      color: #87b840 !important; }
+  .recent-release-img-container img {
+    width: 100%;
+    height: auto; }
+
 /* END: Elements */
 /**
  * =========================================

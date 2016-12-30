@@ -56,7 +56,7 @@
                     <img src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/featured-image-cosmos-01.png"/>
                     <div class="row pad30 bg-ddblue recent-release-title-container">
                       <h3 class="text-white">Recent Release</h3>
-                      <h1 class="text-green"><a href="">At Play in the Cosmos</a></h1>
+                      <h1 class="text-green">At Play in the Cosmos</h1>
                       <div class="thickdiv mar10-bot mar10-top"></div>
                       <p class="text-lblue">
                         At Play in the Cosmos takes concepts from the textbook and transforms them in to interactive, intuitive tools and interactives that help students experience content in a way never done before.

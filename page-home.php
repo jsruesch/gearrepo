@@ -47,7 +47,7 @@
 -->
   <div class="container-fluid mar20-top mar20-bot pad30-left pad30-right">
     <div class="container">
-      <div class="col-sm-8 mar20-top pad10-left pad10-right">
+      <div class="col-sm-8 mar20-top pad15-left pad15-right">
           <!--
             BEGIN: Featured Post
           -->
@@ -77,9 +77,9 @@
         </div>
       </div>
       <div class="col-sm-4 pad20-top pad20-bot pad10-left pad10-right">
-        <h3 class="text-green"><span class="text-white">GEAR</span> Feature</h3>
+        <h3 class="text-green"><span class="text-white">News &</span> Updates</h3>
         <div class="row">
-          <?php query_posts('category_name=featured&posts_per_page=1');?>
+          <?php query_posts('category_name=news-and-updates&posts_per_page=2');?>
           <?php if (have_posts()) : ?>
               <?php $post = $posts[0]; // Hack. Set $post so that the_date() works. ?>
               <?php /* If this is a category archive */ if (is_category()) { ?>

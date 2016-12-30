@@ -28,7 +28,7 @@
     <!--
       BEGIN: NEW LOCATION
       -->
-      <div class="row bg-fill-new-vision mar30-bot">
+      <div class="row bg-fill-where-learning-lives mar30-bot">
         <div class="col-sm-6 bg-ddblue pad60">
           <h1 class="text-green">Where Learning <br /> Lives</h1>
           <div class="thickdiv mar10-bot mar10-top"></div>

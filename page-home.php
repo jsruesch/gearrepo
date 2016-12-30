@@ -44,9 +44,16 @@
 -->
   <div class="container-fluid mar20-top mar20-bot pad30-left pad30-right">
     <div class="container">
-      <div class="col-sm-8 pad10-left pad10-right">
-        <div class="row bg-green pad20">
-
+      <div class="col-sm-8 mar20-top pad10-left pad10-right">
+        <div class="row">
+            <h2 class="text-green"><span class="text-white">Seven Years</span> in the making</h2>
+            <div class="thickdiv mar10-top mar10-bot"></div>
+           <p class="text-lblue">
+               Building on the design and development experiences over the last seven years with Games +
+                Learning + Society and Learning Games Network, the development team that brought you Virulent,
+                Crystals of Kaydor, Econauts, and At Play in the Cosmos is starting GEAR, a new game development
+                 studio at the Wisconsin Center for Education Research at the University of Wisconsin.
+           </p>
         </div>
       </div>
       <div class="col-sm-4 pad20-top pad20-bot pad10-left pad10-right">

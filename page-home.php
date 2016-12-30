@@ -49,10 +49,10 @@
             <h2 class="text-green"><span class="text-white">Seven Years</span> in the making</h2>
             <div class="thickdiv mar10-top mar10-bot"></div>
            <p class="text-lblue">
-               Building on the design and development experiences over the last seven years with Games +
-                Learning + Society and Learning Games Network, the development team that brought you Virulent,
-                Crystals of Kaydor, Econauts, and At Play in the Cosmos is starting GEAR, a new game development
-                 studio at the Wisconsin Center for Education Research at the University of Wisconsin.
+               Building on the design and development experiences over the last seven years with <span class="text-white"><b>Games +
+                Learning + Society</b></span> and <span class="text-white"><b>Learning Games Network</b></span>, the development team that brought you <b>Virulent</b>,
+                <b>Crystals of Kaydor</b>, <b>Econauts</b>, and <b>At Play in the Cosmos</b> is starting <span class="text-green"><b>GEAR</b></span>, a new game development
+                 studio at the <span class="text-white"><b>Wisconsin Center for Education Research</b></span> at the <span class="text-white"><b>University of Wisconsin</b></span>.
            </p>
         </div>
       </div>

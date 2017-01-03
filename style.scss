@@ -591,6 +591,17 @@ iframe{ width: 100%; }
    }
  }
 
+ .profile-link-button{
+  @include full;
+
+   a{
+       @include full;
+     text-align: center;
+     i{
+     }
+   }
+ }
+
 /* END: Profile Page */
 
 /**

@@ -1240,6 +1240,14 @@ iframe {
     border-bottom: 150px solid rgba(135, 184, 64, 0.1);
     border-right: 150px solid transparent; }
 
+.profile-link-button {
+  width: 100%;
+  float: left; }
+  .profile-link-button a {
+    width: 100%;
+    float: left;
+    text-align: center; }
+
 /* END: Profile Page */
 /**
  * =========================================

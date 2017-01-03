@@ -40,12 +40,24 @@
               <li>Unity</li>
             </ul>
           </div>
+          <div class="row bg-ddblue">
+            <div class="col-sm-6">
+              <div class="profile-link-button">
+                <a class="btn-gen" href="www.JosAllen.com" target="_blank"><i class="fa fa-globe" aria-hidden="true"></i></a>
+              </div>
+            </div>
+            <div class="col-sm-6">
+              <div class="profile-link-button">
+                <a class="btn-gen" href="www.linkedin.com/in/josephine-allen-1168a9120" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
+              </div>
+            </div>
+          </div>
         </div>
         <div class="col-sm-9 pad10-right pad10-left">
           <div class="row bg-ddblue pad30">
             <div class="row">
               <p class="text-lblue">
-                A graduate of Madison College in 2016 with an Associates of Art Degree in Animation and Concept Development, Josephine Allen began interning with the team at Learning Games Network in October of 2015. Since then she has been brought onto the team as it’s newest artist creating animations, 3D models and concept art.
+                Hello, I am a graduate of MATC in 2016 with an Associates of Art Degree in Animation and Concept Development. I began interning with the team at Learning Games Network in October of 2015. Since then I have been brought onto the team as it’s newest artist creating animations, 3d models and concept art.
               </p>
             </div>
           </div>

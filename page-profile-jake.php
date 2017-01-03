@@ -43,7 +43,9 @@
           </div>
           <div class="row bg-ddblue">
             <div class="col-sm-12">
-              <a class="text-center col-sm-12 btn-gen" href="http://jsruesch.com" target="_blank"><i class="fa fa-globe" aria-hidden="true"></i></a>
+              <div class="profile-link-button">
+                <a class="text-center btn-gen" href="http://jsruesch.com" target="_blank"><i class="fa fa-globe" aria-hidden="true"></i></a>
+              </div>
             </div>
           </div>
         </div>

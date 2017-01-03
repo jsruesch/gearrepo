@@ -352,6 +352,15 @@ iframe{ width: 100%; }
   }
 }
 
+.under-construction{
+  width: 100%;
+  z-index: 999999;
+  padding: 10px 0;
+  position: fixed;
+  bottom: 0;
+  background: $green;
+}
+
 /* END: Elements */
 
 

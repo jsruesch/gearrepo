@@ -45,7 +45,7 @@
           <div class="row bg-ddblue pad30">
             <div class="row">
               <p class="text-lblue">
-                Jason Palmer grew up with a pencil in one hand and a game controller in the other.  After 12 years as a land surveyor, he decided it was time to return to what he was passionate about, art and games.  In 2011, he joined the development team at Games+Learning+Society, and in 2012 he received a degree in Game Art and Animation. As the team evolved, Jason grew with the group as it turned into GEAR, and now sits with the team as a Sr. 3D Artist.
+                I grew up with a pencil on one hand and a game controller in the other.  After 12 years as a land surveyor, I decided it was time to return to what I was passionate about, art and games.  In 2011, I joined the development team at Games+Learning+Society, and in 2012, received a degree in Game Art and Animation. As the team evolved, I grew with the group as it turned into GEAR, and now sit with the team as a Sr. 3D Artist.
               </p>
             </div>
           </div>

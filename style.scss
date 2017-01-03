@@ -622,6 +622,26 @@ textarea{
   color: $dblue;
  }
 
+ .nf-field-element input[type="button"]{
+   background: none;
+   border: none;
+   padding: 8px 5px;
+   box-shadow: none;
+   font-weight: 500;
+   font-size: 18px;
+   text-transform: uppercase;
+   color: $lblue;
+   font-family: 'Montserrat', sans-serif !important;
+   font-weight: 800 !important;
+
+   &:hover{
+     color: $white;
+     box-shadow: inset 0px -2px 0px $green;
+   }
+ }
+
+ .submit-container{ margin-bottom: 0 !important; }
+
  /* END: Ninjaforms Styles */
 
 /**

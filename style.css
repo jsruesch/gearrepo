@@ -1268,6 +1268,24 @@ textarea {
   line-height: 1.6em;
   color: #101319; }
 
+.nf-field-element input[type="button"] {
+  background: none;
+  border: none;
+  padding: 8px 5px;
+  box-shadow: none;
+  font-weight: 500;
+  font-size: 18px;
+  text-transform: uppercase;
+  color: #a3aaba;
+  font-family: 'Montserrat', sans-serif !important;
+  font-weight: 800 !important; }
+  .nf-field-element input[type="button"]:hover {
+    color: #ffffff;
+    box-shadow: inset 0px -2px 0px #87b840; }
+
+.submit-container {
+  margin-bottom: 0 !important; }
+
 /* END: Ninjaforms Styles */
 /**
  * =========================================

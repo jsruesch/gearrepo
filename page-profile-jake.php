@@ -53,7 +53,7 @@
           <div class="row bg-ddblue pad30">
             <div class="row">
               <p class="text-lblue">
-                Over the last 8+ years Jake has developed a deep love for a wide variety of visual designs. Being fortunate enough to grow with the group that is now GEAR from very early on, Jake has had the privilege of being able to work with amazing people on a wide variety of projects using all kinds of different mediums. Things ranging from grabbing a set of images and turning them into a cohesive, dynamic composition, creating a responsive, user-friendly, intuitive websites, game interfaces and graphics, creating high-detail vector art, or video effects. The best part of the job for him is getting to always work on something different.
+                Over the last 8+ years I've developed a deep love for a wide variety of visual designs. Being fortunate enough to grow with the group that is now GEAR from very early on, I've had the privilege of being able to work with amazing people on a wide variety of projects using all kinds of different mediums. I've been able to work on projects ranging from grabbing a set of images and turning them into a cohesive, dynamic composition, creating a responsive, user-friendly, intuitive websites, game interfaces and graphics, creating high-detail vector art, or video effects. The best part of the job for me is getting to always work on something different.
               </p>
             </div>
           </div>

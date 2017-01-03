@@ -170,7 +170,7 @@
         BEGIN: TESTIMONIALS
         -->
           <!-- Header -->
-          <div class="row mar30-top pad30 bg-ddblue">
+          <!-- <div class="row mar30-top pad30 bg-ddblue">
             <div class="row">
               <h2 class="text-white">Our <span class="text-green">Friends</span></h2>
               <p class="text-lblue">
@@ -178,10 +178,10 @@
               </p>
             </div>
             <div class="row mar30-top">
-              <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+              <div id="carousel-example-generic" class="carousel slide" data-ride="carousel"> -->
 
                 <!-- Wrapper for slides -->
-                <div class="carousel-inner" role="listbox">
+                <!-- <div class="carousel-inner" role="listbox">
 
                   <div class="item active">
                     <img class="" src="<?php echo get_template_directory_uri(); ?>/img/gear-logo.svg" alt="...">

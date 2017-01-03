@@ -39,7 +39,7 @@
         </div>
       </div>
       <!-- Tools -->
-      <div class="row mar20-bot">
+      <!-- <div class="row mar20-bot">
         <div class="col-sm-6">
           <div class="row video-embed-container-md">
             <video data-src-high="<?php echo get_template_directory_uri(); ?>/vid/test-render-02.mp4" type"video/mp4" autoplay muted loop data-js-init="video" src="<?php echo get_template_directory_uri(); ?>/vid/test-render-02.mp4"></video>
@@ -54,7 +54,7 @@
         </div>
       </div><!-- END: Tools -->
       <!-- Narrative -->
-      <div class="row pad60 bg-ddblue">
+      <!-- <div class="row pad60 bg-ddblue">
         <div class="col-sm-6">
           <h2 class="text-green">Play up to 20 narrative-driven missions!</h2>
           <div class="thickdiv mar10-bot mar10-top"></div>
@@ -65,7 +65,7 @@
         <div class="col-sm-6">
 
         </div>
-      </div>
+      </div> -->
       <!-- END: Narrative -->
     </div><!-- /.container -->
   </div><!-- /.container-fluid -->

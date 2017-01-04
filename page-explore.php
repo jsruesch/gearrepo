@@ -75,11 +75,11 @@
             </div><!-- END: Greg -->
           <!-- Leo -->
             <div class="col-sm-6 col-md-3 col-lg-2 pad5">
-              <a href="">
+              <a href="<?php echo get_template_directory_uri(); ?>/profile-leo">
               <div class="row portrait-container">
                 <div class="row ptext">
                   <div class="thickdiv mar10-bot"></div>
-                  <h4 class="text-green">Leonid<br />Umansky</h4>
+                  <h4 class="text-green">Leonid<br />Umanskiy</h4>
                   <p class="text-white small bold text-uppercase">Software Engineer</p>
                 </div>
                 <div class="portrait-btn none"></div>

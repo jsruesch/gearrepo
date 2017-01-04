@@ -30,11 +30,11 @@
     @include full;
     z-index:99;
     position:relative;
-    
+
     .glss{
         @include center;
         width:830px;
-        
+
         .glss_logo{
             height:95px;
             width:52px;
@@ -46,7 +46,7 @@
 }
 
 .pagewrap {
-    
+
 }
 
 a {
@@ -314,7 +314,7 @@ ul li {
     transition: opacity .25s ease-in;
     -moz-transition: opacity .25s ease-in;
     -webkit-transition: opacity .25s ease-in;
-    
+
 }
 
 .wid {
@@ -351,12 +351,29 @@ ul li {
     -webkit-transition: opacity .25s ease-in;
 }
 
+.gear{
+  height: 59px;
+  width: 59px;
+  background: url('images/gear-logo.png') no-repeat;
+  opacity: .65;
+  transition: opacity .25s ease-in;
+  -moz-transition: opacity .25s ease-in;
+  -webkit-transition: opacity .25s ease-in;
+}
+
+.gear:hover{
+  opacity: 1;
+  transition: opacity .25s ease-in;
+  -moz-transition: opacity .25s ease-in;
+  -webkit-transition: opacity .25s ease-in;
+}
+
 /* Scroll Top Button */
 
 .scrollToTop{
-width:178px; 
+width:178px;
 height:102px;
-text-align:center; 
+text-align:center;
 text-decoration: none;
 position:fixed;
 bottom:30px;
@@ -379,7 +396,3 @@ background: url('images/backtotop_b.png') no-repeat 0px 20px;
 -o-transition: background-image 0.2s ease-in-out;
 transition: background-image 0.2s ease-in-out;
 }
-
-
-
-

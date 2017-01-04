@@ -275,6 +275,21 @@ ul li {
   -moz-transition: opacity .25s ease-in;
   -webkit-transition: opacity .25s ease-in; }
 
+.gear {
+  height: 59px;
+  width: 59px;
+  background: url("images/gear-logo.png") no-repeat;
+  opacity: .65;
+  transition: opacity .25s ease-in;
+  -moz-transition: opacity .25s ease-in;
+  -webkit-transition: opacity .25s ease-in; }
+
+.gear:hover {
+  opacity: 1;
+  transition: opacity .25s ease-in;
+  -moz-transition: opacity .25s ease-in;
+  -webkit-transition: opacity .25s ease-in; }
+
 /* Scroll Top Button */
 .scrollToTop {
   width: 178px;
@@ -300,3 +315,5 @@ ul li {
   -ms-transition: background-image 0.2s ease-in-out;
   -o-transition: background-image 0.2s ease-in-out;
   transition: background-image 0.2s ease-in-out; }
+
+/*# sourceMappingURL=styles.css.map */

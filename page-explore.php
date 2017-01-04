@@ -88,14 +88,14 @@
             </div><!-- END: Leo -->
           <!-- John -->
             <div class="col-sm-6 col-md-3 col-lg-2 pad5">
-              <a href="">
+              <a href="<?php echo get_template_directory_uri(); ?>/profile-john">
               <div class="row portrait-container">
                 <div class="row ptext">
                   <div class="thickdiv mar10-bot"></div>
                   <h4 class="text-green">John<br />Karczewski</h4>
                   <p class="text-white small bold text-uppercase">Software Engineer</p>
                 </div>
-                <div class="portrait-btn none"></div>
+                <div class="portrait-btn john"></div>
               </div>
               </a>
             </div><!-- END: John -->

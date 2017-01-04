@@ -10,7 +10,7 @@ STYLESHEET CONTENTS
     -- NAVIGATION
     -- ELEMENTS
     -- FOOTER
-    
+
 -------------------------------------------------------------------*/
 /*------------------------------------------------------------------
 
@@ -179,7 +179,7 @@ ul {
   width: 1322px;
   background: url(images/top_three_sections.png);
   float: left;
-  margin: 150px 0 0 -190px;
+  margin: 200px 0 0 -190px;
   z-index: 100;
   position: relative; }
 
@@ -311,10 +311,10 @@ ul {
   z-index: 0;
   position: relative; }
   .footer_container .footer {
-    width: 700px;
+    width: 900px;
     height: 60px;
     float: left;
-    margin: 455px 0 0 350px; }
+    margin: 455px 0 0 300px; }
     .footer_container .footer p {
       width: 100%;
       float: left;
@@ -335,9 +335,9 @@ ul {
       float: left;
       margin: 0 0 0 50px; }
     .footer_container .footer .lgn_logo {
-      height: 47px;
-      width: 83px;
-      background: url(images/lgn_logo.png);
+      height: 65px;
+      width: 135px;
+      background: url(images/lgn_logo.png) no-repeat;
       float: left;
       margin: 0 0 0 53px; }
     .footer_container .footer .wid_logo {
@@ -346,5 +346,13 @@ ul {
       background: url(images/wid_logo.png);
       float: left;
       margin: 0 0 0 68px; }
+    .footer_container .footer .gear {
+      height: 59px;
+      width: 59px;
+      background: url(images/gear-logo.png);
+      float: left;
+      margin: 0 0 0 68px; }
 
 /* End Footer */
+
+/*# sourceMappingURL=style.css.map */

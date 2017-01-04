@@ -11,7 +11,7 @@ STYLESHEET CONTENTS
     -- NAVIGATION
     -- ELEMENTS
     -- FOOTER
-    
+
 -------------------------------------------------------------------*/
 
 
@@ -40,7 +40,7 @@ a{ text-decoration:none; color:white; }
     a:hover{ text-decoration:underline; }
 
 p{
-    
+
 }
 
 ul{ list-style:none; }
@@ -87,11 +87,11 @@ h5{  }
 
 .glss_container{
     @include full;
-    
+
     .glss{
         @include center;
         width:980px;
-        
+
         .glss_logo{
             height:95px;
             width:52px;
@@ -171,12 +171,12 @@ h5{  }
     height: 70px;
     float: left;
     margin: 15px 0 0 712px;
-    
+
     .thumbnails {
         width:70px;
         height:70px;
     }
-    
+
     .box1{ float:left; margin:0 0 0 20px; }
     .box2{ float:left; margin:0 0 0 31px; }
     .box3{ float:left; margin:0 0 0 31px; }
@@ -200,11 +200,11 @@ h5{  }
 header{  }
 
 .nav{
-    
+
     li{
-        
+
         a{
-            
+
         }
     }
 }
@@ -219,7 +219,7 @@ header{  }
     Elements
 
 -------------------------------------------------------------------*/
-  
+
 .element{  }
 
 .top_three_sections{
@@ -227,8 +227,8 @@ header{  }
     width:1322px;
     background:url(images/top_three_sections.png);
     float:left;
-    margin:150px 0 0 -190px;
-    
+    margin:200px 0 0 -190px;
+
     z-index:100;
     position:relative;
 }
@@ -239,18 +239,18 @@ header{  }
     background:url(images/bottom_two_sections.png);
     float:left;
     margin:-120px 0 0 -495px;
-    
+
     z-index:100;
     position:relative;
 }
 
 .textbox{
     float:left;
-    
+
     .heading{
         float:left;
         margin: 0 0 5px 0;
-        
+
         font-family:jaf-facitweb;
         color:white;
         font-size:30px;
@@ -258,17 +258,17 @@ header{  }
         text-transform:uppercase;
         letter-spacing:1px;
     }
-    
+
     .copy{
         float:left;
         margin:0 0 0 0;
-        
+
         font-family:jaf-facitweb;
         font-weight:400;
         color:#c1dafe;
         letter-spacing:.5px;
         font-size:17px;
-        
+
     }
 }
 
@@ -278,11 +278,11 @@ header{  }
         width:377px;
         float:right;
         margin: 270px 205px 0 0;
-        
+
         color:#637ca2;
         font-family:jaf-facitweb;
         font-size:15px;
-        
+
         a{
             color:#a0b6d6;
         }
@@ -297,15 +297,15 @@ header{  }
     width:317px;
     float:left;
     margin:13px 0 0 725px;
-    
+
     a:hover{ text-decoration:none; }
-    
+
     .button{
         height:38px;
         width:162px;
         background:url(images/button.png);
         margin:14px 0 14px 135px;
-        
+
         p{
             color:#637ca2;
             font-family:jaf-facitweb;
@@ -317,13 +317,13 @@ header{  }
             line-height:38px;
             text-transform:uppercase;
         }
-        
+
         &:hover{
             background:url(images/button_hover.png);
         }
-        
+
     }
-    
+
 }
 
 .wid_press{
@@ -331,17 +331,17 @@ header{  }
     width:317px;
     float:left;
     margin:13px 0 0 55px;
-    
+
     a:hover{ text-decoration:none; }
-    
+
     .button{
         height:38px;
         width:162px;
         background:url(images/button.png);
         margin:40px 0 0 135px;
-        
-        
-        
+
+
+
         p{
             color:#637ca2;
             font-family:jaf-facitweb;
@@ -353,11 +353,11 @@ header{  }
             line-height:38px;
             text-transform:uppercase;
         }
-        
+
         &:hover{
             background:url(images/button_hover.png);
         }
-        
+
     }
 }
 
@@ -376,27 +376,27 @@ header{  }
     width:1404px;
     background:url(images/bottom_planet.png);
     margin:-300px 0 0 -200px;
-    
+
     z-index:0;
     position:relative;
-    
-    
+
+
     .footer{
-        width:700px;
+        width:900px;
         height:60px;
         float:left;
-        margin:455px 0 0 350px;
-        
+        margin:455px 0 0 300px;
+
         p{
             @include full;
-            
+
             margin:30px 0 30px 0;
-            
+
             color: #637ca2;
             font-family: jaf-facitweb;
             font-size: 13px;
         }
-        
+
         .cihm_logo{
             height:51px;
             width:168px;
@@ -404,7 +404,7 @@ header{  }
             float:left;
             margin:0 0 0 0;
         }
-        
+
         .gls_logo{
             height:60px;
             width:142px;
@@ -412,15 +412,15 @@ header{  }
             float:left;
             margin:0 0 0 50px;
         }
-        
+
         .lgn_logo{
-            height:47px;
-            width:83px;
-            background:url(images/lgn_logo.png);
+            height:65px;
+            width:135px;
+            background:url(images/lgn_logo.png) no-repeat;
             float:left;
             margin:0 0 0 53px;
         }
-        
+
         .wid_logo{
             height:52px;
             width:114px;
@@ -428,21 +428,17 @@ header{  }
             float:left;
             margin:0 0 0 68px;
         }
+
+        .gear{
+            height:59px;
+            width:59px;
+            background:url(images/gear-logo.png);
+            float:left;
+            margin:0 0 0 68px;
+        }
     }
-    
-    
+
+
 }
 
 /* End Footer */
-
-
-
-
-
-
-
-
-
-
-
-

@@ -19,7 +19,7 @@
         <div class="col-sm-3 pad10-right pad10-left">
           <!-- Profile Image -->
           <div class="profile-image-container bg-ddblue">
-            <div class="keith"></div>
+            <div class="leo"></div>
             <div class="corner-tr"></div>
             <div class="corner-bl"></div>
             <div class="profile-name">

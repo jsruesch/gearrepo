@@ -82,7 +82,7 @@
                   <h4 class="text-green">Leonid<br />Umanskiy</h4>
                   <p class="text-white small bold text-uppercase">Software Engineer</p>
                 </div>
-                <div class="portrait-btn none"></div>
+                <div class="portrait-btn leo"></div>
               </div>
               </a>
             </div><!-- END: Leo -->

@@ -32,12 +32,10 @@
             <h4 class="text-dblue"><i class="fa fa-star text-white" aria-hidden="true"></i> Skills</h4>
             <div class="thickdiv mar10-bot mar10-top"></div>
             <ul class="text-dblue disc">
-              <li>Adobe Photoshop</li>
-              <li>AutoDesk Maya</li>
-              <li>Allegorithmic Substance Painter</li>
-              <li>Quixel Suite 2.0</li>
-              <li>Pixelogic zBrush</li>
-              <li>Unity 3D</li>
+              <li>C#</li>
+              <li>Unity3D</li>
+              <li>LUA</li>
+              <li>C / C++</li>
             </ul>
           </div>
         </div>
@@ -54,14 +52,12 @@
               <h4 class="text-dblue"><i class="fa fa-trophy text-white" aria-hidden="true"></i> Projects</h4>
               <div class="thickdiv mar10-bot mar10-top"></div>
               <ul class="text-dblue disc">
-                <li>Progenitor X</li>
-                <li>Fair Play</li>
-                <li>Crystals of Kaydor</li>
-                <li>Anatomy Pro-Am</li>
-                <li>EcoNauts</li>
-                <li>Xenos</li>
-                <li>DeVry Anatomy Suite</li>
                 <li>At Play in the Cosmos</li>
+                <li>Zoombinis</li>
+                <li>Econuats</li>
+                <li>Fair Play</li>
+                <li>Saint's Row: The Third</li>
+                <li>Red Faction: Armageddon</li>
               </ul>
             </div>
             <div class="col-sm-8 bg-lblue">
@@ -69,18 +65,21 @@
                 <h4 class="text-dblue"><i class="fa fa-gamepad text-white" aria-hidden="true"></i> Playing Now</h4>
                 <div class="thickdiv mar10-bot mar10-top"></div>
                 <ul class="text-dblue disc">
-                  <li>The Division</li>
+                  <li>Final Fantasy XV</li>
                   <li>World of Warcraft</li>
-                  <li>Diablo 3</li>
+                  <li>The Legend of Zelda: Twilight Princes</li>
                 </ul>
               </div>
               <div class="col-sm-6 pad30">
                 <h4 class="text-dblue"><i class="fa fa-heart text-white" aria-hidden="true"></i> Favorites</h4>
                 <div class="thickdiv mar10-bot mar10-top"></div>
                 <ul class="text-dblue disc">
-                  <li>Kid Icarus</li>
-                  <li>Final Fantasy Series</li>
+                  <li>Gunstar Heroes</li>
+                  <li>Megaman X</li>
+                  <li>The Binding of Isaac</li>
                   <li>World of Warcraft</li>
+                  <li>Final Fantasy VI</li>
+                  <li>Kingdom Hearts</li>
                 </ul>
               </div>
             </div>

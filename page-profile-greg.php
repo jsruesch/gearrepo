@@ -32,7 +32,12 @@
             <h4 class="text-dblue"><i class="fa fa-star text-white" aria-hidden="true"></i> Skills</h4>
             <div class="thickdiv mar10-bot mar10-top"></div>
             <ul class="text-dblue disc">
-              <li>C++</li>
+              <li>C#</li>
+              <li>Unity3D</li>
+              <li>NodeJS / Javascript</li>
+              <li>Maya</li>
+              <li>Photoshop</li>
+              <li>iOS / Android Development</li>
             </ul>
           </div>
         </div>
@@ -40,7 +45,7 @@
           <div class="row bg-ddblue pad30">
             <div class="row">
               <p class="text-lblue">
-                After a 10 year career freelancing as a business application programmer, Greg Vaughan formalized his self-taught education and earned his B.S in Game Development in 2011.  Greg started in the educational games space with Games+Learning+Society and stuck with that development team as they evolved into Learning Games Network, and now GEAR, as their Sr. Software Engineer.  He's shipped several games for mobile and desktop platforms and has been heavily involved in multiple open source projects.
+                After a 10 year career freelancing as a business application programmer, I formalized my self-taught education and earned my B.S in Game Development in 2011. I started in the educational games space with Games+Learning+Society and stuck with that development team as we evolved into Learning Games Network, and now GEAR, as their Lead Software Engineer. I have shipped several games for mobile and desktop platforms and have been heavily involved in multiple open source projects.
               </p>
             </div>
           </div>

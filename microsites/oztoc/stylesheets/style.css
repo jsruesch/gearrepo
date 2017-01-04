@@ -11,7 +11,7 @@ STYLESHEET CONTENTS
     -- NAVIGATION
     -- ELEMENTS
     -- FOOTER
-    
+
 -------------------------------------------------------------------*/
 /*------------------------------------------------------------------
 
@@ -246,7 +246,7 @@ footer {
   width: 98px;
   height: 98px;
   float: left;
-  margin: 70px 0 0 310px; }
+  margin: 70px 0 0 225px; }
   .nsf:hover {
     background: url(../images/footer_logo_sprite.png) no-repeat 0 -120px; }
 
@@ -267,6 +267,16 @@ footer {
   margin: 90px 0 0 60px; }
   .uw:hover {
     background: url(../images/footer_logo_sprite.png) no-repeat -275px -144px; }
+
+.gear {
+  background: url(../images/gear-logo.png) no-repeat;
+  width: 59px;
+  height: 59px;
+  float: left;
+  margin: 90px 0 0 60px;
+  opacity: .5; }
+  .gear:hover {
+    opacity: 1; }
 
 .lgn {
   background: url(../images/lgn_logo.png);

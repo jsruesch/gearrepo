@@ -12,7 +12,7 @@ STYLESHEET CONTENTS
     -- NAVIGATION
     -- ELEMENTS
     -- FOOTER
-    
+
 -------------------------------------------------------------------*/
 
 
@@ -89,9 +89,9 @@ ul{ list-style:none; }
 ol{
     li{
         @include full;
-        
+
         margin:5px 0 5px 20px;
-        
+
         font-family:verdana;
         color:#bbd9c6;
         font-size:14px;
@@ -183,7 +183,7 @@ h5.title{
 
 .container{  }
 
-.page_wrap{ width:980px; padding-top:20px; @include center; }
+.page_wrap{ width:980px; padding-top:20px; margin: 0 auto; }
 
 .main_content{ @include full; }
 
@@ -199,7 +199,7 @@ h5.title{
     margin:0 0 0 -100px;
     float:left;
     background:url(../images/green_block_section.png);
-    
+
     .video{
         height:293px;
         width:520px;
@@ -219,29 +219,29 @@ h5.title{
 
 .scientists_container{
     @include full;
-    
+
     .scientists_header{
-        
+
         h5.title{
             width:425px;
-            float:left; 
+            float:left;
         }
-        
+
         p{
             width:555px;
             float:right;
             padding:9px;
-            
+
             font-family:verdana;
             color:#bbd9c6;
             font-size:16px;
             font-weight:600;
         }
     }
-    
+
     .scientists{
         @include full;
-        
+
         height:218px;
         background:url(../images/scientists.png) no-repeat;
         margin:8px 0 0 0;
@@ -261,11 +261,11 @@ h5.title{
 header{  }
 
 .nav{
-    
+
     li{
-        
+
         a{
-            
+
         }
     }
 }
@@ -280,7 +280,7 @@ header{  }
     Elements
 
 -------------------------------------------------------------------*/
-  
+
 .element{  }
 
 .glss_container{
@@ -288,7 +288,7 @@ header{  }
 
     .glss{
         @include center;
-        
+
         .glss_logo{
             height:95px;
             width:52px;
@@ -318,41 +318,54 @@ footer{
 
     .nsf{
         background: url(../images/footer_logo_sprite.png) no-repeat 0 0;
-	width: 98px;
-	height: 98px;
+      	width: 98px;
+      	height: 98px;
         float:left;
-        margin:70px 0 0 310px;
-        
+        margin:70px 0 0 225px;
+
         &:hover{
             background: url(../images/footer_logo_sprite.png) no-repeat 0 -120px;
         }
-        
+
     }
-    
+
     .nysci{
         background: url(../images/footer_logo_sprite.png) no-repeat -135px -19px;
 	width: 99px;
 	height: 60px;
         float:left;
         margin:85px 0 0 60px;
-        
+
         &:hover{
             background: url(../images/footer_logo_sprite.png) no-repeat -135px -139px;
         }
     }
-    
+
     .uw{
         background: url(../images/footer_logo_sprite.png) no-repeat -275px -24px;
-	width: 148px;
-	height: 51px;
+      	width: 148px;
+      	height: 51px;
         float:left;
         margin:90px 0 0 60px;
-        
+
        &:hover{
             background: url(../images/footer_logo_sprite.png) no-repeat -275px -144px;
-        } 
+        }
     }
-    
+
+    .gear{
+        background: url(../images/gear-logo.png) no-repeat;
+      	width: 59px;
+      	height: 59px;
+        float:left;
+        margin:90px 0 0 60px;
+        opacity: .5;
+
+       &:hover{
+            opacity: 1;
+        }
+    }
+
     .lgn{
         background: url(../images/lgn_logo.png);
         opacity:.5;
@@ -360,22 +373,10 @@ footer{
         height: 57px;
         float:left;
         margin:95px 0 0 60px;
-        
+
         &:hover{
             opacity:1;
         }
     }
 
 /* End Footer */
-
-
-
-
-
-
-
-
-
-
-
-

@@ -29,11 +29,11 @@
 
 .glss_container{
     @include full;
-    
+
     .glss{
         @include center;
         width:830px;
-        
+
         .glss_logo{
             height:95px;
             width:52px;
@@ -50,7 +50,7 @@
 
 .clear {
   clear: both; }
-  
+
 .left {
     float: left;
 }
@@ -68,17 +68,17 @@ html, body {
 }
 
 html {
-background: url('images/background_wood_texture.jpg') no-repeat center center fixed; 
+background: url('images/background_wood_texture.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 
-.pagewrap {  
+.pagewrap {
     min-height: 100%;
     /* equal to footer height */
-    margin-bottom: -430px;   
+    margin-bottom: -430px;
 }
 
 .pagewrap:after {
@@ -88,7 +88,7 @@ background: url('images/background_wood_texture.jpg') no-repeat center center fi
 
 .site-footer, .page-wrap:after {
   /* .push must be the same height as footer */
-  height: 430px; 
+  height: 430px;
 }
 
 .site-footer {
@@ -138,7 +138,7 @@ background: url('images/background_wood_texture.jpg') no-repeat center center fi
     background-repeat: no-repeat;
     height: 485px;
     width: 960px;
-    
+
     iframe{
         float:left;
         margin:40px 0 0 140px;
@@ -162,7 +162,7 @@ background: url('images/background_wood_texture.jpg') no-repeat center center fi
     background-image: url('images/collect_game_data.png');
     background-repeat: no-repeat;
     height: 265px;
-    width: 961px;  
+    width: 961px;
 }
 
 #space_filler {
@@ -247,19 +247,20 @@ background: url('images/background_wood_texture.jpg') no-repeat center center fi
 #bottom_logos_holder {
     position: relative;
     top: 295px;
-    width: 761px;
+    width: 900px;
     height: 96px;
     margin: 0 auto;
 }
 
 #logos {
-    width: 742px;
+    width: 900px;
     height: 83px;
 }
 
 .gls {
+  margin-left: 60px; 
     display: inline;
-    background: url('images/footer_logo_sprite.png') no-repeat -10px -12px;
+    background: url('images/footer_logo_sprite.png') no-repeat -10px -85px;
     width: 139px;
     height: 59px;
     opacity: .65;
@@ -268,23 +269,19 @@ background: url('images/background_wood_texture.jpg') no-repeat center center fi
     -webkit-transition: opacity .25s ease-in-out;
 }
 
-.gls:hover {
-    background: url('images/footer_logo_sprite.png') no-repeat -10px -85px;
-    width: 139px;
-    height: 59px;
-    opacity: 1;
-}
+// .gls:hover {
+//     background: url('images/footer_logo_sprite.png') no-repeat -10px -85px;
+//     width: 139px;
+//     height: 59px;
+//     opacity: 1;
+// }
 
 .lgn {
     margin-left: 30px;
     display: inline;
-    background: url('images/footer_logo_sprite.png') no-repeat -176px -17px;
+    background: url('images/footer_logo_sprite.png') no-repeat -176px -90px;
     width: 90px;
     height: 51px;
-    opacity: .65;
-     transition: opacity .25s ease-in-out;
-    -moz-transition: opacity .25s ease-in-out;
-    -webkit-transition: opacity .25s ease-in-out;
 }
 
 .lgn:hover {
@@ -297,58 +294,54 @@ background: url('images/background_wood_texture.jpg') no-repeat center center fi
 .wid {
     margin-left: 30px;
     display: inline;
-    background: url('images/footer_logo_sprite.png') no-repeat -295px -16px;
-    width: 115px;
-    height: 53px;
-    opacity: .65;
-    transition: opacity .25s ease-in-out;
-    -moz-transition: opacity .25s ease-in-out;
-    -webkit-transition: opacity .25s ease-in-out;
-}
-
-.wid:hover {
     background: url('images/footer_logo_sprite.png') no-repeat -295px -89px;
     width: 115px;
     height: 53px;
-    opacity: 1;
 }
+//
+// .wid:hover {
+//     background: url('images/footer_logo_sprite.png') no-repeat -295px -89px;
+//     width: 115px;
+//     height: 53px;
+//     opacity: 1;
+// }
 
 .nsf {
     margin-left: 30px;
     display: inline;
-    background: url('images/footer_logo_sprite.png') no-repeat -432px -6px;
-    width: 67px;
-    height: 66px;
-    opacity: .65;
-     transition: opacity .25s ease-in-out;
-    -moz-transition: opacity .25s ease-in-out;
-    -webkit-transition: opacity .25s ease-in-out;
-}
-
-.nsf:hover {
     background: url('images/footer_logo_sprite.png') no-repeat -432px -79px;
     width: 67px;
     height: 66px;
-    opacity: 1;
 }
+//
+// .nsf:hover {
+//     background: url('images/footer_logo_sprite.png') no-repeat -432px -79px;
+//     width: 67px;
+//     height: 66px;
+//     opacity: 1;
+// }
 
 .uw {
     margin-left: 30px;
+    margin-right: 40px;
     display: inline;
-    background: url('images/footer_logo_sprite.png') no-repeat -527px -10px;
-    width: 206px;
-    height: 59px;
-    opacity: .65;
-    transition: opacity .25s ease-in-out;
-    -moz-transition: opacity .25s ease-in-out;
-    -webkit-transition: opacity .25s ease-in-out;
-}
-
-.uw:hover {
     background: url('images/footer_logo_sprite.png') no-repeat -527px -83px;
     width: 206px;
     height: 59px;
-    opacity: 1;
+}
+//
+// .uw:hover {
+//     background: url('images/footer_logo_sprite.png') no-repeat -527px -83px;
+//     width: 206px;
+//     height: 59px;
+//     opacity: 1;
+// }
+
+.gear{
+  height: 59px;
+  width: 59px;
+  background: url('images/gear-logo.png') no-repeat;
+  float: left;
 }
 
 /* Download Buttons */
@@ -370,7 +363,7 @@ background: url('images/background_wood_texture.jpg') no-repeat center center fi
 }
 
 ul#buttons li {
-    margin: 5px;   
+    margin: 5px;
     display: inline;
     float: left;
 }
@@ -409,7 +402,7 @@ ul#buttons li {
 width: 913px;
 height: 442px;
 }
-        
+
 .dots {
 position: absolute;
 left: 0;
@@ -480,9 +473,9 @@ list-style-type: decimal;
 /* Scroll Top Button */
 
 .scrollToTop{
-width:200px; 
+width:200px;
 height:125px;
-text-align:center; 
+text-align:center;
 text-decoration: none;
 position:fixed;
 bottom:0px;
@@ -510,8 +503,8 @@ transition: background-image 0.2s ease-in-out;
 
 /* Mobile */
 
-@media (-webkit-min-device-pixel-ratio: 2), 
-(min-resolution: 192dpi) { 
+@media (-webkit-min-device-pixel-ratio: 2),
+(min-resolution: 192dpi) {
 
     html {
     -webkit-background-size: 100% 100%;

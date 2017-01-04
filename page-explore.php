@@ -101,14 +101,14 @@
             </div><!-- END: John -->
           <!-- Keith -->
             <div class="col-sm-6 col-md-3 col-lg-2 pad5">
-              <a href="">
+              <a href="<?php echo get_template_directory_uri(); ?>/profile-keith">
               <div class="row portrait-container">
                 <div class="row ptext">
                   <div class="thickdiv mar10-bot"></div>
                   <h4 class="text-green">Keith<br />Decker</h4>
                   <p class="text-white small bold text-uppercase">Software Engineer</p>
                 </div>
-                <div class="portrait-btn none"></div>
+                <div class="portrait-btn keith"></div>
               </div>
               </a>
             </div><!-- END: Keith -->

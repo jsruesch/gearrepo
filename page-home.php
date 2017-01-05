@@ -51,6 +51,7 @@
           <!--
             BEGIN: Featured Post
           -->
+          <a href="<?php echo get_template_directory_uri(); ?>/at-play-in-the-cosmos">
             <div class="row mar20-bot">
                 <div class="recent-release-img-container">
                     <img src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/featured-image-cosmos-01.png"/>
@@ -64,6 +65,7 @@
                     </div>
                 </div>
             </div>
+          </a>
           <!-- END: Featured Post -->
         <div class="row mar60-top mar60-bot">
             <h2 class="text-green"><span class="text-white">Seven Years</span> in the making</h2>

@@ -15,7 +15,7 @@
     <!--
       BEGIN: UNIFIED VISION
       -->
-      <div class="row bg-fill-new-vision mar30-bot">
+      <div class="row bg-fill-unified-vision mar30-bot">
         <div class="col-sm-6 col-sm-offset-6 bg-green pad60">
           <h1 class="text-white">Born of a <br /> unified vision</h1>
           <div class="thickdiv mar10-bot mar10-top"></div>

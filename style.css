@@ -38,7 +38,10 @@ Version: 1
 .text-dblue {
   color: #101319 !important; }
 
-.text-dblue {
+.text-mblue {
+  color: #337ab7 !important; }
+
+.text-ddblue {
   color: #05070d !important; }
 
 .text-white {
@@ -55,6 +58,9 @@ Version: 1
 
 .bg-dblue {
   background: #101319; }
+
+.bg-mblue {
+  background: #337ab7; }
 
 .bg-ddblue {
   background: #05070d; }
@@ -344,7 +350,10 @@ h1, h2, h3, h4, h5, p {
 .text-dblue {
   color: #101319 !important; }
 
-.text-dblue {
+.text-mblue {
+  color: #337ab7 !important; }
+
+.text-ddblue {
   color: #05070d !important; }
 
 .text-white {
@@ -361,6 +370,9 @@ h1, h2, h3, h4, h5, p {
 
 .bg-dblue {
   background: #101319; }
+
+.bg-mblue {
+  background: #337ab7; }
 
 .bg-ddblue {
   background: #05070d; }
@@ -765,7 +777,7 @@ p {
     -o-transition: all 0.2s ease;
     box-shadow: none;
     padding-bottom: 3px;
-    color: #ffffff; }
+    color: #337ab7; }
     p a:hover {
       -webkit-transition: all 0.2s ease;
       -moz-transition: all 0.2s ease;

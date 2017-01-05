@@ -31,6 +31,7 @@
  $ogreen:  rgba(135,184,64,.1);;
  $lblue:   #a3aaba;
  $dblue:   #101319;
+ $mblue:   #337ab7;
  $ddblue:  #05070d;
  $white:   #ffffff;
  $grey:    #333333;
@@ -47,13 +48,15 @@
  .text-green{ color: $green !important; }
  .text-lblue{ color: $lblue !important; }
  .text-dblue{ color: $dblue !important; }
- .text-dblue{ color: $ddblue !important; }
+ .text-mblue{ color: $mblue !important; }
+ .text-ddblue{ color:$ddblue !important; } 
  .text-white{ color: $white !important; }
 
  .bg-green{   background: $green; }
  .bg-ogreen{  background: $ogreen; }
  .bg-lblue{   background: $lblue; }
  .bg-dblue{   background: $dblue; }
+ .bg-mblue{   background: $mblue; }
  .bg-ddblue{  background: $ddblue; }
  .bg-white{   background: $white; }
 

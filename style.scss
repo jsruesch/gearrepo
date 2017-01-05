@@ -267,8 +267,13 @@ iframe{ width: 100%; }
   display: none;
   width: 100%;
 
+  .navbtn{
+    position: absolute;
+    right: 0;
+  }
   .well{
     width: 100%;
+    float: left;
     position: absolute;
     margin: 0 !important;
     top: 60px;
@@ -277,7 +282,9 @@ iframe{ width: 100%; }
     background: #000 !important;
     border: none !important;
 
-    nav ul li{ @include full; }
+    nav,
+    nav ul,
+    nav ul li,{ @include full; }
     nav ul li a{
       @include full;
       box-shadow: inset 0px 1px 0px $grey;

@@ -982,8 +982,12 @@ iframe {
 .mobile-dropdown {
   display: none;
   width: 100%; }
+  .mobile-dropdown .navbtn {
+    position: absolute;
+    right: 0; }
   .mobile-dropdown .well {
     width: 100%;
+    float: left;
     position: absolute;
     margin: 0 !important;
     top: 60px;
@@ -991,6 +995,8 @@ iframe {
     padding: 0 !important;
     background: #000 !important;
     border: none !important; }
+    .mobile-dropdown .well nav,
+    .mobile-dropdown .well nav ul,
     .mobile-dropdown .well nav ul li {
       width: 100%;
       float: left; }

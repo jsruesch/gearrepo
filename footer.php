@@ -11,8 +11,8 @@
 			</div>
 			<div class="row">
 				<p class="text-lblue small">
-					Educational Sciences Room 146, 1025 West Johnson Street <br/>Madison, WI 53706<i class="fa fa-circle small-icon" aria-hidden="true"></i>
-				 	Ph: 555-555-5555
+					Educational Sciences Room 146, 1025 West Johnson Street <br/>Madison, WI 53706
+					<!-- <i class="fa fa-circle small-icon" aria-hidden="true"></i> Ph: 555-555-5555 -->
 				</p>
 			</div>
 			<div class="row">

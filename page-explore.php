@@ -287,7 +287,7 @@
         <!--
           BEGIN: CHANGE LEARNING
           -->
-          <div class="row bg-fill-new-vision mar30-top">
+          <div class="row bg-fill-together mar30-top">
             <div class="col-sm-6 col-sm-offset-6 bg-green pad60">
               <h1 class="text-white">Let's Change<br /> Learning Together</h1>
               <div class="thickdiv mar10-bot mar10-top"></div>

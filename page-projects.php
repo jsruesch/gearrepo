@@ -32,7 +32,7 @@
         </div><!-- END: At Play in the Cosmos -->
         <!-- Econauts -->
         <div class="col-sm-6 pad10">
-          <a href="../gearrepo/microsites/econauts/" target="_blank">
+          <a href="<?php echo get_template_directory_uri(); ?>/microsites/econauts/" target="_blank">
             <div class="row selproj-btn">
               <div class="row project-page-image">
                 <img src="<?php echo get_template_directory_uri(); ?>/img/projects/econauts/project-page-image-econauts-01.png"/>

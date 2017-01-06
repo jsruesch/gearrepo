@@ -297,7 +297,7 @@
                 </p>
               </div>
               <div class="row mar20-top">
-                <a class="blue-btn" href="<?php echo get_template_directory_uri(); ?>/contact">Drop us a Line!</a>
+                <a class="blue-btn" href="/contact">Drop us a Line!</a>
               </div>
             </div>
           </div>

@@ -49,7 +49,7 @@
         <div class="row">
         <!-- Mike -->
           <div class="col-sm-6 col-md-3 col-lg-2 pad5">
-            <a href="<?php echo get_template_directory_uri(); ?>/profile-mike">
+            <a href="/profile-mike">
             <div class="row portrait-container">
               <div class="row ptext">
                 <div class="thickdiv mar10-bot"></div>
@@ -62,7 +62,7 @@
           </div><!-- END: Mike -->
           <!-- Greg -->
             <div class="col-sm-6 col-md-3 col-lg-2 pad5">
-              <a href="<?php echo get_template_directory_uri(); ?>/profile-greg">
+              <a href="/profile-greg">
               <div class="row portrait-container">
                 <div class="row ptext">
                   <div class="thickdiv mar10-bot"></div>
@@ -75,7 +75,7 @@
             </div><!-- END: Greg -->
           <!-- Leo -->
             <div class="col-sm-6 col-md-3 col-lg-2 pad5">
-              <a href="<?php echo get_template_directory_uri(); ?>/profile-leo">
+              <a href="/profile-leo">
               <div class="row portrait-container">
                 <div class="row ptext">
                   <div class="thickdiv mar10-bot"></div>
@@ -88,7 +88,7 @@
             </div><!-- END: Leo -->
           <!-- John -->
             <div class="col-sm-6 col-md-3 col-lg-2 pad5">
-              <a href="<?php echo get_template_directory_uri(); ?>/profile-john">
+              <a href="/profile-john">
               <div class="row portrait-container">
                 <div class="row ptext">
                   <div class="thickdiv mar10-bot"></div>
@@ -101,7 +101,7 @@
             </div><!-- END: John -->
           <!-- Keith -->
             <div class="col-sm-6 col-md-3 col-lg-2 pad5">
-              <a href="<?php echo get_template_directory_uri(); ?>/profile-keith">
+              <a href="/profile-keith">
               <div class="row portrait-container">
                 <div class="row ptext">
                   <div class="thickdiv mar10-bot"></div>
@@ -114,7 +114,7 @@
             </div><!-- END: Keith -->
           <!-- Sarah -->
             <div class="col-sm-6 col-md-3 col-lg-2 pad5">
-              <a href="<?php echo get_template_directory_uri(); ?>/profile-sarah">
+              <a href="/profile-sarah">
               <div class="row portrait-container">
                 <div class="row ptext">
                   <div class="thickdiv mar10-bot"></div>
@@ -127,7 +127,7 @@
             </div><!-- END: Sarah -->
           <!-- Jason -->
             <div class="col-sm-6 col-md-3 col-lg-2 pad5">
-              <a href="<?php echo get_template_directory_uri(); ?>/profile-jason">
+              <a href="/profile-jason">
               <div class="row portrait-container">
                 <div class="row ptext">
                   <div class="thickdiv mar10-bot"></div>
@@ -140,7 +140,7 @@
             </div><!-- END: Jason -->
           <!-- Jake -->
             <div class="col-sm-6 col-md-3 col-lg-2 pad5">
-              <a href="<?php echo get_template_directory_uri(); ?>/profile-jake">
+              <a href="/profile-jake">
               <div class="row portrait-container">
                 <div class="row ptext">
                   <div class="thickdiv mar10-bot"></div>
@@ -153,7 +153,7 @@
             </div><!-- END: Jake -->
           <!-- Josephine -->
             <div class="col-sm-6 col-md-3 col-lg-2 pad5">
-              <a href="<?php echo get_template_directory_uri(); ?>/profile-josephine">
+              <a href="/profile-josephine">
               <div class="row portrait-container">
                 <div class="row ptext">
                   <div class="thickdiv mar10-bot"></div>

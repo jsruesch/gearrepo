@@ -178,19 +178,18 @@
               </p>
             </div>
             <div class="row mar30-top">
-              <div id="carousel-example-generic" class="carousel slide" data-ride="carousel"> -->
+              <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 
-                <!-- Wrapper for slides -->
-                <!-- <div class="carousel-inner" role="listbox">
+                <div class="carousel-inner" role="listbox">
 
                   <div class="item active">
-                    <img class="" src="<?php echo get_template_directory_uri(); ?>/img/gear-logo.svg" alt="...">
+                    <img class="center-block" src="<?php echo get_template_directory_uri(); ?>/img/testimonials/testimonial-chuck-01.png" alt="Dr. Charles Hutchison, DeVry Education Group, Academic Technology Solutions & Services Unit">
                     <div class="carousel-caption">
                       <p class="text-white text-center">
-                        <b>"</b>These guys sure are swell. They also have zazz!<b>"</b>
+                        <b>"</b> What a great group of folks to work with!  Extremely talented, efficient and professional.  They MAKE IT HAPPEN! <b>"</b>
                       </p>
                       <p class="text-lblue small text-center">
-                        <em>- First Last, DeVry Univeristy</em>
+                        <em>- Dr. Charles Hutchison, DeVry Education Group, Academic Technology Solutions & Services Unit</em>
                       </p>
                     </div>
                   </div>
@@ -282,7 +281,8 @@
                 </p>
               </div>
             </div>
-          </div><!-- END: Header -->
+          </div> -->
+          <!-- END: Header -->
         <!-- END: TESTIMONIALS -->
         <!--
           BEGIN: CHANGE LEARNING

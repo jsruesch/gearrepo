@@ -51,7 +51,7 @@
           <!--
             BEGIN: Featured Post
           -->
-          <a href="<?php echo get_template_directory_uri(); ?>/at-play-in-the-cosmos">
+          <a href="/at-play-in-the-cosmos">
             <div class="row mar20-bot">
                 <div class="recent-release-img-container">
                     <img src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/featured-image-cosmos-01.png"/>

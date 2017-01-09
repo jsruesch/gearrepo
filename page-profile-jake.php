@@ -42,9 +42,14 @@
             </ul>
           </div>
           <div class="row bg-ddblue">
-            <div class="col-sm-12">
+            <div class="col-sm-6">
               <div class="profile-link-button">
                 <a class="text-center btn-gen" href="http://jsruesch.com" target="_blank"><i class="fa fa-globe" aria-hidden="true"></i></a>
+              </div>
+            </div>
+            <div class="col-sm-6">
+              <div class="profile-link-button">
+                <a class="text-center btn-gen" href="mailto:jake@gearlearning.org" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
               </div>
             </div>
           </div>

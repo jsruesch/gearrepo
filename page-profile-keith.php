@@ -36,6 +36,13 @@
               <li>C#</li>
             </ul>
           </div>
+          <div class="row bg-ddblue">
+            <div class="col-sm-12">
+              <div class="profile-link-button">
+                <a class="text-center btn-gen" href="mailto:keith@gearlearning.org" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+              </div>
+            </div>
+          </div>
         </div>
         <div class="col-sm-9 pad10-right pad10-left">
           <div class="row bg-ddblue pad30">

@@ -16,7 +16,7 @@
       <div class="row">
         <!-- At Play in the Cosmos -->
         <div class="col-sm-6 pad10">
-          <a href="/at-play-in-the-cosmos">
+          <a href="at-play-in-the-cosmos">
             <div class="row selproj-btn">
               <div class="row project-page-image">
                 <img src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/project-page-image-cosmos-01.png"/>

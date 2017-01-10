@@ -62,7 +62,7 @@
           </div><!-- END: Mike -->
           <!-- Greg -->
             <div class="col-sm-6 col-md-3 col-lg-2 pad5">
-              <a href="/profile-greg">
+              <a href="profile-greg">
               <div class="row portrait-container">
                 <div class="row ptext">
                   <div class="thickdiv mar10-bot"></div>

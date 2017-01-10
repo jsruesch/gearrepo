@@ -43,7 +43,6 @@
 			<?php else : ?>
 				<h2>Nothing found</h2>
 			<?php endif; ?>
-			<?php the_excerpt() ;?>
 		</div><!-- /.bg-white -->
 	</div>
 </div>

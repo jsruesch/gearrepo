@@ -48,7 +48,7 @@
         </div><!-- Econauts -->
         <!-- Oztoc Expedition -->
         <div class="col-sm-6 pad10">
-          <a href="./microsites/oztoc/" target="_blank">
+          <a href="http://www.gearlearning.org/microsites/oztoc/" target="_blank">
             <div class="row selproj-btn">
               <div class="row project-page-image">
                 <img src="<?php echo get_template_directory_uri(); ?>/img/projects/oztoc/project-page-image-oztoc-01.png"/>

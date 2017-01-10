@@ -26,7 +26,7 @@
 				<h1 class="pagetitle text-green pad20-bot"><span class="text-white">Blog</span> Archives</h1>
 			<?php } ?>
 
-			<div class="row pad20 bg-white">
+			<div class="row pad20-left pad20-right bg-white">
 				<?php include (TEMPLATEPATH . '/inc/nav.php' ); ?>
 				<?php while (have_posts()) : the_post(); ?>
 					<div <?php post_class() ?>>

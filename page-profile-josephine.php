@@ -43,7 +43,7 @@
           <div class="row bg-ddblue">
             <div class="col-sm-4">
               <div class="profile-link-button">
-                <a class="btn-gen" href="www.JosAllen.com" target="_blank"><i class="fa fa-globe" aria-hidden="true"></i></a>
+                <a class="btn-gen" href="http://www.JosAllen.com" target="_blank"><i class="fa fa-globe" aria-hidden="true"></i></a>
               </div>
             </div>
             <div class="col-sm-4">

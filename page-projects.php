@@ -32,7 +32,7 @@
         </div><!-- END: At Play in the Cosmos -->
         <!-- Econauts -->
         <div class="col-sm-6 pad10">
-          <a href="<?php echo get_template_directory_uri(); ?>/microsites/econauts/" target="_blank">
+          <a href="http://www.gearlearning.org/microsites/econauts/" target="_blank">
             <div class="row selproj-btn">
               <div class="row project-page-image">
                 <img src="<?php echo get_template_directory_uri(); ?>/img/projects/econauts/project-page-image-econauts-01.png"/>
@@ -64,7 +64,7 @@
         </div><!-- END: Oztoc Expedition -->
         <!-- Progenitor X -->
         <div class="col-sm-6 pad10">
-          <a href="<?php echo get_template_directory_uri(); ?>/microsites/progenitor/" target="_blank">
+          <a href="http://www.gearlearning.org/microsites/progenitor/" target="_blank">
             <div class="row selproj-btn">
               <div class="row project-page-image">
                 <img src="<?php echo get_template_directory_uri(); ?>/img/projects/progenitor/project-page-image-progenitor-01.png"/>
@@ -80,7 +80,7 @@
         </div><!-- END: Progenitor X -->
         <!-- Crystals of Kaydor -->
         <div class="col-sm-6 pad10">
-          <a href="<?php echo get_template_directory_uri(); ?>/microsites/kaydor/" target="_blank">
+          <a href="http://www.gearlearning.org/microsites/kaydor/" target="_blank">
             <div class="row selproj-btn">
               <div class="row project-page-image">
                 <img src="<?php echo get_template_directory_uri(); ?>/img/projects/crystals/project-page-image-crystals-01.png"/>
@@ -176,7 +176,7 @@
         </div><!-- END: Fair Play -->
         <!-- Soul of a Place -->
         <div class="col-sm-6 pad10">
-         <a href="<?php echo get_template_directory_uri(); ?>/microsites/soul/" target="_blank">
+         <a href="http://www.gearlearning.org/microsites/soul/" target="_blank">
             <div class="row selproj-btn">
               <div class="row project-page-image">
                 <img src="<?php echo get_template_directory_uri(); ?>/img/projects/soul/project-page-image-soul-01.png"/>
@@ -192,7 +192,7 @@
         </div><!-- END: Soul of a Place -->
         <!-- At Play in the Cosmos -->
         <div class="col-sm-6 pad10">
-          <a href="<?php echo get_template_directory_uri(); ?>/microsites/virulent/" target="_blank">
+          <a href="http://www.gearlearning.org/microsites/virulent/" target="_blank">
             <div class="row selproj-btn">
               <div class="row project-page-image">
                 <img src="<?php echo get_template_directory_uri(); ?>/img/projects/virulent/project-page-image-virulent-01.png"/>

@@ -784,6 +784,10 @@ textarea{
  * =========================================
  */
 
+ .footer-sm-buttons{
+   display: none;
+ }
+
 .footer-container{
   width: 100%;
   position: absolute;
@@ -792,6 +796,10 @@ textarea{
   border-top: 3px solid $green;
   text-align: center;
   padding: 60px 0 30px 0;
+
+  .footer-sm-buttons{
+    display: block;
+  }
 
   .footer-logo{ max-width: 75px;}
   .small-icon{
@@ -808,6 +816,7 @@ textarea{
       font-weight: 500;
       font-size: 12px;
       color: $lblue;
+      line-height: 20px;
 
       &:hover{
         color: $white;
@@ -816,5 +825,7 @@ textarea{
     }
   }
 }
+
+
 
 /* END: Footer */

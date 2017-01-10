@@ -9,7 +9,7 @@
 			<div class="row mar20-bot">
 				<h3 class="text-green">GEAR Learning</h3>
 			</div>
-			<div class="row">
+			<div class="row mar20-bot">
 				<p class="text-lblue small">
 					Educational Sciences Room 146, 1025 West Johnson Street <br/>Madison, WI 53706
 					<!-- <i class="fa fa-circle small-icon" aria-hidden="true"></i> Ph: 555-555-5555 -->
@@ -37,6 +37,6 @@
 	  ga('create', 'UA-89927946-1', 'auto');
 	  ga('send', 'pageview');
 	</script>
-	
+
 </body>
 </html>

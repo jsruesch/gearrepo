@@ -763,6 +763,83 @@ textarea{
 }
  /* END: Projects */
 
+
+/**
+ * =========================================
+ * Timeline Styles
+ * =========================================
+ */
+
+ .timeline-dropdown{
+  @include full;
+  z-index: 9;
+  position: absolute;
+
+  button{
+    @include transition;
+    width: 100%;
+    background: $green;
+    padding: 20px;
+    border: none;
+
+    &:hover{ @include transition; background: $lgreen; }
+    &[aria-expanded="false"]{  .fa-caret-up{ display: none; }}
+    &[aria-expanded="true"]{   .fa-caret-down{ display: none; }}
+
+    i{
+      color: $white;
+      font-size: 18px;
+      float: right;
+    }
+
+    h5{ float: left; }
+   }
+   .well{
+    position: absolute;
+    padding: 0;
+    background: #000;
+    border-radius: 0;
+    border: none;
+
+    nav,
+    nav ul,
+    nav ul li,{ @include full; }
+    nav ul li a{
+      @include full;
+      @include transition;
+
+      padding: 10px 0;
+      border-bottom: 1px solid $dblue;
+      color: $white;
+      font-family: Montserrat,sans-serif!important;
+      font-weight: 800!important;
+      letter-spacing: .5px;
+      text-transform: uppercase;
+      font-size: 15px;
+      text-align: center;
+
+      &:hover{ @include transition; background: $lblue; }
+    }
+   }
+ }
+
+ #yr-09{
+  display: table;
+ }
+
+.year-container{
+  display: table-cell;
+  vertical-align: top;
+  background: $green;
+
+  .year{
+    height: 100%;
+  }
+}
+
+ /* END: Timeline Styles */
+
+
 /**
  * =========================================
  * Share Me Overrides

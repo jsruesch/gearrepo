@@ -10,7 +10,6 @@
 <!--
   BEGIN: Main Content
 -->
-
   <div class="container-fluid mar10-top mar20-bot pad30-left pad30-right">
     <div class="container">
       <div class="row">
@@ -240,7 +239,6 @@
         </div><!-- END: At Play in the Cosmos -->
       </div>
     <!-- END: UNIFIED VISION -->
-
     </div><!-- /.container -->
   </div><!-- /.container-fluid -->
 <!-- END: Main Content -->

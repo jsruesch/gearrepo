@@ -824,16 +824,49 @@ textarea{
  }
 
  #yr-09{
-  display: table;
+   display: table;
  }
 
 .year-container{
-  display: table-cell;
-  vertical-align: top;
+  @include full;
   background: $green;
+  display: table-cell;
+  height: 100%;
 
   .year{
+    @include full;
+    position: relative;
     height: 100%;
+    border-right: 5px solid $white;
+
+    .yr-dot{
+      right: -18px;
+      top: 50%;
+      bottom: 50%;
+      transform: translateY(-50%);
+      position: absolute;
+      z-index: 9;
+      height: 30px;
+      width: 30px;
+      border-radius: 15px;
+      background: $dblue;
+      border: 5px solid $white;
+    }
+  }
+}
+
+.timeline-img{
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.timeline-img-grid-container{
+  display: table;
+  
+
+  .timeline-img-grid{
+    display: table-cell;
+    min-height: 100%;
   }
 }
 

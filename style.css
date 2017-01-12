@@ -83,7 +83,8 @@ Version: 1
 .col-sm-6,
 .col-sm-4,
 .col-sm-3,
-.col-md-3 {
+.col-md-3,
+.col-sm-2 {
   padding-top: 0px !important;
   padding-right: 0px !important;
   padding-bottom: 0px !important;
@@ -401,7 +402,8 @@ h1, h2, h3, h4, h5, p {
 .col-sm-6,
 .col-sm-4,
 .col-sm-3,
-.col-md-3 {
+.col-md-3,
+.col-sm-2 {
   padding-top: 0px !important;
   padding-right: 0px !important;
   padding-bottom: 0px !important;
@@ -1488,11 +1490,39 @@ textarea {
   display: table; }
 
 .year-container {
+  width: 100%;
+  float: left;
+  background: #87b840;
   display: table-cell;
-  vertical-align: top;
-  background: #87b840; }
+  height: 100%; }
   .year-container .year {
-    height: 100%; }
+    width: 100%;
+    float: left;
+    position: relative;
+    height: 100%;
+    border-right: 5px solid #ffffff; }
+    .year-container .year .yr-dot {
+      right: -18px;
+      top: 50%;
+      bottom: 50%;
+      transform: translateY(-50%);
+      position: absolute;
+      z-index: 9;
+      height: 30px;
+      width: 30px;
+      border-radius: 15px;
+      background: #101319;
+      border: 5px solid #ffffff; }
+
+.timeline-img {
+  max-height: 100%;
+  max-width: 100%; }
+
+.timeline-img-grid-container {
+  display: table; }
+  .timeline-img-grid-container .timeline-img-grid {
+    display: table-cell;
+    min-height: 100%; }
 
 /* END: Timeline Styles */
 /**

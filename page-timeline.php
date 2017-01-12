@@ -51,22 +51,87 @@
 
         <!-- 2009 -->
         <div id="yr-09" class="row mar20-bot mar20-top pad20">
-          <div class="col-sm-2 pad20 year-container">
+          <div class="col-sm-2  year-container">
             <div class="year">
               <h4 class="text-center text-white">2009</h4>
+              <div class="yr-dot"></div>
             </div>
           </div>
           <div class="col-sm-10 bg-ddblue pad20">
             <div class="row">
-              <p class="text-lblue">
-                Mike Beall starts working with Kurt Squire and Rich Halverson at (Games+Learning+Society) GLS and the Education Research Challenge Area (ERCA) at the Morgridge Institute for Research
-              </p>
+              <div class="row mar10-bot">
+                <p class="text-lblue">
+                  Mike Beall starts working with Kurt Squire and Rich Halverson at (Games+Learning+Society) GLS and the Education Research Challenge Area (ERCA) at the Morgridge Institute for Research
+                </p>
+              </div>
+              <div class="row">
+                <div class="col-sm-3 col-xs-6 pad10">
+                    <img class="center-block timeline-img" src="<?php echo get_template_directory_uri(); ?>/img/timeline/portraits/timeline-mike.png"/>
+                </div>
+                <div class="col-sm-3 col-xs-6 pad10">
+                    <img class="center-block timeline-img" src="<?php echo get_template_directory_uri(); ?>/img/timeline/portraits/timeline-kurt.png"/>
+                </div>
+                <div class="col-sm-3 col-xs-6 pad10">
+                    <img class="center-block timeline-img" src="<?php echo get_template_directory_uri(); ?>/img/timeline/portraits/timeline-rich.png"/>
+                </div>
+                <div class="col-sm-3 col-xs-6 pad10">
+                    <img class="center-block timeline-img" src="<?php echo get_template_directory_uri(); ?>/img/timeline/logos/morgridge-logo.png"/>
+                </div>
+              </div>
             </div>
-            <div class="row">
-              <h5 class="text-lblue">Game Release:</h5>
+            <div class="row mar20-top mar10-bot">
+              <h5 class="text-white">Game Release:</h5>
+            </div>
+            <div class="row pad30-top pad30-bot bg-dblue">
+              <img class="center-block timeline-img" src="<?php echo get_template_directory_uri(); ?>/img/timeline/logos/virulent-logo.png"/>
             </div>
           </div>
         </div><!-- END: 2009 -->
+
+        <div class="row">
+          <table class="full">
+            <tr>
+              <td class="col-xs-3 col-sm-2 bg-green pad10 year">
+                <h4 class="text-center text-white">2009</h4>
+                <div class="yr-dot"></div>
+              </td>
+              <td class="col-xs-9 col-sm-10 bg-ddblue pad10">
+
+                <div class="row">
+                  <table class="full">
+                    <tr>
+                      <p class="text-lblue">
+                        Mike Beall starts working with Kurt Squire and Rich Halverson at (Games+Learning+Society) GLS and the Education Research Challenge Area (ERCA) at the Morgridge Institute for Research
+                      </p>
+                    </tr>
+                    <tr>
+                      <td class="col-sm-3 pad10">
+                        <img class="center-block timeline-img" src="<?php echo get_template_directory_uri(); ?>/img/timeline/portraits/timeline-mike.png"/>
+                      </td>
+                      <td class="col-sm-3 pad10">
+                        <img class="center-block timeline-img" src="<?php echo get_template_directory_uri(); ?>/img/timeline/portraits/timeline-mike.png"/>
+                      </td>
+                      <td class=" col-sm-3 pad10">
+                        <img class="center-block timeline-img" src="<?php echo get_template_directory_uri(); ?>/img/timeline/portraits/timeline-mike.png"/>
+                      </td>
+                      <td class="col-sm-3 pad10">
+                        <img class="center-block timeline-img" src="<?php echo get_template_directory_uri(); ?>/img/timeline/portraits/timeline-mike.png"/>
+                      </td>
+                    </tr>
+                    <tr>
+                      <h5 class="text-white">Game Release:</h5>
+                    </tr>
+                    <tr>
+                      <img class="center-block timeline-img" src="<?php echo get_template_directory_uri(); ?>/img/timeline/logos/virulent-logo.png"/>
+                    </tr>
+                  </table>
+                </div>
+
+              </td>
+            </tr>
+          </table>
+        </div>
+
 
       </div><!-- /.row -->
     </div><!-- /.container -->

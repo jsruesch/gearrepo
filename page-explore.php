@@ -20,7 +20,7 @@
           <h1 class="text-white">Born of a <br /> unified vision</h1>
           <div class="thickdiv mar10-bot mar10-top"></div>
           <p class="text-dblue">
-            Building on the design and development experiences over the last seven years with Games + Learning + Society and Learning Games Network, the development team that brought you Virulent, Crystals of Kaydor, Econauts, and At Play in the Cosmos is starting <b>GEAR</b>, a new game development studio at the Wisconsin Center for Education Research at the University of Wisconsin.
+            Building on the design and development experiences over the last seven years with Games + Learning + Society and Learning Games Network, the development team that brought you Virulent, Crystals of Kaydor, Econauts, and At Play in the Cosmos is starting GEAR, a new game development studio at the Wisconsin Center for Education Research at the University of Wisconsin.
           </p>
         </div>
       </div>
@@ -33,7 +33,7 @@
           <h1 class="text-green">Where Learning <br /> Lives</h1>
           <div class="thickdiv mar10-bot mar10-top"></div>
           <p class="text-lblue">
-            In a ground-breaking partnership with the Wisconsin Center for Education Research (WCER) at the University of Wisconsin, GEAR will be located in the very heart of the University of Wisconsin Madison campus. Giving them access to some of the worlds leading experts in countless disciplines at a moment's notice.
+            In a ground-breaking partnership with the University of Wisconsin, GEAR will be located in the very heart of campus at the Wisconsin Center for Education Research (WCER). Being part of a leading educational institution like the University of Wisconsin gives GEAR a distinct advantage in the space of designing and developing games for learning.
           </p>
         </div>
       </div>
@@ -170,14 +170,14 @@
         BEGIN: TESTIMONIALS
         -->
           <!-- Header -->
-          <!-- <div class="row mar30-top pad30 bg-ddblue">
+          <div class="row mar30-top pad30 bg-ddblue">
             <div class="row">
               <h2 class="text-white">Our <span class="text-green">Friends</span></h2>
               <p class="text-lblue">
                 Over the years we've had the privilege of working with some great folks. Sounds like they liked us too!
               </p>
             </div>
-            <div class="row mar30-top">
+            <!-- <div class="row mar30-top">
               <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 
                 <div class="carousel-inner" role="listbox">
@@ -218,7 +218,7 @@
 
                 </div>
               </div>
-            </div>
+            </div> -->
             <div class="row mar20-top">
               <div class="col-xs-12 col-sm-2 pad20">
                 <p class="text-lblue text-center">
@@ -281,7 +281,7 @@
                 </p>
               </div>
             </div>
-          </div> -->
+          </div>
           <!-- END: Header -->
         <!-- END: TESTIMONIALS -->
         <!--
@@ -289,11 +289,11 @@
           -->
           <div class="row bg-fill-together mar30-top">
             <div class="col-sm-6 col-sm-offset-6 bg-green pad60">
-              <h1 class="text-white">Let's Change<br /> Learning Together</h1>
+              <h1 class="text-white">Changing Learning<br /> Through Partnerships</h1>
               <div class="thickdiv mar10-bot mar10-top"></div>
               <div class="row">
                 <p class="text-dblue">
-                  GEAR is a uniqe and special group that the expertise and experience to help shape the way people learn. We have experience creating games and digital media for use in the classroom, office, hospital, veterinary clinic, museum and many more. We've done work with clients all over the world. We'd love to work with you.
+                  GEAR’s highly specialized group of designers and developers have worked together for over seven years and have the experience to help shape the way people learn. Our team has created games and digital media for use in both formal and informal learning environments with content ranging from empathic accuracy and neuroscience to creating museum exhibits designed to teach the basics of electrical circuits. If you are interested in games for learning, we'd love to talk with you.
                 </p>
               </div>
               <div class="row mar20-top">

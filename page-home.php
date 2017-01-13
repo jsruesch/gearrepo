@@ -39,7 +39,6 @@
     </div>
   </div>
 </div>
-
 <!-- END: Banner -->
 
 <!--
@@ -47,6 +46,9 @@
 -->
   <div class="container-fluid mar20-top mar20-bot pad30-left pad30-right">
     <div class="container">
+      <div class="row mar60-top mar50-bot">
+        <h2 class="text-center text-white">We design and develop games to help make<br/>complex content <span class="text-green"><u>accessible</u></span> and <span class="text-green"><u>fun</u></span>.</h2>
+      </div>
       <div class="col-sm-8 mar20-top pad15-left pad15-right">
           <!--
             BEGIN: Featured Post

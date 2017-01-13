@@ -50,9 +50,9 @@
           BEGIN: News & Updates
         -->
           <div class="col-sm-6 pad20-top pad20-bot pad10-left pad10-right">
-            <h3 class="text-green"><span class="text-white">News &</span> Updates</h3>
+            <h3 class="text-green mar10-bot"><span class="text-white">News &</span> Updates</h3>
             <div class="row">
-              <?php query_posts('category_name=news-and-updates&posts_per_page=15');?>
+              <?php query_posts('category_name=news-and-updates&posts_per_page=10');?>
           		<?php if (have_posts()) : ?>
           				<?php $post = $posts[0]; // Hack. Set $post so that the_date() works. ?>
           				<?php /* If this is a category archive */ if (is_category()) { ?>
@@ -60,7 +60,7 @@
           				<?php while (have_posts()) : the_post(); ?>
                     <!-- The Content -->
             				<div <?php post_class() ?>>
-                      <div class="row mar10-top pad20-right pad20-left pad15-top  bg-ddblue">
+                      <div class="row mar1-top pad20-right pad20-left pad15-top  bg-ddblue">
                         <h4 class="text-green text-hover-white"><?php the_content(); ?></h4>
                       </div>
                     </div><!-- /The Content -->

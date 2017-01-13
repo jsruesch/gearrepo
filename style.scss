@@ -154,6 +154,7 @@ table tr{  }
   }
 }
 
+.text-hover-white:hover{ color: $white !important; }
 .blue-btn{
   @include transition;
   background: $dblue;

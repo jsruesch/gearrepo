@@ -12,6 +12,9 @@
 -->
   <div class="container-fluid mar10-top mar20-bot pad30-left pad30-right">
     <div class="container">
+      <div class="row pad30">
+        <p class="text-lblue text-center">Explore many of the projects created or collaborated on by our team of talented designers and developers.</p>
+      </div>
       <div class="row">
         <!-- At Play in the Cosmos -->
         <div class="col-sm-6 pad10">

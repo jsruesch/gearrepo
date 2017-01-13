@@ -8,7 +8,7 @@
 			</div>
 			<div class="row mar30-bot">
 				<p class="text-lblue small">
-					GEAR is housed within the Wisconsin Center for Education Research<br /> at the School of Education, University of Wisconsin-Madison.
+					GEAR is housed within the <a href="http://www.wcer.wisc.edu/" taget="_blank">Wisconsin Center for Education Research</a><br /> at the <a href="http://www.education.wisc.edu/" target="_blank">School of Education</a>, <a href="http://www.wisc.edu/" target="_blank">University of Wisconsin-Madison</a>.
 				</p>
 			</div>
 			<div class="row mar30-bot">

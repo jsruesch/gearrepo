@@ -43,7 +43,7 @@ html{
 }
 
 body{
-  background: url(img/bg-logo.jpg) 50% 0% $dblue no-repeat !important; margin-bottom: 360px !important;
+  background: url(img/bg-logo.jpg) 50% 0% $dblue no-repeat !important; margin-bottom: 375px !important;
 }
 
 a{
@@ -823,7 +823,8 @@ textarea{
    }
  }
 
- #yr-09{
+ #yr-09,
+ #yr-10{
    display: table;
  }
 
@@ -862,7 +863,7 @@ textarea{
 
 .timeline-img-grid-container{
   display: table;
-  
+
 
   .timeline-img-grid{
     display: table-cell;
@@ -911,7 +912,7 @@ textarea{
     display: block;
   }
 
-  .footer-logo{ max-width: 75px;}
+  .footer-logo{ max-width: 330px;}
   .small-icon{
     font-size: 6px;
     margin: 0 5px;

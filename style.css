@@ -775,7 +775,7 @@ html {
 
 body {
   background: url(img/bg-logo.jpg) 50% 0% #101319 no-repeat !important;
-  margin-bottom: 360px !important; }
+  margin-bottom: 375px !important; }
 
 a:hover, a:focus {
   text-decoration: none !important; }
@@ -1486,7 +1486,8 @@ textarea {
         -o-transition: all 0.2s ease;
         background: #a3aaba; }
 
-#yr-09 {
+#yr-09,
+#yr-10 {
   display: table; }
 
 .year-container {
@@ -1556,7 +1557,7 @@ textarea {
   .footer-container .footer-sm-buttons {
     display: block; }
   .footer-container .footer-logo {
-    max-width: 75px; }
+    max-width: 330px; }
   .footer-container .small-icon {
     font-size: 6px;
     margin: 0 5px;

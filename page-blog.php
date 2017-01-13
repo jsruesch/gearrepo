@@ -49,7 +49,7 @@
         <!--
           BEGIN: News & Updates
         -->
-          <div class="col-sm-6 pad20-top pad20-bot pad10-left pad10-right">
+          <div class="col-sm-4 pad20-top pad20-bot pad10-left pad10-right">
             <h3 class="text-green mar10-bot"><span class="text-white">News &</span> Updates</h3>
             <div class="row">
               <?php query_posts('category_name=news-and-updates&posts_per_page=10');?>
@@ -74,7 +74,7 @@
         <!--
           BEGIN: Gearbox
         -->
-          <!-- <div class="col-sm-4 pad20-top pad20-bot pad10-left pad10-right">
+          <div class="col-sm-4 pad20-top pad20-bot pad10-left pad10-right">
             <h3 class="text-green"><span class="text-white">GEAR</span>box</h3>
             <div class="row">
               <?php query_posts('category_name=gearbox&posts_per_page=1');?>
@@ -105,12 +105,12 @@
                     <p class="text-lblue">There are currently no items to display</p>
               <?php endif; ?>
             </div>
-          </div> -->
+          </div>
         <!-- END: Gearbox -->
         <!--
           BEGIN: Inside Gear
         -->
-          <div class="col-sm-6 pad20-top pad20-bot pad10-left pad10-right">
+          <div class="col-sm-4 pad20-top pad20-bot pad10-left pad10-right">
             <h3 class="text-green"><span class="text-white">Inside </span>GEAR</h3>
             <div class="row">
               <?php query_posts('category_name=inside-gear&posts_per_page=1');?>

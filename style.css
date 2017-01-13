@@ -793,7 +793,7 @@ html {
 
 body {
   background: url(img/bg-logo.jpg) 50% 0% #101319 no-repeat !important;
-  margin-bottom: 405px !important; }
+  margin-bottom: 440px !important; }
 
 a:hover, a:focus {
   text-decoration: none !important; }
@@ -1571,11 +1571,14 @@ textarea {
   background: #05070d;
   border-top: 3px solid #87b840;
   text-align: center;
-  padding: 60px 0 30px 0; }
+  padding: 60px 0 60px 0; }
   .footer-container .footer-sm-buttons {
     display: block; }
   .footer-container .footer-logo {
-    max-width: 330px; }
+    width: 400px;
+    max-width: 100%;
+    padding-left: 20px;
+    padding-right: 20px; }
   .footer-container .small-icon {
     font-size: 6px;
     margin: 0 5px;

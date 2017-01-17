@@ -989,6 +989,15 @@ iframe {
 .text-shadow {
   text-shadow: 0px 1px 10px black; }
 
+.news-list-item {
+  font-weight: 900;
+  text-transform: uppercase;
+  line-height: 10px !important;
+  padding: 7px 10px 0px 15px;
+  border-bottom: 1px dotted rgba(51, 122, 183, 0.5); }
+  .news-list-item p a {
+    font-size: 14px; }
+
 /* END: Utility Classes */
 /**
  * =========================================

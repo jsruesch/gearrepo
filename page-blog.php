@@ -60,8 +60,8 @@
           				<?php while (have_posts()) : the_post(); ?>
                     <!-- The Content -->
             				<div <?php post_class() ?>>
-                      <div class="row mar1-top pad20-right pad20-left pad15-top  bg-ddblue">
-                        <h4 class="text-green text-hover-white"><?php the_content(); ?></h4>
+                      <div class="row mar1-top bg-ddblue news-list-item">
+                        <p><?php the_content(); ?></p>
                       </div>
                     </div><!-- /The Content -->
                   <?php endwhile; ?>

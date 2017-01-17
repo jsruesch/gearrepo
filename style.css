@@ -996,7 +996,10 @@ iframe {
   padding: 7px 10px 0px 15px;
   border-bottom: 1px dotted rgba(51, 122, 183, 0.5); }
   .news-list-item p a {
-    font-size: 14px; }
+    font-size: 14px;
+    color: #a3aaba !important; }
+    .news-list-item p a:hover {
+      color: #87b840 !important; }
 
 /* END: Utility Classes */
 /**

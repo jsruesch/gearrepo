@@ -5,7 +5,7 @@
 <!--
   BEGIN: Main Content
 -->
-  <div class="container-fluid mc">
+  <div class="container-fluid">
     <div class="container pad30-left pad30-right">
 
 

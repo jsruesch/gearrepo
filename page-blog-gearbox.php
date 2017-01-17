@@ -11,7 +11,7 @@
   BEGIN: Main Content
 -->
   <div class="container-fluid mar20-top mar20-bot">
-    <div class="container">
+    <div class="container pad30-left pad30-right">
       <div class="row pad20-top pad20-bot">
         <h1 class="text-green"><span class="text-white">GEAR</span>box</h1>
       </div>

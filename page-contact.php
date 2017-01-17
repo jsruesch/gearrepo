@@ -10,8 +10,8 @@
 <!--
   BEGIN: Main Content
 -->
-  <div class="container-fluid mar20-top mar20-bot pad30-left pad30-right">
-    <div class="container pad10-left pad10-right">
+  <div class="container-fluid mar20-top mar20-bot">
+    <div class="container  pad30-left pad30-right">
       <div class="row pad20-top pad20-bot">
         <h1 class="text-green"><span class="text-white">Contact</span> Us</h1>
       </div>

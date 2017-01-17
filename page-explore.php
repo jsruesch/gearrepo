@@ -10,8 +10,8 @@
 <!--
   BEGIN: Main Content
 -->
-  <div class="container-fluid mar20-top mar20-bot pad30-left pad30-right">
-    <div class="container">
+  <div class="container-fluid mar20-top mar20-bot">
+    <div class="container pad30-left pad30-right">
     <!--
       BEGIN: UNIFIED VISION
       -->

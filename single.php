@@ -6,12 +6,12 @@
   BEGIN: Main Content
 -->
   <div class="container-fluid mc">
-    <div class="container">
+    <div class="container pad30-left pad30-right">
 
 
     <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 			<!-- Featured Image -->
-      <div class="row post-img-container mar10-top">
+      <div class="row post-img-container">
         <a href="<?php the_permalink() ?>">
         <?php
           if ( has_post_thumbnail() ) {

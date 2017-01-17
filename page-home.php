@@ -19,9 +19,9 @@
     <div class="container">
       <div class="row pad15-left pad15-right">
         <!-- Type JS -->
-        <div class="col-sm-6">
+        <div class="col-sm-8">
           <h1 class="text-shadow">
-            <span class="text-white">WE CREATE GAMES <br /> THAT</span>
+            <span class="text-white">WE CREATE GAMES<br /> THAT</span>
             <div id="typed-strings">
                 <p>INSPIRE</p>
                 <p>TEACH</p>
@@ -44,12 +44,12 @@
 <!--
   BEGIN: Main Content
 -->
-  <div class="container-fluid mar20-top mar20-bot pad30-left pad30-right">
-    <div class="container">
-      <div class="row mar60-top mar50-bot">
-        <h2 class="text-center text-white">We design and develop games to help make<br/>complex content <span class="text-green"><u>accessible</u></span> and <span class="text-green"><u>fun</u></span>.</h2>
-      </div>
-      <div class="col-sm-8 mar20-top pad15-left pad15-right">
+  <div class="container-fluid mar20-top mar20-bot">
+    <div class="container pad30-left pad30-right">
+      <div class="col-sm-8 mar30-top pad15-left pad15-right">
+        <div class="row pad60-top pad60-bot pad30-left pad30-right mar30-bot bg-green">
+          <h2 class="text-center text-white">We design and develop games to help make complex content <span class="text-dblue"><u>accessible</u></span> and <span class="text-dblue"><u>fun</u></span>.</h2>
+        </div>
           <!--
             BEGIN: Featured Post
           -->
@@ -69,7 +69,7 @@
             </div>
           </a>
           <!-- END: Featured Post -->
-        <div class="row mar60-top mar60-bot">
+        <div class="row mar30-top mar30-bot">
             <h2 class="text-green"><span class="text-white">Seven Years</span> in the making</h2>
             <div class="thickdiv mar10-top mar10-bot"></div>
            <p class="text-lblue">
@@ -80,7 +80,7 @@
            </p>
         </div>
       </div>
-      <div class="col-sm-4 pad10-top pad10-left pad10-right">
+      <div class="col-sm-4 pad20-top pad10-left pad10-right">
         <div class="row">
           <?php query_posts('category_name=featured&posts_per_page=1');?>
           <?php if (have_posts()) : ?>
@@ -114,7 +114,7 @@
       <!--
         BEGIN: News & Updates
       -->
-        <div class="col-sm-4 pad20-top pad20-bot pad10-left pad10-right">
+        <div class="col-sm-4 pad30-top pad30-bot pad10-left pad10-right">
           <h3 class="text-green mar10-bot"><span class="text-white">News &</span> Updates</h3>
           <div class="row">
             <?php query_posts('category_name=news-and-updates&posts_per_page=5');?>

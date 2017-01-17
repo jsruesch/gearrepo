@@ -10,8 +10,8 @@
 <!--
   BEGIN: Main Content
 -->
-  <div class="container-fluid mar10-top mar20-bot pad30-left pad30-right">
-    <div class="container">
+  <div class="container-fluid mar10-top mar20-bot">
+    <div class="container pad15-left pad15-right">
       <div class="row pad30">
         <p class="text-lblue text-center">Explore many of the projects created or collaborated on by our team of talented designers and developers.</p>
       </div>

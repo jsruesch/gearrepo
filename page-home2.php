@@ -117,29 +117,6 @@
               </div>
             </div><!-- END: News -->
 
-            <!-- Twitter -->
-            <div class="row mar30-top">
-              <h3 class="text-green mar10-bot"><span class="text-white">News &</span> Updates</h3>
-              <div class="row">
-                <?php query_posts('category_name=news-and-updates&posts_per_page=5');?>
-                <?php if (have_posts()) : ?>
-                    <?php $post = $posts[0]; // Hack. Set $post so that the_date() works. ?>
-                    <?php /* If this is a category archive */ if (is_category()) { ?>
-                    <?php } ?>
-                    <?php while (have_posts()) : the_post(); ?>
-                      <!-- The Content -->
-                      <div <?php post_class() ?>>
-                        <div class="row mar1-top bg-ddblue news-list-item">
-                          <p><?php the_content(); ?></p>
-                        </div>
-                      </div><!-- /The Content -->
-                    <?php endwhile; ?>
-                    <?php else : ?>
-                      <p class="text-lblue">There are currently no items to display</p>
-                <?php endif; ?>
-              </div>
-            </div><!-- END: Twitter -->
-
 
           </div><!-- /.col-sm-4 -->
 
@@ -149,7 +126,7 @@
           BEGIN: Recent Release
         -->
         <a href="/at-play-in-the-cosmos">
-          <div class="row mar30-top mar30-bot pad20-left pad20-right wow fadeInUp" data-wow-delay=".85s">
+          <div class="row mar30-top mar30-bot pad20-left pad20-right wow fadeInUp" data-wow-delay=".25s">
               <div class="recent-release-img-container">
                   <img src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/featured-image-cosmos-01.png"/>
                   <div class="row pad30 bg-ddblue recent-release-title-container">
@@ -164,6 +141,55 @@
           </div>
         </a>
         <!-- END: Recent Release -->
+
+        <div class="row pad10-right pad10-left wow fadeInUp" data-wow-delay=".25s">
+          <h3 class="text-green pad10-left"><span class="text-white">Featured</span> Projects</h3>
+          <div class="col-sm-4  pad10-top pad10-bot pad10-left pad10-right">
+            <a href="http://www.gearlearning.org/microsites/econauts/" target="_blank">
+              <div class="row selproj-btn">
+                <div class="row project-page-image">
+                  <img src="<?php echo get_template_directory_uri(); ?>/img/projects/econauts/project-page-image-econauts-01.png"/>
+                </div>
+                <div class="row bg-ddblue pad20-top pad15-left pad15-right pad15-bot">
+                  <h4 class="text-green">Econauts</h4>
+                  <p class="text-lblue">
+                      Environmental Science
+                  </p>
+                </div>
+              </div>
+              </a>
+          </div>
+          <div class="col-sm-4 pad10-top pad10-bot pad10-left pad10-right">
+            <a href="">
+              <div class="row selproj-btn">
+                  <div class="row project-page-image">
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/projects/pawpad/project-page-image-pawpad-01.png"/>
+                  </div>
+                <div class="row bg-ddblue pad20-top pad15-left pad15-right pad15-bot">
+                  <h4 class="text-green">Pawpad</h4>
+                  <p class="text-lblue">
+                      Veterinary Anatomy
+                  </p>
+                </div>
+              </div>
+              </a>
+          </div>
+          <div class="col-sm-4 pad10-top pad10-bot pad10-left pad10-right">
+            <a href="">
+              <div class="row selproj-btn">
+                  <div class="row project-page-image">
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/projects/apex/project-page-image-apex-01.png"/>
+                  </div>
+                <div class="row bg-ddblue pad20-top pad15-left pad15-right pad15-bot">
+                  <h4 class="text-green">Apex Anatomy Table</h4>
+                  <p class="text-lblue">
+                      Interactable Anatomy Table
+                  </p>
+                </div>
+              </div>
+              </a>
+          </div>
+        </div>
 
     </div><!-- /.container -->
   </div><!-- /.container-fluid -->

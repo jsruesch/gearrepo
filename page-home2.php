@@ -45,82 +45,58 @@
   BEGIN: Main Content
 -->
   <div class="container-fluid mission-container wow fadeIn">
-      <div class="container pad30-left pad30-right">
-        <div class="col-sm-12">
-            <h2 class="text-center text-white mission-text wow fadeInUp" data-wow-delay=".45s">We design and develop games to help make complex content <span class="text-green">accessible</span> and <span class="text-green">fun</span>.</h2>
-        </div>
+    <div class="container">
+      <div class="row">
+          <h2 class="text-center text-white mission-text wow fadeInUp" data-wow-delay=".45s">We design and develop games to help make complex content <span class="text-green">accessible</span> and <span class="text-green">fun</span>.</h2>
+      </div>
     </div>
   </div>
+
   <div class="container-fluid">
-    <div class="container pad30-left pad30-right">
+    <div class="col-sm-8">
+      <div class="row bg-ddblue">
+        <div class="row wow fadeInUp" data-wow-delay=".55s">
+          <?php query_posts('category_name=featured&posts_per_page=1');?>
+          <?php if (have_posts()) : ?>
+              <?php $post = $posts[0]; // Hack. Set $post so that the_date() works. ?>
+              <?php /* If this is a category archive */ if (is_category()) { ?>
+              <?php } ?>
+              <?php while (have_posts()) : the_post(); ?>
+                <!-- The Content -->
+                <div <?php post_class() ?>>
+                  <div class="row post-img-container">
+                    <a href="<?php the_permalink() ?>">
+                    <?php
+                      if ( has_post_thumbnail() ) {
+                        the_post_thumbnail();
+                      }?>
+                    </a>
+                  </div>
+                  <div class="row pad60">
+                    <h3><a href="<?php the_permalink() ?>"  class="text-green"><?php the_title(); ?></a></h3>
+                    <div class="thickdiv mar10-bot mar10-top"></div>
+                    <p><span  class="text-lblue"><?php the_content( $more_link_text , $strip_teaser ); ?>
+                    </span></p>
+                  </div>
+                </div><!-- /The Content -->
+              <?php endwhile; ?>
+              <?php else : ?>
+                <p class="text-lblue">There are currently no items to display</p>
+          <?php endif; ?>
+        </div><!-- ./row -->
+      </div>
+    </div>
 
-      <div class="row">
+    <div class="col-sm-4">
+      <div class="row pad60 bg-green">
 
-        <div class="col-sm-8 pad20-top pad15-left pad15-right wow fadeInUp" data-wow-delay=".55s">
-          <div class="row">
-            <?php query_posts('category_name=featured&posts_per_page=1');?>
-            <?php if (have_posts()) : ?>
-                <?php $post = $posts[0]; // Hack. Set $post so that the_date() works. ?>
-                <?php /* If this is a category archive */ if (is_category()) { ?>
-                <?php } ?>
-                <?php while (have_posts()) : the_post(); ?>
-                  <!-- The Content -->
-                  <div <?php post_class() ?>>
-                    <div class="row post-img-container mar10-top">
-                      <a href="<?php the_permalink() ?>">
-                      <?php
-                        if ( has_post_thumbnail() ) {
-                          the_post_thumbnail();
-                        }?>
-                      </a>
-                    </div>
-                    <div class="row pad30 bg-ddblue">
-                      <h4><a href="<?php the_permalink() ?>"  class="text-green"><?php the_title(); ?></a></h4>
-                      <div class="thickdiv mar10-bot mar10-top"></div>
-                      <p><span  class="text-lblue"><?php the_content( $more_link_text , $strip_teaser ); ?>
-                      </span></p>
-                    </div>
-                  </div><!-- /The Content -->
-                <?php endwhile; ?>
-                <?php else : ?>
-                  <p class="text-lblue">There are currently no items to display</p>
-            <?php endif; ?>
-          </div>
-        </div>
-
-
-        <!--
-          BEGIN: News & Twitter
-        -->
-          <div class="col-sm-4 pad30-top pad15-left pad15-right wow fadeInUp" data-wow-delay=".75s">
-
-            <!-- News -->
-            <div clsas="row">
-              <h3 class="text-green mar10-bot"><span class="text-white">News &</span> Updates</h3>
-              <div class="row">
-                <?php query_posts('category_name=news-and-updates&posts_per_page=5');?>
-                <?php if (have_posts()) : ?>
-                    <?php $post = $posts[0]; // Hack. Set $post so that the_date() works. ?>
-                    <?php /* If this is a category archive */ if (is_category()) { ?>
-                    <?php } ?>
-                    <?php while (have_posts()) : the_post(); ?>
-                      <!-- The Content -->
-                      <div <?php post_class() ?>>
-                        <div class="row mar1-top bg-ddblue news-list-item">
-                          <p><?php the_content(); ?></p>
-                        </div>
-                      </div><!-- /The Content -->
-                    <?php endwhile; ?>
-                    <?php else : ?>
-                      <p class="text-lblue">There are currently no items to display</p>
-                <?php endif; ?>
-              </div>
-            </div><!-- END: News -->
+      </div>
+    </div>
+  </div><!-- /.container-fluid -->
 
 
-          </div><!-- /.col-sm-4 -->
 
-      </div><!-- ./row -->
+
 
         <!--
           BEGIN: Recent Release
@@ -191,7 +167,6 @@
           </div>
         </div>
 
-    </div><!-- /.container -->
   </div><!-- /.container-fluid -->
 <!-- END: Main Content -->
 

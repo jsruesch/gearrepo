@@ -322,9 +322,11 @@ iframe{ width: 100%; }
  */
 
 .mission-container{
-  background: $green;
+  background: $ddblue;
   margin-top: 20px;
-  padding: 40px 30px ;
+  padding: 60px 30px;
+  border-top: 5px solid $green;
+  border-bottom: 5px solid $green;
 
   .mission-text{
 
@@ -933,7 +935,7 @@ textarea{
   position: absolute;
   bottom: 0;
   background: $ddblue;
-  border-top: 3px solid $green;
+  border-top: 5px solid $green;
   text-align: center;
   padding: 60px 0 60px 0;
 

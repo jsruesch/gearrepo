@@ -1066,9 +1066,11 @@ iframe {
  * =========================================
  */
 .mission-container {
-  background: #87b840;
+  background: #05070d;
   margin-top: 20px;
-  padding: 40px 30px; }
+  padding: 60px 30px;
+  border-top: 5px solid #87b840;
+  border-bottom: 5px solid #87b840; }
 
 .splashlogo {
   height: 155px; }
@@ -1594,7 +1596,7 @@ textarea {
   position: absolute;
   bottom: 0;
   background: #05070d;
-  border-top: 3px solid #87b840;
+  border-top: 5px solid #87b840;
   text-align: center;
   padding: 60px 0 60px 0; }
   .footer-container .footer-sm-buttons {

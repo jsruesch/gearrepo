@@ -47,7 +47,7 @@
   <div class="container-fluid mission-container wow fadeIn">
       <div class="container pad30-left pad30-right">
         <div class="col-sm-12">
-            <h2 class="text-center text-white mission-text wow fadeInUp" data-wow-delay=".45s">We design and develop games to help make complex content accessible and fun.</h2>
+            <h2 class="text-center text-white mission-text wow fadeInUp" data-wow-delay=".45s">We design and develop games to help make complex content <span class="text-green">accessible</span> and <span class="text-green">fun</span>.</h2>
         </div>
     </div>
   </div>
@@ -134,7 +134,7 @@
                     <h1 class="text-green">At Play in the Cosmos</h1>
                     <div class="thickdiv mar10-bot mar10-top"></div>
                     <p class="text-lblue">
-                      At Play in the Cosmos takes concepts from the textbook and transforms them in to interactive, intuitive tools and interactives that help students experience content in a way never done before.
+                      At Play in the Cosmos takes concepts from the textbook and transforms them in to interactive, intuitive tools that help students experience content in a way like never before.
                     </p>
                   </div>
               </div>

@@ -682,6 +682,11 @@ h1, h2, h3, h4, h5, p {
       padding-top: 70px !important;
       text-align: center; }
 
+  .mission-container {
+    margin-top: 0 !important; }
+    .mission-container .mission-text {
+      font-size: 18px; }
+
   .mc {
     padding-left: 30px !important;
     padding-right: 30px !important; }
@@ -1060,6 +1065,11 @@ iframe {
  * Elements
  * =========================================
  */
+.mission-container {
+  background: #87b840;
+  margin-top: 20px;
+  padding: 40px 30px; }
+
 .splashlogo {
   height: 155px; }
 

@@ -15,7 +15,7 @@
       <!--
         BEGIN: Featured Post
       -->
-        <div class="row">
+        <div class="row mar20-bot">
           <?php query_posts('category_name=featured&posts_per_page=1');?>
           <?php if (have_posts()) : ?>
               <?php $post = $posts[0]; // Hack. Set $post so that the_date() works. ?>
@@ -47,34 +47,9 @@
       <!-- END: Featured Post -->
       <div class="row">
         <!--
-          BEGIN: News & Updates
-        -->
-          <div class="col-sm-4 pad20-top pad20-bot pad10-left pad10-right">
-            <h3 class="text-green mar10-bot"><span class="text-white">News &</span> Updates</h3>
-            <div class="row">
-              <?php query_posts('category_name=news-and-updates&posts_per_page=10');?>
-          		<?php if (have_posts()) : ?>
-          				<?php $post = $posts[0]; // Hack. Set $post so that the_date() works. ?>
-          				<?php /* If this is a category archive */ if (is_category()) { ?>
-          				<?php } ?>
-          				<?php while (have_posts()) : the_post(); ?>
-                    <!-- The Content -->
-            				<div <?php post_class() ?>>
-                      <div class="row mar1-top bg-ddblue news-list-item">
-                        <p><?php the_content(); ?></p>
-                      </div>
-                    </div><!-- /The Content -->
-                  <?php endwhile; ?>
-                  <?php else : ?>
-                    <p class="text-lblue">There are currently no items to display</p>
-              <?php endif; ?>
-            </div>
-          </div>
-        <!-- END: News & Updates -->
-        <!--
           BEGIN: Gearbox
         -->
-          <div class="col-sm-4 pad20-top pad20-bot pad10-left pad10-right">
+          <div class="col-sm-6 pad10-top pad20-bot pad10-left pad10-right">
             <h3 class="text-green"><span class="text-white">GEAR</span>box</h3>
             <div class="row">
               <?php query_posts('category_name=gearbox&posts_per_page=1');?>
@@ -110,7 +85,7 @@
         <!--
           BEGIN: Inside Gear
         -->
-          <div class="col-sm-4 pad20-top pad20-bot pad10-left pad10-right">
+          <div class="col-sm-6 pad10-top pad20-bot pad10-left pad10-right">
             <h3 class="text-green"><span class="text-white">Inside </span>GEAR</h3>
             <div class="row">
               <?php query_posts('category_name=inside-gear&posts_per_page=1');?>
@@ -143,6 +118,31 @@
             </div>
           </div>
         <!-- END: Inside Gear -->
+        <!--
+          BEGIN: News & Updates
+        -->
+          <div class="col-sm-12 pad10-top pad20-bot pad10-left pad10-right">
+            <h3 class="text-green mar10-bot"><span class="text-white">News &</span> Updates</h3>
+            <div class="row">
+              <?php query_posts('category_name=news-and-updates&posts_per_page=10');?>
+              <?php if (have_posts()) : ?>
+                  <?php $post = $posts[0]; // Hack. Set $post so that the_date() works. ?>
+                  <?php /* If this is a category archive */ if (is_category()) { ?>
+                  <?php } ?>
+                  <?php while (have_posts()) : the_post(); ?>
+                    <!-- The Content -->
+                    <div <?php post_class() ?>>
+                      <div class="row mar1-top bg-ddblue news-list-item">
+                        <p><?php the_content(); ?></p>
+                      </div>
+                    </div><!-- /The Content -->
+                  <?php endwhile; ?>
+                  <?php else : ?>
+                    <p class="text-lblue">There are currently no items to display</p>
+              <?php endif; ?>
+            </div>
+          </div>
+        <!-- END: News & Updates -->
       </div>
     </div><!-- /.container -->
   </div><!-- /.container-fluid -->

@@ -90,37 +90,46 @@
     <div class="col-sm-4">
       <div class="row pad60 bg-green">
 
+        <div class="row">
+
+        </div>
+        <div class="row">
+
+        </div>
+        <div class="row">
+
+        </div>
+
       </div>
     </div>
   </div><!-- /.container-fluid -->
 
-
-
-
-
-        <!--
-          BEGIN: Recent Release
-        -->
-        <a href="/at-play-in-the-cosmos">
-          <div class="row mar30-top mar30-bot pad20-left pad20-right wow fadeInUp" data-wow-delay=".25s">
-              <div class="recent-release-img-container">
-                  <img src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/featured-image-cosmos-01.png"/>
-                  <div class="row pad30 bg-ddblue recent-release-title-container">
-                    <h3 class="text-white">Recent Release</h3>
-                    <h1 class="text-green">At Play in the Cosmos</h1>
-                    <div class="thickdiv mar10-bot mar10-top"></div>
-                    <p class="text-lblue">
-                      At Play in the Cosmos takes concepts from the textbook and transforms them in to interactive, intuitive tools that help students experience content in a way like never before.
-                    </p>
-                  </div>
-              </div>
-          </div>
-        </a>
-        <!-- END: Recent Release -->
-
-        <div class="row pad10-right pad10-left wow fadeInUp" data-wow-delay=".25s">
-          <h3 class="text-green pad10-left"><span class="text-white">Featured</span> Projects</h3>
-          <div class="col-sm-4  pad10-top pad10-bot pad10-left pad10-right">
+  <div class="container-fluid">
+    <div class="col-sm-8">
+      <!--
+        BEGIN: Recent Release
+      -->
+      <a href="/at-play-in-the-cosmos">
+        <div class="row wow fadeInUp" data-wow-delay=".25s">
+            <div class="recent-release-img-container">
+                <img src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/featured-image-cosmos-01.png"/>
+                <div class="row pad30 bg-ddblue recent-release-title-container">
+                  <h3 class="text-white">Recent Release</h3>
+                  <h1 class="text-green">At Play in the Cosmos</h1>
+                  <div class="thickdiv mar10-bot mar10-top"></div>
+                  <p class="text-lblue">
+                    At Play in the Cosmos takes concepts from the textbook and transforms them in to interactive, intuitive tools that help students experience content in a way like never before.
+                  </p>
+                </div>
+            </div>
+        </div>
+      </a>
+      <!-- END: Recent Release -->
+    </div>
+    <div class="col-sm-4 pad60 bg-ddblue">
+      <h3 class="text-green pad10-left"><span class="text-white">Featured</span> Projects</h3>
+      <div class="col-sm-6">
+        <div class="row">
             <a href="http://www.gearlearning.org/microsites/econauts/" target="_blank">
               <div class="row selproj-btn">
                 <div class="row project-page-image">
@@ -132,41 +141,67 @@
                       Environmental Science
                   </p>
                 </div>
-              </div>
-              </a>
-          </div>
-          <div class="col-sm-4 pad10-top pad10-bot pad10-left pad10-right">
-            <a href="">
-              <div class="row selproj-btn">
-                  <div class="row project-page-image">
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/projects/pawpad/project-page-image-pawpad-01.png"/>
-                  </div>
-                <div class="row bg-ddblue pad20-top pad15-left pad15-right pad15-bot">
-                  <h4 class="text-green">Pawpad</h4>
-                  <p class="text-lblue">
-                      Veterinary Anatomy
-                  </p>
-                </div>
-              </div>
-              </a>
-          </div>
-          <div class="col-sm-4 pad10-top pad10-bot pad10-left pad10-right">
-            <a href="">
-              <div class="row selproj-btn">
-                  <div class="row project-page-image">
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/projects/apex/project-page-image-apex-01.png"/>
-                  </div>
-                <div class="row bg-ddblue pad20-top pad15-left pad15-right pad15-bot">
-                  <h4 class="text-green">Apex Anatomy Table</h4>
-                  <p class="text-lblue">
-                      Interactable Anatomy Table
-                  </p>
-                </div>
-              </div>
               </a>
           </div>
         </div>
+      </div>
+      <div class="col-sm-6">
+        <div class="row">
+          <a href="">
+            <div class="row selproj-btn">
+                <div class="row project-page-image">
+                  <img src="<?php echo get_template_directory_uri(); ?>/img/projects/pawpad/project-page-image-pawpad-01.png"/>
+                </div>
+              <div class="row bg-ddblue pad20-top pad15-left pad15-right pad15-bot">
+                <h4 class="text-green">Pawpad</h4>
+                <p class="text-lblue">
+                    Veterinary Anatomy
+                </p>
+              </div>
+            </div>
+            </a>
+        </div>
+      </div>
+      <div class="col-sm-6">
+        <div class="row">
+          <a href="">
+            <div class="row selproj-btn">
+                <div class="row project-page-image">
+                  <img src="<?php echo get_template_directory_uri(); ?>/img/projects/apex/project-page-image-apex-01.png"/>
+                </div>
+              <div class="row bg-ddblue pad20-top pad15-left pad15-right pad15-bot">
+                <h4 class="text-green">Apex Anatomy Table</h4>
+                <p class="text-lblue">
+                    Interactable Anatomy Table
+                </p>
+              </div>
+            </div>
+            </a>
+        </div>
+      </div>
+      <div class="col-sm-6">
+        <div class="row">
+          <a href="">
+            <div class="row selproj-btn">
+                <div class="row project-page-image">
+                  <img src="<?php echo get_template_directory_uri(); ?>/img/projects/apex/project-page-image-apex-01.png"/>
+                </div>
+              <div class="row bg-ddblue pad20-top pad15-left pad15-right pad15-bot">
+                <h4 class="text-green">Apex Anatomy Table</h4>
+                <p class="text-lblue">
+                    Interactable Anatomy Table
+                </p>
+              </div>
+            </div>
+            </a>
+        </div>
+      </div>
 
+
+
+
+    </div>
+  </div>
   </div><!-- /.container-fluid -->
 <!-- END: Main Content -->
 

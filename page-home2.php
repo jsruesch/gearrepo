@@ -46,7 +46,7 @@
 -->
   <div class="container-fluid mission-container wow fadeIn">
     <div class="container">
-      <div class="row">
+      <div class="row pad30-left pad30-right">
           <h2 class="text-center text-white mission-text wow fadeInUp" data-wow-delay=".45s">We design and develop games to help make complex content <span class="text-green">accessible</span> and <span class="text-green">fun</span>.</h2>
       </div>
     </div>

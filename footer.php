@@ -2,30 +2,41 @@
   BEGIN: Footer
 -->
 	<div class="footer-container container-fluid">
-		<div class="container">
-			<div class="row mar20-bot">
-				<img class="footer-logo center-block" src="<?php echo get_template_directory_uri(); ?>/img/gear-at-wcer-logo.svg"/>
+		<div class="row pad60">
+			<div class="col-sm-2">
+				<div class="row mar20-bot">
+					<img class="footer-logo center-block" src="<?php echo get_template_directory_uri(); ?>/img/gear-logo.svg"/>
+				</div>
 			</div>
-			<div class="row mar30-bot">
-				<p class="text-lblue small">
-					GEAR is housed within the <a href="http://www.wcer.wisc.edu/" taget="_blank">Wisconsin Center for Education Research</a><br /> at the <a href="http://www.education.wisc.edu/" target="_blank">School of Education</a>, <a href="http://www.wisc.edu/" target="_blank">University of Wisconsin-Madison</a>.
-				</p>
+
+			<div class="col-sm-3 pad10">
+				<div class="row">
+					<p class="text-lblue small">
+						GEAR is housed within the <a href="http://www.wcer.wisc.edu/" taget="_blank">Wisconsin Center for Education Research</a> at the <a href="http://www.education.wisc.edu/" target="_blank">School of Education</a>, <a href="http://www.wisc.edu/" target="_blank">University of Wisconsin-Madison</a>.
+					</p>
+				</div>
 			</div>
-			<div class="row mar30-bot">
-				<p class="text-lblue small">
-					Educational Sciences Room 146, 1025 West Johnson Street <br/>Madison, WI 53706
-					<!-- <i class="fa fa-circle small-icon" aria-hidden="true"></i> Ph: 555-555-5555 -->
-				</p>
+
+			<div class="col-sm-3 pad10">
+				<div class="row mar20-bot">
+					<p class="text-lblue small">
+						Educational Sciences Room 146,<br /> 1025 West Johnson Street Madison, WI 53706
+						<!-- <i class="fa fa-circle small-icon" aria-hidden="true"></i> Ph: 555-555-5555 -->
+					</p>
+				</div>
 			</div>
-			<div class="row">
-				<nav>
-					<ul>
-						<?php include ('nav-links.php'); ?>
-					</ul>
-				</nav>
+
+			<div class="col-sm-4 pad10">
+				<div class="row">
+					<nav>
+						<ul>
+							<?php include ('nav-links.php'); ?>
+						</ul>
+					</nav>
+				</div>
 			</div>
 		</div>
-	</div>
+	</div><!-- /.footer-container -->
 <!-- END: Footer -->
 
 

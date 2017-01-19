@@ -53,56 +53,52 @@
   </div>
 
   <div class="container-fluid">
-    <div class="col-sm-8">
-      <div class="row bg-ddblue">
-        <div class="row wow fadeInUp" data-wow-delay=".55s">
-          <?php query_posts('category_name=featured&posts_per_page=1');?>
-          <?php if (have_posts()) : ?>
-              <?php $post = $posts[0]; // Hack. Set $post so that the_date() works. ?>
-              <?php /* If this is a category archive */ if (is_category()) { ?>
-              <?php } ?>
-              <?php while (have_posts()) : the_post(); ?>
-                <!-- The Content -->
-                <div <?php post_class() ?>>
-                  <div class="row post-img-container">
-                    <a href="<?php the_permalink() ?>">
-                    <?php
-                      if ( has_post_thumbnail() ) {
-                        the_post_thumbnail();
-                      }?>
-                    </a>
-                  </div>
-                  <div class="row pad60">
-                    <h3><a href="<?php the_permalink() ?>"  class="text-green"><?php the_title(); ?></a></h3>
-                    <div class="thickdiv mar10-bot mar10-top"></div>
-                    <p><span  class="text-lblue"><?php the_content( $more_link_text , $strip_teaser ); ?>
-                    </span></p>
-                  </div>
-                </div><!-- /The Content -->
-              <?php endwhile; ?>
-              <?php else : ?>
-                <p class="text-lblue">There are currently no items to display</p>
-          <?php endif; ?>
-        </div><!-- ./row -->
+    <div class="container">
+      <div class="col-sm-8">
+        <div class="row bg-ddblue">
+          <div class="row wow fadeInUp" data-wow-delay=".55s">
+            <?php query_posts('category_name=featured&posts_per_page=1');?>
+            <?php if (have_posts()) : ?>
+                <?php $post = $posts[0]; // Hack. Set $post so that the_date() works. ?>
+                <?php /* If this is a category archive */ if (is_category()) { ?>
+                <?php } ?>
+                <?php while (have_posts()) : the_post(); ?>
+                  <!-- The Content -->
+                  <div <?php post_class() ?>>
+                    <div class="row post-img-container">
+                      <a href="<?php the_permalink() ?>">
+                      <?php
+                        if ( has_post_thumbnail() ) {
+                          the_post_thumbnail();
+                        }?>
+                      </a>
+                    </div>
+                    <div class="row pad60">
+                      <h3><a href="<?php the_permalink() ?>"  class="text-green"><?php the_title(); ?></a></h3>
+                      <div class="thickdiv mar10-bot mar10-top"></div>
+                      <p><span  class="text-lblue"><?php the_content( $more_link_text , $strip_teaser ); ?>
+                      </span></p>
+                    </div>
+                  </div><!-- /The Content -->
+                <?php endwhile; ?>
+                <?php else : ?>
+                  <p class="text-lblue">There are currently no items to display</p>
+            <?php endif; ?>
+          </div><!-- ./row -->
+        </div>
       </div>
+
+      <div class="col-sm-4">
+        <div class="row pad60 bg-green">
+
+          <div class="row">
+            <a class="twitter-timeline" data-height="auto" href="https://twitter.com/HigherEdGames">Tweets by HigherEdGames</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+          </div>
+        </div>
+      </div>
+    </div><!-- /.container-fluid -->
     </div>
 
-    <div class="col-sm-4">
-      <div class="row pad60 bg-green">
-
-        <div class="row">
-
-        </div>
-        <div class="row">
-
-        </div>
-        <div class="row">
-
-        </div>
-
-      </div>
-    </div>
-  </div><!-- /.container-fluid -->
 
   <div class="container-fluid">
     <div class="col-sm-8">

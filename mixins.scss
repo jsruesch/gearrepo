@@ -187,3 +187,8 @@
  .mar60-left{    margin-left: 60px !important; }
 
  /* END: Setup Classes */
+
+ /* Responsive Adjustments */
+ @media screen and (max-width:768px){
+  .pad60{ padding: 30px !important; }
+ }

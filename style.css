@@ -335,6 +335,10 @@ h1, h2, h3, h4, h5, p {
   margin-left: 60px !important; }
 
 /* END: Setup Classes */
+/* Responsive Adjustments */
+@media screen and (max-width: 768px) {
+  .pad60 {
+    padding: 30px !important; } }
 /**
  * =========================================
  * Imports
@@ -663,8 +667,27 @@ h1, h2, h3, h4, h5, p {
   margin-left: 60px !important; }
 
 /* END: Setup Classes */
-/* END: Imports */
+/* Responsive Adjustments */
 @media screen and (max-width: 768px) {
+  .pad60 {
+    padding: 30px !important; } }
+/* END: Imports */
+/* Medium devices (desktops, 992px and up) */
+@media screen and (min-width: 1025px) {
+  .container {
+    width: 100% !important; }
+
+  /* BS Override */ }
+/* Large devices (large desktops, 1200px and up) */
+@media screen and (min-width: 1170px) {
+  .container {
+    width: 80% !important; }
+
+  /* BS Override */ }
+@media screen and (max-width: 768px) {
+  h1 {
+    font-size: 30px !important; }
+
   .nav-menu {
     display: none; }
 
@@ -728,6 +751,7 @@ h1, h2, h3, h4, h5, p {
     text-align: center; }
     .footer-container nav {
       text-align: center !important; } }
+/* Devices */
 @media (max-device-width: 768px) {
   .nav-menu {
     display: none; }

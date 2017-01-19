@@ -107,6 +107,7 @@ table tr{  }
 .left{  float: left; }
 .right{ float: right; }
 .full{ @include full; }
+
 .valign{
   vertical-align: text-top;
 }

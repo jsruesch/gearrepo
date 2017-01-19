@@ -684,6 +684,7 @@ h1, h2, h3, h4, h5, p {
     width: 80% !important; }
 
   /* BS Override */ }
+/* Small Screens */
 @media screen and (max-width: 768px) {
   h1 {
     font-size: 30px !important; }
@@ -752,6 +753,18 @@ h1, h2, h3, h4, h5, p {
     .footer-container nav {
       text-align: center !important; } }
 /* Devices */
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 1025px) {
+  .container {
+    width: 100% !important; }
+
+  /* BS Override */ }
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1170px) {
+  .container {
+    width: 80% !important; }
+
+  /* BS Override */ }
 @media (max-device-width: 768px) {
   .nav-menu {
     display: none; }

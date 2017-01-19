@@ -92,8 +92,27 @@
         <div class="row wow fadeInUp pad60" data-wow-delay=".75s">
           <h3 class="text-ddblue"><span class="text-white">Stay</span> Connected</h3>
           <div class="thickdiv mar15-bot mar10-top"></div>
-          <div class="row rel">
+          <div class="row mar20-bot">
             <a class="twitter-timeline" data-height="250" href="https://twitter.com/HigherEdGames">Tweets by HigherEdGames</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+          </div>
+
+
+          <div class="row wow fadeInUp" data-wow-delay=".75s">
+            <div class="col-xs-4 bg-lgreen">
+              <div class="profile-link-button">
+                <a class="btn-gen" href="" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+              </div>
+            </div>
+            <div class="col-xs-4">
+              <div class="profile-link-button">
+                <a class="btn-gen" href="" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+              </div>
+            </div>
+            <div class="col-xs-4 bg-lgreen">
+              <div class="profile-link-button">
+                <a class="btn-gen" href="" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+              </div>
+            </div>
           </div>
         </div>
       </div>

@@ -777,7 +777,8 @@ textarea{
   @include transition;
 
   .project-page-image{
-    height: 75px;
+    width: 100%;
+    height: 150px;
   }
 
   h4{ color: $green; }

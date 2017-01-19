@@ -89,16 +89,14 @@
       </div>
 
       <div class="col-sm-4">
-        <div class="row wow fadeInUp pad60" data-wow-delay=".75s">
-          <h3 class="text-ddblue"><span class="text-white">Stay</span> Connected</h3>
+        <div class="row wow fadeInUp pad30" data-wow-delay=".75s">
+          <h4 class="text-ddblue"><span class="text-white">Stay</span> Connected</h4>
           <div class="thickdiv mar15-bot mar10-top"></div>
-          <div class="row mar20-bot">
-            <a class="twitter-timeline" data-height="300" href="https://twitter.com/HigherEdGames">Tweets by HigherEdGames</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+          <div class="">
+            <a class="twitter-timeline" data-height="250" href="https://twitter.com/HigherEdGames">Tweets by HigherEdGames</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
           </div>
+          <div class="row wow fadeInUp mar20-top" data-wow-delay="1.5s">
 
-
-          <div class="row wow fadeInUp" data-wow-delay="1.5s">
-            <div class="thickdiv mar15-bot "></div>
             <div class="col-xs-3 bg-lgreen">
               <div class="profile-link-button">
                 <a class="btn-gen" href="" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
@@ -120,11 +118,66 @@
               </div>
             </div>
           </div>
+
         </div>
       </div>
-    </div><!-- /.container-fluid -->
-    </div>
 
+      <div class="col-sm-12 pad60">
+        <div class="row">
+          <h3 class="text-ddblue"><span class="text-white">Featured</span> Projects</h3>
+          <div class="thickdiv mar15-bot mar10-top"></div>
+        </div>
+
+
+        <div class="col-sm-4 wow fadeInUp" data-wow-delay=".25s">
+          <div class="row bg-ddblue hp-featured-proj">
+            <a href="at-play-in-the-cosmos">
+                <div class="row project-page-image">
+                  <img src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/project-page-image-cosmos-01.png"/>
+                </div>
+                <div class="row bg-ddblue pad25">
+                  <h4 class="text-green">At Play in the Cosmos</h4>
+                  <p class="text-lblue">
+                      Astronomy
+                  </p>
+                </div>
+              </a>
+          </div>
+        </div>
+        <div class="col-sm-4 wow fadeInUp" data-wow-delay=".45s">
+          <div class="row bg-ddblue hp-featured-proj">
+            <a href="http://www.gearlearning.org/microsites/econauts/" target="_blank">
+                <div class="row project-page-image">
+                  <img src="<?php echo get_template_directory_uri(); ?>/img/projects/econauts/project-page-image-econauts-01.png"/>
+                </div>
+                <div class="row bg-ddblue pad25">
+                  <h4 class="text-green">Econauts</h4>
+                  <p class="text-lblue">
+                      Environmental Science
+                  </p>
+                </div>
+              </a>
+          </div>
+        </div>
+        <div class="col-sm-4 wow fadeInUp" data-wow-delay=".65s">
+          <div class="row bg-ddblue hp-featured-proj">
+            <a href="http://www.gearlearning.org/microsites/progenitor/" target="_blank">
+                <div class="row project-page-image">
+                  <img src="<?php echo get_template_directory_uri(); ?>/img/projects/progenitor/project-page-image-progenitor-01.png"/>
+                </div>
+                <div class="row bg-ddblue pad25">
+                  <h4 class="text-green">Progenitor X</h4>
+                  <p class="text-lblue">
+                      Stem Cell Science
+                  </p>
+                </div>
+              </a>
+          </div>
+        </div>
+
+      </div>
+    </div><!-- /.container -->
+  </div><!-- /.container-fluit -->
 
   <div class="container-fluid">
     <div class="container bg-ddblue">
@@ -149,56 +202,7 @@
       </a>
       <!-- END: Recent Release -->
     </div>
-    <div class="col-sm-4 pad60">
-      <h3 class="text-green"><span class="text-white">Featured</span> Projects</h3>
-      <div class="thickdiv mar10-bot mar10-top"></div>
 
-
-        <a href="">
-          <div class="row mar20-bot hp-featured-proj">
-              <div class="col-lg-3 project-page-image">
-                <img src="<?php echo get_template_directory_uri(); ?>/img/projects/econauts/project-page-image-econauts-01.png"/>
-              </div>
-            <div class="col-lg-9 pad20-top pad15-left pad15-right pad15-bot">
-              <h4>Econauts</h4>
-            </div>
-          </div>
-        </a>
-        <a href="">
-          <div class="row mar20-bot  hp-featured-proj">
-                <div class="col-md-3 project-page-image">
-                  <img src="<?php echo get_template_directory_uri(); ?>/img/projects/pawpad/project-page-image-pawpad-01.png"/>
-                </div>
-              <div class="col-md-9 pad20-top pad15-left pad15-right pad15-bot">
-                <h4>Pawpad</h4>
-              </div>
-          </div>
-        </a>
-        <a href="">
-          <div class="row mar20-bot hp-featured-proj">
-                <div class="col-md-3 project-page-image">
-                  <img src="<?php echo get_template_directory_uri(); ?>/img/projects/apex/project-page-image-apex-01.png"/>
-                </div>
-              <div class="col-lg-9 pad20-top pad15-left pad15-right pad15-bot">
-                <h4>Apex Anatomy Table</h4>
-              </div>
-          </div>
-        </a>
-        <a href="">
-          <div class="row hp-featured-proj">
-                <div class="col-lg-3 project-page-image">
-                  <img src="<?php echo get_template_directory_uri(); ?>/img/projects/apex/project-page-image-apex-01.png"/>
-                </div>
-              <div class="col-lg-9  pad20-top pad15-left pad15-right pad15-bot">
-                <h4>Apex Anatomy Table</h4>
-              </div>
-          </div>
-        </a>
-
-
-
-
-    </div>
   </div>
 </div><!-- /.container -->
   </div><!-- /.container-fluid -->

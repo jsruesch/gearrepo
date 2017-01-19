@@ -833,7 +833,7 @@ h1, h2, h3, h4, h5, p {
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: 1170px) {
   .container {
-    width: 70% !important; }
+    width: 80% !important; }
 
   /* BS Override */ }
 @media (max-device-width: 768px) {
@@ -1564,7 +1564,8 @@ textarea {
   -ms-transition: all 0.2s ease;
   -o-transition: all 0.2s ease; }
   .hp-featured-proj .project-page-image {
-    height: 75px; }
+    width: 100%;
+    height: 150px; }
   .hp-featured-proj h4 {
     color: #87b840; }
   .hp-featured-proj:hover {

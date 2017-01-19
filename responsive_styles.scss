@@ -124,7 +124,7 @@
 
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: 1170px) {
-  .container{ width: 70% !important; } /* BS Override */
+  .container{ width: 80% !important; } /* BS Override */
 }
 @media (max-device-width:768px){
     .nav-menu{ display: none; }
@@ -187,6 +187,6 @@
         height: auto;
       }
     }
-    
+
     .project-page-image{ height: 150px !important; }
 }

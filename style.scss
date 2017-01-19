@@ -72,8 +72,14 @@ p{
   }
 }
 
-ul{ list-style:none; margin-bottom: 0 !important; }
-.disc{ list-style: disc; padding-left: 20px; }
+ul{ list-style:none; margin-bottom: 0 !important;  }
+.disc{
+  font-family: 'Open Sans', sans-serif !important;
+  font-size: 17px;
+  line-height: 1.6em;
+  list-style: disc;
+  padding-left: 20px;
+}
 
 hr{  }
 

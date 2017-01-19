@@ -351,16 +351,16 @@ h1, h2, h3, h4, h5, p {
 /* Responsive Adjustments */
 @media screen and (max-width: 768px) {
   .pad60 {
-    padding: 30px !important; } }
+    padding: 35px !important; } }
 @media screen and (max-width: 992px) {
   .pad60 {
-    padding: 30px !important; } }
+    padding: 35px !important; } }
 @media (max-width: 992px) {
   .pad60 {
-    padding: 30px !important; } }
+    padding: 35px !important; } }
 @media (max-width: 768px) {
   .pad60 {
-    padding: 30px !important; } }
+    padding: 35px !important; } }
 /**
  * =========================================
  * Imports
@@ -705,16 +705,16 @@ h1, h2, h3, h4, h5, p {
 /* Responsive Adjustments */
 @media screen and (max-width: 768px) {
   .pad60 {
-    padding: 30px !important; } }
+    padding: 35px !important; } }
 @media screen and (max-width: 992px) {
   .pad60 {
-    padding: 30px !important; } }
+    padding: 35px !important; } }
 @media (max-width: 992px) {
   .pad60 {
-    padding: 30px !important; } }
+    padding: 35px !important; } }
 @media (max-width: 768px) {
   .pad60 {
-    padding: 30px !important; } }
+    padding: 35px !important; } }
 /* END: Imports */
 /* Small devices */
 @media screen and (min-width: 768px) {

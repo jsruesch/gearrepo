@@ -97,20 +97,26 @@
           </div>
 
 
-          <div class="row wow fadeInUp" data-wow-delay=".75s">
-            <div class="col-xs-4 bg-lgreen">
+          <div class="row wow fadeInUp" data-wow-delay="1.5s">
+            <div class="thickdiv mar15-bot "></div>
+            <div class="col-xs-3 bg-lgreen">
               <div class="profile-link-button">
                 <a class="btn-gen" href="" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
               </div>
             </div>
-            <div class="col-xs-4">
+            <div class="col-xs-3">
               <div class="profile-link-button">
                 <a class="btn-gen" href="" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
               </div>
             </div>
-            <div class="col-xs-4 bg-lgreen">
+            <div class="col-xs-3 bg-lgreen">
               <div class="profile-link-button">
                 <a class="btn-gen" href="" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+              </div>
+            </div>
+            <div class="col-xs-3">
+              <div class="profile-link-button">
+                <a class="btn-gen" href="" target="_blank"><i class="fa fa-vimeo" aria-hidden="true"></i></a>
               </div>
             </div>
           </div>

@@ -19,7 +19,7 @@
     <div class="container">
       <div class="row pad15-left pad15-right">
         <!-- Type JS -->
-        <div class="col-sm-8">
+        <div class="col-sm-6">
           <h1 class="text-shadow">
             <span class="text-white">WE CREATE GAMES<br /> THAT</span>
             <div id="typed-strings">
@@ -94,7 +94,7 @@
       BEGIN: Stay Connected
     -->
       <div class="col-sm-4">
-        <div class="row wow fadeInUp pad30" data-wow-delay=".75s">
+        <div class="row wow fadeInUp pad30" data-wow-delay=".55s">
           <h4 class="text-ddblue"><span class="text-white">Stay</span> Connected</h4>
           <div class="thickdiv mar15-bot mar10-top"></div>
           <!-- Twitter -->
@@ -189,12 +189,14 @@
   BEGIN: Recent Release
 -->
   <div class="container-fluid">
-    <div class="container bg-ddblue">
-      <div class="col-sm-8">
+    <div class="container bg-ddblue pad60">
+      <div class="col-sm-6">
         <a href="/at-play-in-the-cosmos">
           <div class="row wow fadeInUp" data-wow-delay=".25s">
               <div class="recent-release-img-container">
-                  <img src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/featured-image-cosmos-01.png"/>
+                <div class="row iframe-embed-container">
+                  <iframe src="https://player.vimeo.com/video/179368796?byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                </div>
                   <div class="row pad30 bg-ddblue recent-release-title-container">
                     <h3 class="text-white">Recent Release</h3>
                     <h1 class="text-green">At Play in the Cosmos</h1>
@@ -206,7 +208,13 @@
               </div>
           </div>
         </a>
-      </div><!-- /.col-sm-8 -->
+      </div><!-- /.col-sm-6 -->
+      <div class="col-sm-6 pad30-left pad30-right">
+        <div class="row wow fadeInUp" data-wow-delay=".45s">
+          <h3 class="text-green"><span class="text-white">Featured</span> Projects</h3>
+          <div class="thickdiv mar15-bot mar10-top"></div>
+        </div>
+      </div>
     </div><!-- /container -->
   </div><!-- /.container-fluid -->
 <!-- END: Recent Release -->

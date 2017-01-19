@@ -759,7 +759,7 @@ textarea{
 
  .project-page-image{
    width: 100%;
-   height: 225px;
+   height: 255px;
    position: relative;
    overflow: hidden;
 
@@ -771,6 +771,26 @@ textarea{
      height: 100%;
    }
  }
+
+
+.hp-featured-proj{
+  @include transition;
+
+  .project-page-image{
+    height: 75px;
+  }
+
+  h4{ color: $green; }
+
+  &:hover{
+    @include transition;
+
+    background: $green;
+    h4{
+      color: $white;
+    }
+  }
+}
 
 .project-banner-cosmos{
   background: url(img/banner-space-with-ship.png) 30% 0% no-repeat;

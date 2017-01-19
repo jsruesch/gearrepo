@@ -127,7 +127,7 @@
 
 
   <div class="container-fluid">
-    <div class="container">
+    <div class="container bg-ddblue">
     <div class="col-sm-8">
       <!--
         BEGIN: Recent Release
@@ -149,77 +149,51 @@
       </a>
       <!-- END: Recent Release -->
     </div>
-    <div class="col-sm-4 pad60 bg-ddblue">
+    <div class="col-sm-4 pad60">
       <h3 class="text-green"><span class="text-white">Featured</span> Projects</h3>
       <div class="thickdiv mar10-bot mar10-top"></div>
-      <div class="col-xs-12 col-sm-4 col-md-12">
-        <div class="row">
-            <a href="http://www.gearlearning.org/microsites/econauts/" target="_blank">
-              <div class="row selproj-btn">
-                <div class="row project-page-image">
-                  <img src="<?php echo get_template_directory_uri(); ?>/img/projects/econauts/project-page-image-econauts-01.png"/>
-                </div>
-                <div class="row bg-ddblue pad20-top pad15-left pad15-right pad15-bot">
-                  <h4 class="text-green">Econauts</h4>
-                  <p class="text-lblue">
-                      Environmental Science
-                  </p>
-                </div>
-              </a>
+
+
+        <a href="">
+          <div class="row mar20-bot hp-featured-proj">
+              <div class="col-lg-3 project-page-image">
+                <img src="<?php echo get_template_directory_uri(); ?>/img/projects/econauts/project-page-image-econauts-01.png"/>
+              </div>
+            <div class="col-lg-9 pad20-top pad15-left pad15-right pad15-bot">
+              <h4>Econauts</h4>
+            </div>
           </div>
-        </div>
-      </div>
-      <div class="col-xs-12 col-sm-4 col-md-12">
-        <div class="row">
-          <a href="">
-            <div class="row selproj-btn">
-                <div class="row project-page-image">
+        </a>
+        <a href="">
+          <div class="row mar20-bot  hp-featured-proj">
+                <div class="col-md-3 project-page-image">
                   <img src="<?php echo get_template_directory_uri(); ?>/img/projects/pawpad/project-page-image-pawpad-01.png"/>
                 </div>
-              <div class="row bg-ddblue pad20-top pad15-left pad15-right pad15-bot">
-                <h4 class="text-green">Pawpad</h4>
-                <p class="text-lblue">
-                    Veterinary Anatomy
-                </p>
+              <div class="col-md-9 pad20-top pad15-left pad15-right pad15-bot">
+                <h4>Pawpad</h4>
               </div>
-            </div>
-            </a>
-        </div>
-      </div>
-      <div class="col-xs-12 col-sm-4 col-md-12">
-        <div class="row">
-          <a href="">
-            <div class="row selproj-btn">
-                <div class="row project-page-image">
+          </div>
+        </a>
+        <a href="">
+          <div class="row mar20-bot hp-featured-proj">
+                <div class="col-md-3 project-page-image">
                   <img src="<?php echo get_template_directory_uri(); ?>/img/projects/apex/project-page-image-apex-01.png"/>
                 </div>
-              <div class="row bg-ddblue pad20-top pad15-left pad15-right pad15-bot">
-                <h4 class="text-green">Apex Anatomy Table</h4>
-                <p class="text-lblue">
-                    Interactable Anatomy Table
-                </p>
+              <div class="col-lg-9 pad20-top pad15-left pad15-right pad15-bot">
+                <h4>Apex Anatomy Table</h4>
               </div>
-            </div>
-            </a>
-        </div>
-      </div>
-      <div class="col-xs-12 col-sm-4 col-md-12">
-        <div class="row">
-          <a href="">
-            <div class="row selproj-btn">
-                <div class="row project-page-image">
+          </div>
+        </a>
+        <a href="">
+          <div class="row hp-featured-proj">
+                <div class="col-lg-3 project-page-image">
                   <img src="<?php echo get_template_directory_uri(); ?>/img/projects/apex/project-page-image-apex-01.png"/>
                 </div>
-              <div class="row bg-ddblue pad20-top pad15-left pad15-right pad15-bot">
-                <h4 class="text-green">Apex Anatomy Table</h4>
-                <p class="text-lblue">
-                    Interactable Anatomy Table
-                </p>
+              <div class="col-lg-9  pad20-top pad15-left pad15-right pad15-bot">
+                <h4>Apex Anatomy Table</h4>
               </div>
-            </div>
-            </a>
-        </div>
-      </div>
+          </div>
+        </a>
 
 
 

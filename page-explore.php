@@ -10,12 +10,11 @@
 <!--
   BEGIN: Main Content
 -->
-  <div class="container-fluid mar20-top mar20-bot">
-    <div class="container pad30-left pad30-right">
+  <div class="container-fluid">
     <!--
       BEGIN: UNIFIED VISION
       -->
-      <div class="row bg-fill-unified-vision mar30-bot">
+      <div class="row bg-fill-unified-vision">
         <div class="col-sm-6 col-sm-offset-6 bg-green pad60">
           <h1 class="text-white">Born of a <br /> unified vision</h1>
           <div class="thickdiv mar10-bot mar10-top"></div>
@@ -42,11 +41,12 @@
       BEGIN: MEET OUR TEAM
       -->
         <!-- Header -->
-        <div class="row mar5-bot">
+        <div class="row pad60-top pad60-left pad60-right">
           <h2 class="text-white">Meet <span class="text-green">Our Team</span></h2>
+          <div class="thickdiv mar10-bot mar10-top"></div>
         </div><!-- END: Header -->
         <!-- Portraits -->
-        <div class="row">
+        <div class="row pad60-left pad60-right pad60-bot">
         <!-- Mike -->
           <div class="col-sm-6 col-md-3 col-lg-2 pad5">
             <a href="profile-mike">
@@ -170,7 +170,7 @@
         BEGIN: TESTIMONIALS
         -->
           <!-- Header -->
-          <div class="row mar30-top pad30 bg-ddblue">
+          <div class="row pad60 bg-ddblue">
             <div class="row">
               <h2 class="text-white">Our <span class="text-green">Friends</span></h2>
               <p class="text-lblue">
@@ -287,7 +287,7 @@
         <!--
           BEGIN: CHANGE LEARNING
           -->
-          <div class="row bg-fill-together mar30-top">
+          <div class="row bg-fill-together">
             <div class="col-sm-6 col-sm-offset-6 bg-green pad60">
               <h1 class="text-white">Changing Learning<br /> Through Partnerships</h1>
               <div class="thickdiv mar10-bot mar10-top"></div>
@@ -302,7 +302,6 @@
             </div>
           </div>
         <!-- END: CHANGE LEARNING -->
-    </div><!-- /.container -->
   </div><!-- /.container-fluid -->
 <!-- END: Main Content -->
 

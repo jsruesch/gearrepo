@@ -673,7 +673,7 @@ h1, h2, h3, h4, h5, p {
     padding: 30px !important; } }
 /* END: Imports */
 /* Medium devices (desktops, 992px and up) */
-@media screen and (min-width: 1025px) {
+@media screen and (min-width: 992px) {
   .container {
     width: 100% !important; }
 
@@ -686,6 +686,10 @@ h1, h2, h3, h4, h5, p {
   /* BS Override */ }
 /* Small Screens */
 @media screen and (max-width: 768px) {
+  .dis-table-cell {
+    width: 100%;
+    float: left; }
+
   h1 {
     font-size: 30px !important; }
 
@@ -762,7 +766,7 @@ h1, h2, h3, h4, h5, p {
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: 1170px) {
   .container {
-    width: 80% !important; }
+    width: 70% !important; }
 
   /* BS Override */ }
 @media (max-device-width: 768px) {
@@ -903,9 +907,6 @@ h1, h2, h3, h4, h5, h6 {
 .full {
   width: 100%;
   float: left; }
-
-.valign {
-  vertical-align: text-top; }
 
 .cstbtn {
   display: inline-block;

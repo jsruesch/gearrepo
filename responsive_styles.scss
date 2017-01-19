@@ -10,7 +10,7 @@
 
 
 /* Medium devices (desktops, 992px and up) */
-@media screen and (min-width: 1025px) {
+@media screen and (min-width: 992px) {
   .container{ width: 100% !important; } /* BS Override */
 }
 
@@ -21,6 +21,10 @@
 
 /* Small Screens */
 @media screen and (max-width:768px){
+
+  .dis-table-cell{
+    @include full;
+  }
 
   h1{ font-size: 30px !important; }
 
@@ -93,6 +97,7 @@
     }
   }
 
+
   .footer-container{ text-align: center; nav{ text-align: center !important; }}
 
 }
@@ -105,7 +110,7 @@
 
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: 1170px) {
-  .container{ width: 80% !important; } /* BS Override */
+  .container{ width: 70% !important; } /* BS Override */
 }
 @media (max-device-width:768px){
     .nav-menu{ display: none; }

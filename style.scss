@@ -107,10 +107,6 @@ table tr{  }
 .left{  float: left; }
 .right{ float: right; }
 .full{ @include full; }
-
-.valign{
-  vertical-align: text-top;
-}
 .cstbtn{
   display: inline-block;
   overflow: hidden !important;
@@ -538,6 +534,8 @@ iframe{ width: 100%; }
     background-position: center center;
     background-size: cover;
   }
+
+
 
 .bg-fill-new-vision{
   background: url(img/new-vision.png) 50% 0% no-repeat;

@@ -11,6 +11,7 @@
   BEGIN: Main Content
 -->
   <div class="container-fluid">
+    <div class="container">
     <!--
       BEGIN: UNIFIED VISION
       -->
@@ -111,7 +112,7 @@
         </div>
       </div>
     <!-- END: UNIFIED VISION -->
-
+  </div><!-- /.container -->
   </div><!-- /.container-fluid -->
 <!-- END: Main Content -->
 

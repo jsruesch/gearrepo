@@ -1,5 +1,6 @@
 
 <div class="container-fluid nav-full-container">
+  <div class="container">
     <div class="row">
       <!-- Nav Logo -->
       <div class="nav-logo">
@@ -33,4 +34,5 @@
         </div>
       </div><!-- END: Mobile Navigation -->
     </div><!-- /.row -->
+  </div><!-- /.container -->
 </div><!-- /.container-fluid .nav-full-container -->

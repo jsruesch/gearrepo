@@ -11,6 +11,7 @@
   BEGIN: Main Content
 -->
   <div class="container-fluid">
+    <div class="container">
     <!--
       BEGIN: UNIFIED VISION
       -->
@@ -302,6 +303,7 @@
             </div>
           </div>
         <!-- END: CHANGE LEARNING -->
+      </div><!-- /.container -->
   </div><!-- /.container-fluid -->
 <!-- END: Main Content -->
 

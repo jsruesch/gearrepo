@@ -46,17 +46,17 @@
 -->
   <div class="container-fluid mission-container wow fadeIn">
     <div class="container">
-      <div class="row pad30-left pad30-right">
+      <div class="row pad60-left pad60-right">
           <h2 class="text-center text-white mission-text wow fadeInUp" data-wow-delay=".45s">We design and develop games to help make complex content <span class="text-green">accessible</span> and <span class="text-green">fun</span>.</h2>
       </div>
     </div>
   </div>
 
   <div class="container-fluid">
-    <div class="container">
+    <div class="container bg-green">
       <div class="col-sm-8">
         <div class="row bg-ddblue">
-          <div class="row wow fadeInUp" data-wow-delay=".55s">
+          <div class="row wow fadeInUp" data-wow-delay=".45s">
             <?php query_posts('category_name=featured&posts_per_page=1');?>
             <?php if (have_posts()) : ?>
                 <?php $post = $posts[0]; // Hack. Set $post so that the_date() works. ?>
@@ -89,9 +89,10 @@
       </div>
 
       <div class="col-sm-4">
-        <div class="row pad60 bg-green">
-
-          <div class="row">
+        <div class="row wow fadeInUp pad60" data-wow-delay=".75s">
+          <h3 class="text-ddblue"><span class="text-white">Stay</span> Connected</h3>
+          <div class="thickdiv mar15-bot mar10-top"></div>
+          <div class="row rel">
             <a class="twitter-timeline" data-height="auto" href="https://twitter.com/HigherEdGames">Tweets by HigherEdGames</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
           </div>
         </div>
@@ -101,6 +102,7 @@
 
 
   <div class="container-fluid">
+    <div class="container">
     <div class="col-sm-8">
       <!--
         BEGIN: Recent Release
@@ -123,8 +125,9 @@
       <!-- END: Recent Release -->
     </div>
     <div class="col-sm-4 pad60 bg-ddblue">
-      <h3 class="text-green pad10-left"><span class="text-white">Featured</span> Projects</h3>
-      <div class="col-sm-6">
+      <h3 class="text-green"><span class="text-white">Featured</span> Projects</h3>
+      <div class="thickdiv mar10-bot mar10-top"></div>
+      <div class="col-xs-12 col-sm-4 col-md-12">
         <div class="row">
             <a href="http://www.gearlearning.org/microsites/econauts/" target="_blank">
               <div class="row selproj-btn">
@@ -141,7 +144,7 @@
           </div>
         </div>
       </div>
-      <div class="col-sm-6">
+      <div class="col-xs-12 col-sm-4 col-md-12">
         <div class="row">
           <a href="">
             <div class="row selproj-btn">
@@ -158,7 +161,7 @@
             </a>
         </div>
       </div>
-      <div class="col-sm-6">
+      <div class="col-xs-12 col-sm-4 col-md-12">
         <div class="row">
           <a href="">
             <div class="row selproj-btn">
@@ -175,7 +178,7 @@
             </a>
         </div>
       </div>
-      <div class="col-sm-6">
+      <div class="col-xs-12 col-sm-4 col-md-12">
         <div class="row">
           <a href="">
             <div class="row selproj-btn">
@@ -198,6 +201,7 @@
 
     </div>
   </div>
+</div><!-- /.container -->
   </div><!-- /.container-fluid -->
 <!-- END: Main Content -->
 

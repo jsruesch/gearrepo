@@ -9,6 +9,11 @@
 /* END: Imports */
 
 
+/* Small devices */
+@media screen and (min-width: 768px) {
+  .container{ width: 100% !important; } /* BS Override */
+}
+
 /* Medium devices (desktops, 992px and up) */
 @media screen and (min-width: 992px) {
   .container{ width: 100% !important; } /* BS Override */
@@ -22,9 +27,7 @@
 /* Small Screens */
 @media screen and (max-width:768px){
 
-  .dis-table-cell{
-    @include full;
-  }
+  .container{ width: 100% !important; } /* BS Override */
 
   h1{ font-size: 30px !important; }
 
@@ -97,12 +100,21 @@
     }
   }
 
-
   .footer-container{ text-align: center; nav{ text-align: center !important; }}
 
 }
 
 /* Devices */
+/* Small devices */
+@media (min-width: 768px) {
+  .container{ width: 100% !important; } /* BS Override */
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  .container{ width: 100% !important; } /* BS Override */
+}
+
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 1025px) {
   .container{ width: 100% !important; } /* BS Override */

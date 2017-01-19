@@ -352,6 +352,15 @@ h1, h2, h3, h4, h5, p {
 @media screen and (max-width: 768px) {
   .pad60 {
     padding: 30px !important; } }
+@media screen and (max-width: 992px) {
+  .pad60 {
+    padding: 30px !important; } }
+@media (max-width: 992px) {
+  .pad60 {
+    padding: 30px !important; } }
+@media (max-width: 768px) {
+  .pad60 {
+    padding: 30px !important; } }
 /**
  * =========================================
  * Imports
@@ -697,7 +706,22 @@ h1, h2, h3, h4, h5, p {
 @media screen and (max-width: 768px) {
   .pad60 {
     padding: 30px !important; } }
+@media screen and (max-width: 992px) {
+  .pad60 {
+    padding: 30px !important; } }
+@media (max-width: 992px) {
+  .pad60 {
+    padding: 30px !important; } }
+@media (max-width: 768px) {
+  .pad60 {
+    padding: 30px !important; } }
 /* END: Imports */
+/* Small devices */
+@media screen and (min-width: 768px) {
+  .container {
+    width: 100% !important; }
+
+  /* BS Override */ }
 /* Medium devices (desktops, 992px and up) */
 @media screen and (min-width: 992px) {
   .container {
@@ -712,10 +736,10 @@ h1, h2, h3, h4, h5, p {
   /* BS Override */ }
 /* Small Screens */
 @media screen and (max-width: 768px) {
-  .dis-table-cell {
-    width: 100%;
-    float: left; }
+  .container {
+    width: 100% !important; }
 
+  /* BS Override */
   h1 {
     font-size: 30px !important; }
 
@@ -783,6 +807,18 @@ h1, h2, h3, h4, h5, p {
     .footer-container nav {
       text-align: center !important; } }
 /* Devices */
+/* Small devices */
+@media (min-width: 768px) {
+  .container {
+    width: 100% !important; }
+
+  /* BS Override */ }
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  .container {
+    width: 100% !important; }
+
+  /* BS Override */ }
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 1025px) {
   .container {

@@ -93,7 +93,7 @@
           <h3 class="text-ddblue"><span class="text-white">Stay</span> Connected</h3>
           <div class="thickdiv mar15-bot mar10-top"></div>
           <div class="row mar20-bot">
-            <a class="twitter-timeline" data-height="250" href="https://twitter.com/HigherEdGames">Tweets by HigherEdGames</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+            <a class="twitter-timeline" data-height="300" href="https://twitter.com/HigherEdGames">Tweets by HigherEdGames</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
           </div>
 
 

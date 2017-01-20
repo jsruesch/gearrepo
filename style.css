@@ -751,6 +751,13 @@ h1, h2, h3, h4, h5, p {
     width: 100% !important; }
 
   /* BS Override */
+  .post-img-left,
+  .post-img-right {
+    width: 100%;
+    float: left;
+    padding-top: 20px;
+    padding-bottom: 20px; }
+
   h1 {
     font-size: 30px !important; }
 
@@ -859,6 +866,13 @@ h1, h2, h3, h4, h5, p {
 
   .mobile-dropdown {
     display: block !important; }
+
+  .post-img-left,
+  .post-img-right {
+    width: 100%;
+    float: left;
+    padding-top: 20px;
+    padding-bottom: 20px; }
 
   .hp-banner-container {
     height: 275px !important;
@@ -1754,6 +1768,26 @@ textarea {
   margin-top: 20px; }
 
 /* END: Share Me Overrides */
+/**
+ * =========================================
+ * Post Styles
+ * =========================================
+ */
+.post-img-left {
+  float: left;
+  padding: 20px; }
+
+.post-img-right {
+  float: right;
+  padding: 20px; }
+
+.post-img-full {
+  width: 100%;
+  float: left;
+  padding-top: 20px;
+  padding-bottom: 20px; }
+
+/* END: Post Styles */
 /**
  * =========================================
  * Footer

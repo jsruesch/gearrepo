@@ -963,6 +963,31 @@ textarea{
 
  /* END: Share Me Overrides */
 
+ /**
+  * =========================================
+  * Post Styles
+  * =========================================
+  */
+
+  .post-img-left{
+    float: left;
+    padding: 20px;
+  }
+
+  .post-img-right{
+    float: right;
+    padding: 20px;
+  }
+
+  .post-img-full{
+    width: 100%;
+    float: left;
+    padding-top: 20px;
+    padding-bottom: 20px; 
+  }
+
+
+  /* END: Post Styles */
 
 /**
  * =========================================

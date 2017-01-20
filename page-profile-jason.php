@@ -10,13 +10,13 @@
 <!--
   BEGIN: Main Content
 -->
-  <div class="container-fluid mar30-top mar20-bot">
-    <div class="container pad30-left pad30-right">
+  <div class="container-fluid">
+    <div class="container">
     <!--
       BEGIN: UNIFIED VISION
       -->
-      <div class="row mar30-bot">
-        <div class="col-sm-3 pad10-right pad10-left">
+      <div class="row">
+        <div class="col-sm-3">
           <!-- Profile Image -->
           <div class="profile-image-container bg-ddblue">
             <div class="jason"></div>
@@ -48,19 +48,19 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-9 pad10-right pad10-left">
-          <div class="row bg-ddblue pad30">
+        <div class="col-sm-9">
+          <div class="row pad60">
             <div class="row">
               <p class="text-lblue">
                 I grew up with a pencil on one hand and a game controller in the other.  After 12 years as a land surveyor, I decided it was time to return to what I was passionate about, art and games.  In 2011, I joined the development team at Games+Learning+Society, and in 2012, received a degree in Game Art and Animation. As the team evolved, I grew with the group as it turned into GEAR, and now sit with the team as a Sr. 3D Artist.
               </p>
             </div>
           </div>
-          <div class="row">
-            <div class="col-sm-4 bg-green pad30">
-              <h4 class="text-dblue"><i class="fa fa-trophy text-white" aria-hidden="true"></i> Projects</h4>
+          <div class="row bg-ddblue pad30">
+            <div class="col-sm-4 pad15">
+              <h4 class="text-green"><i class="fa fa-trophy text-white" aria-hidden="true"></i> Projects</h4>
               <div class="thickdiv mar10-bot mar10-top"></div>
-              <ul class="text-dblue disc">
+              <ul class="text-lblue disc">
                 <li>Progenitor X</li>
                 <li>Fair Play</li>
                 <li>Crystals of Kaydor</li>
@@ -71,25 +71,23 @@
                 <li>At Play in the Cosmos</li>
               </ul>
             </div>
-            <div class="col-sm-8 bg-lblue">
-              <div class="col-sm-6 pad30">
-                <h4 class="text-dblue"><i class="fa fa-gamepad text-white" aria-hidden="true"></i> Playing Now</h4>
-                <div class="thickdiv mar10-bot mar10-top"></div>
-                <ul class="text-dblue disc">
-                  <li>The Division</li>
-                  <li>World of Warcraft</li>
-                  <li>Diablo 3</li>
-                </ul>
-              </div>
-              <div class="col-sm-6 pad30">
-                <h4 class="text-dblue"><i class="fa fa-heart text-white" aria-hidden="true"></i> Favorites</h4>
-                <div class="thickdiv mar10-bot mar10-top"></div>
-                <ul class="text-dblue disc">
-                  <li>Kid Icarus</li>
-                  <li>Final Fantasy Series</li>
-                  <li>World of Warcraft</li>
-                </ul>
-              </div>
+            <div class="col-sm-4 pad15">
+              <h4 class="text-green"><i class="fa fa-gamepad text-white" aria-hidden="true"></i> Playing Now</h4>
+              <div class="thickdiv mar10-bot mar10-top"></div>
+              <ul class="text-lblue disc">
+                <li>The Division</li>
+                <li>World of Warcraft</li>
+                <li>Diablo 3</li>
+              </ul>
+            </div>
+            <div class="col-sm-4 pad15">
+              <h4 class="text-green"><i class="fa fa-heart text-white" aria-hidden="true"></i> Favorites</h4>
+              <div class="thickdiv mar10-bot mar10-top"></div>
+              <ul class="text-lblue disc">
+                <li>Kid Icarus</li>
+                <li>Final Fantasy Series</li>
+                <li>World of Warcraft</li>
+              </ul>
             </div>
           </div>
         </div>

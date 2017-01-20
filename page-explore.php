@@ -225,65 +225,38 @@
               </div>
             </div> -->
             <div class="row mar20-top">
-              <div class="col-xs-12 col-sm-2 pad20">
-                <p class="text-lblue text-center">
-                  Logo Here
-                </p>
+              <div class="col-xs-6 col-sm-3 col-md-3 col-lg-2 pad20">
+                <img class="center-block partner-logo" src="<?php echo get_template_directory_uri(); ?>/img/partner-logos/partner-logo-norton.png" />
               </div>
-              <div class="col-xs-12 col-sm-2 pad20">
-                <p class="text-lblue text-center">
-                  Logo Here
-                </p>
+              <div class="col-xs-6 col-sm-3 col-md-3 col-lg-2 pad20">
+                <img class="center-block partner-logo" src="<?php echo get_template_directory_uri(); ?>/img/partner-logos/partner-logo-lead.png" />
               </div>
-              <div class="col-xs-12 col-sm-2 pad20">
-                <p class="text-lblue text-center">
-                  Logo Here
-                </p>
+              <div class="col-xs-6 col-sm-3 col-md-3 col-lg-2 pad20">
+                <img class="center-block partner-logo" src="<?php echo get_template_directory_uri(); ?>/img/partner-logos/partner-logo-devry.png" />
               </div>
-              <div class="col-xs-12 col-sm-2 pad20">
-                <p class="text-lblue text-center">
-                  Logo Here
-                </p>
+              <div class="col-xs-6 col-sm-3 col-md-3 col-lg-2 pad20">
+                <img class="center-block partner-logo" src="<?php echo get_template_directory_uri(); ?>/img/partner-logos/partner-logo-nysci.png" />
               </div>
-              <div class="col-xs-12 col-sm-2 pad20">
-                <p class="text-lblue text-center">
-                  Logo Here
-                </p>
+              <div class="col-xs-6 col-sm-3 col-md-3 col-lg-2 pad20">
+                <img class="center-block partner-logo" src="<?php echo get_template_directory_uri(); ?>/img/partner-logos/partner-logo-wid.png" />
               </div>
-              <div class="col-xs-12 col-sm-2 pad20">
-                <p class="text-lblue text-center">
-                  Logo Here
-                </p>
+              <div class="col-xs-6 col-sm-3 col-md-3 col-lg-2 pad20">
+                <img class="center-block partner-logo" src="<?php echo get_template_directory_uri(); ?>/img/partner-logos/partner-logo-hevga.png" />
               </div>
-              <div class="col-xs-12 col-sm-2 pad20">
-                <p class="text-lblue text-center">
-                  Logo Here
-                </p>
+              <div class="col-xs-6 col-sm-3 col-md-3 col-lg-2 pad20">
+                <img class="center-block partner-logo" src="<?php echo get_template_directory_uri(); ?>/img/partner-logos/partner-logo-gates.png" />
               </div>
-              <div class="col-xs-12 col-sm-2 pad20">
-                <p class="text-lblue text-center">
-                  Logo Here
-                </p>
+              <div class="col-xs-6 col-sm-3 col-md-3 col-lg-2 pad20">
+                <img class="center-block partner-logo" src="<?php echo get_template_directory_uri(); ?>/img/partner-logos/partner-logo-cihm.png" />
               </div>
-              <div class="col-xs-12 col-sm-2 pad20">
-                <p class="text-lblue text-center">
-                  Logo Here
-                </p>
+              <div class="col-xs-6 col-sm-3 col-md-3 col-lg-2 pad20">
+                <img class="center-block partner-logo" src="<?php echo get_template_directory_uri(); ?>/img/partner-logos/partner-logo-uw-med.png" />
               </div>
-              <div class="col-xs-12 col-sm-2 pad20">
-                <p class="text-lblue text-center">
-                  Logo Here
-                </p>
+              <div class="col-xs-6 col-sm-3 col-md-3 col-lg-2 pad20">
+                <img class="center-block partner-logo" src="<?php echo get_template_directory_uri(); ?>/img/partner-logos/partner-logo-uw-engineering.png" />
               </div>
-              <div class="col-xs-12 col-sm-2 pad20">
-                <p class="text-lblue text-center">
-                  Logo Here
-                </p>
-              </div>
-              <div class="col-xs-12 col-sm-2 pad20">
-                <p class="text-lblue text-center">
-                  Logo Here
-                </p>
+              <div class="col-xs-6 col-sm-3 col-md-3 col-lg-2 pad20">
+                <img class="center-block partner-logo" src="<?php echo get_template_directory_uri(); ?>/img/partner-logos/partner-logo-nsf.png" />
               </div>
             </div>
           </div>

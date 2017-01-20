@@ -54,8 +54,8 @@
   BEGIN: Featured Post
 -->
   <div class="container-fluid">
-    <div class="container bg-green">
-      <div class="col-sm-8">
+    <div class="container bg-green dflex">
+      <div class="col-sm-8 dflex-sub">
         <div class="row bg-ddblue">
           <div class="row wow fadeInUp" data-wow-delay=".45s">
             <?php query_posts('category_name=featured&posts_per_page=1');?>
@@ -91,13 +91,13 @@
     <!--
       BEGIN: Stay Connected
     -->
-      <div class="col-sm-4">
-        <div class="row wow fadeInUp pad30" data-wow-delay=".55s">
+      <div class="col-sm-4 dflex-sub">
+        <div class="row wow fadeInUp pad30" data-wow-delay=".55s" style="height:100%">
           <h4 class="text-ddblue"><span class="text-white">Stay</span> Connected</h4>
           <div class="thickdiv mar15-bot mar10-top"></div>
           <!-- Twitter -->
-          <div class="row">
-            <a class="twitter-timeline" data-height="250" href="https://twitter.com/HigherEdGames">Tweets by HigherEdGames</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+          <div>
+            <a class="twitter-timeline" data-height="100%" href="https://twitter.com/HigherEdGames">Tweets by HigherEdGames</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
           </div>
           <!-- SM Buttons -->
           <div class="row wow fadeInUp mar20-top" data-wow-delay="1.5s">
@@ -124,59 +124,65 @@
           </div><!-- END: SM Buttons -->
         </div><!-- /.row -->
       </div><!-- END: Stay Connected -->
-    <!--
-      BEGIN: Featured Projects
-    -->
-      <div class="col-sm-12 pad60">
-        <div class="row">
-          <h3 class="text-ddblue"><span class="text-white">Featured</span> Projects</h3>
-          <div class="thickdiv mar15-bot mar10-top"></div>
-        </div>
-        <!-- Project 1 -->
-        <div class="col-sm-4 wow fadeInUp" data-wow-delay=".25s">
-          <div class="row bg-ddblue hp-featured-proj">
-            <a href="at-play-in-the-cosmos">
-                <img class="full mar25-bot" src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/project-page-image-cosmos-01.png"/>
-                <div class="row bg-ddblue pad25">
-                  <h4 class="text-green">At Play in the Cosmos</h4>
-                  <p class="text-lblue">
-                      Astronomy
-                  </p>
-                </div>
-              </a>
-          </div>
-        </div><!-- END: Project 2 -->
-        <!-- Project 2 -->
-        <div class="col-sm-4 wow fadeInUp" data-wow-delay=".45s">
-          <div class="row bg-ddblue hp-featured-proj">
-            <a href="http://www.gearlearning.org/microsites/econauts/" target="_blank">
-                  <img class="full mar25-bot" src="<?php echo get_template_directory_uri(); ?>/img/projects/econauts/project-page-image-econauts-01.png"/>
-                <div class="row bg-ddblue pad25">
-                  <h4 class="text-green">Econauts</h4>
-                  <p class="text-lblue">
-                      Environmental Science
-                  </p>
-                </div>
-              </a>
-          </div>
-        </div><!-- END: Project 2 -->
-        <!-- Project 3 -->
-        <div class="col-sm-4 wow fadeInUp" data-wow-delay=".65s">
-          <div class="row bg-ddblue hp-featured-proj">
-            <a href="http://www.gearlearning.org/microsites/progenitor/" target="_blank">
-                  <img class="full mar25-bot" src="<?php echo get_template_directory_uri(); ?>/img/projects/progenitor/project-page-image-progenitor-01.png"/>
-                <div class="row bg-ddblue pad25">
-                  <h4 class="text-green">Progenitor X</h4>
-                  <p class="text-lblue">
-                      Stem Cell Science
-                  </p>
-                </div>
-              </a>
-          </div>
-        </div><!-- END: Project 3 -->
-      </div><!-- /.col-sm-12 -->
+
     </div><!-- /.container -->
   </div><!-- /.container-fluid -->
+
+  <div class="container-fluid">
+    <div class="container bg-dblue">
+      <!--
+        BEGIN: Featured Projects
+      -->
+        <div class="col-sm-12 pad60">
+          <div class="row">
+            <h3 class="text-green"><span class="text-white">Featured</span> Projects</h3>
+            <div class="thickdiv mar15-bot mar10-top"></div>
+          </div>
+          <!-- Project 1 -->
+          <div class="col-sm-4 wow fadeInUp" data-wow-delay=".25s">
+            <div class="row bg-ddblue hp-featured-proj">
+              <a href="at-play-in-the-cosmos">
+                  <img class="full mar25-bot" src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/project-page-image-cosmos-01.png"/>
+                  <div class="row bg-ddblue pad25">
+                    <h4 class="text-green">At Play in the Cosmos</h4>
+                    <p class="text-lblue">
+                        Astronomy
+                    </p>
+                  </div>
+                </a>
+            </div>
+          </div><!-- END: Project 2 -->
+          <!-- Project 2 -->
+          <div class="col-sm-4 wow fadeInUp" data-wow-delay=".45s">
+            <div class="row bg-ddblue hp-featured-proj">
+              <a href="http://www.gearlearning.org/microsites/econauts/" target="_blank">
+                    <img class="full mar25-bot" src="<?php echo get_template_directory_uri(); ?>/img/projects/econauts/project-page-image-econauts-01.png"/>
+                  <div class="row bg-ddblue pad25">
+                    <h4 class="text-green">Econauts</h4>
+                    <p class="text-lblue">
+                        Environmental Science
+                    </p>
+                  </div>
+                </a>
+            </div>
+          </div><!-- END: Project 2 -->
+          <!-- Project 3 -->
+          <div class="col-sm-4 wow fadeInUp" data-wow-delay=".65s">
+            <div class="row bg-ddblue hp-featured-proj">
+              <a href="http://www.gearlearning.org/microsites/progenitor/" target="_blank">
+                    <img class="full mar25-bot" src="<?php echo get_template_directory_uri(); ?>/img/projects/progenitor/project-page-image-progenitor-01.png"/>
+                  <div class="row bg-ddblue pad25">
+                    <h4 class="text-green">Progenitor X</h4>
+                    <p class="text-lblue">
+                        Stem Cell Science
+                    </p>
+                  </div>
+                </a>
+            </div>
+          </div><!-- END: Project 3 -->
+        </div><!-- /.col-sm-12 -->
+    </div>
+  </div>
 <!--
   BEGIN: Recent Release
 -->
@@ -223,5 +229,9 @@
   </div><!-- /.container-fluid -->
 <!-- END: Recent Release -->
 <!-- END: Main Content -->
+
+<script>
+
+</script>
 
 <?php get_footer(); ?>

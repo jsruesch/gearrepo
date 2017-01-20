@@ -1287,6 +1287,23 @@ iframe {
   bottom: 0;
   background: #87b840; }
 
+.dflex {
+  display: flex; }
+
+.dflex-sub {
+  display: inline-block;
+  vertical-align: top;
+  position: relative; }
+
+.twitter-timeline {
+  position: absolute;
+  top: 0;
+  bottom: 0; }
+
+.partner-logo {
+  max-width: 100%;
+  max-height: 100%; }
+
 /* END: Elements */
 /**
  * =========================================
@@ -1409,7 +1426,7 @@ iframe {
   display: none; }
 
 .bg-fill-new-vision {
-  background: url(img/new-vision.png) 50% 0% no-repeat;
+  background: url(img/new-vision-cropped.png) 50% 0% no-repeat;
   background-size: auto 100%; }
 
 .bg-fill-where-learning-lives {

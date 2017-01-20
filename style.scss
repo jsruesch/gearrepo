@@ -81,7 +81,9 @@ ul{ list-style:none; margin-bottom: 0 !important;  }
   padding-left: 20px;
 }
 
-hr{ border-top: 1px solid $white !important; }
+hr{ width: 100% !important;
+  float: left !important;
+   border-top: 1px solid $white !important; }
 
 h1, h2, h3, h4, h5, h6{
   font-family: 'Montserrat', sans-serif !important;

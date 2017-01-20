@@ -10,13 +10,13 @@
 <!--
   BEGIN: Main Content
 -->
-  <div class="container-fluid mar30-top mar20-bot">
-    <div class="container pad30-left pad30-right">
+  <div class="container-fluid">
+    <div class="container">
     <!--
       BEGIN: UNIFIED VISION
       -->
-      <div class="row mar30-bot">
-        <div class="col-sm-3 pad10-right pad10-left">
+      <div class="row">
+        <div class="col-sm-3">
           <!-- Profile Image -->
           <div class="profile-image-container bg-ddblue">
             <div class="john"></div>
@@ -46,19 +46,19 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-9 pad10-right pad10-left">
-          <div class="row bg-ddblue pad30">
+        <div class="col-sm-9">
+          <div class="row pad60">
             <div class="row">
               <p class="text-lblue">
                 My name is John Karczewski and I am a Software Engineer and life-long gamer with over 7 years of professional game development experience.  Before getting into game development, I attended the University of Illinois at Urbana-Champaign where I earned a Bachelor’s of Science in Computer Science.  After graduating, I joined Volition, Inc. where I worked on Red Faction: Armageddon and Saint’s Row: The Third.  Fresh off of shipping those titles, I moved to Madison, Wisconsin and joined LGN. Over the course of 5 years with LGN I helped develop 7 games, including – Fair Play, EcoNauts, Zoombinis, and At Play in the Cosmos. When I’m not playing or making games, I enjoy cooking, binge watching TV shows, and spending time with our two cats – Gizmo and Gomez.
               </p>
             </div>
           </div>
-          <div class="row">
-            <div class="col-sm-4 bg-green pad30">
-              <h4 class="text-dblue"><i class="fa fa-trophy text-white" aria-hidden="true"></i> Projects</h4>
+          <div class="row bg-ddblue pad30">
+            <div class="col-sm-4 pad15">
+              <h4 class="text-green"><i class="fa fa-trophy text-white" aria-hidden="true"></i> Projects</h4>
               <div class="thickdiv mar10-bot mar10-top"></div>
-              <ul class="text-dblue disc">
+              <ul class="text-lblue disc">
                 <li>At Play in the Cosmos</li>
                 <li>Zoombinis</li>
                 <li>Econuats</li>
@@ -67,28 +67,26 @@
                 <li>Red Faction: Armageddon</li>
               </ul>
             </div>
-            <div class="col-sm-8 bg-lblue">
-              <div class="col-sm-6 pad30">
-                <h4 class="text-dblue"><i class="fa fa-gamepad text-white" aria-hidden="true"></i> Playing Now</h4>
-                <div class="thickdiv mar10-bot mar10-top"></div>
-                <ul class="text-dblue disc">
-                  <li>Final Fantasy XV</li>
-                  <li>World of Warcraft</li>
-                  <li>The Legend of Zelda: Twilight Princes</li>
-                </ul>
-              </div>
-              <div class="col-sm-6 pad30">
-                <h4 class="text-dblue"><i class="fa fa-heart text-white" aria-hidden="true"></i> Favorites</h4>
-                <div class="thickdiv mar10-bot mar10-top"></div>
-                <ul class="text-dblue disc">
-                  <li>Gunstar Heroes</li>
-                  <li>Megaman X</li>
-                  <li>The Binding of Isaac</li>
-                  <li>World of Warcraft</li>
-                  <li>Final Fantasy VI</li>
-                  <li>Kingdom Hearts</li>
-                </ul>
-              </div>
+            <div class="col-sm-4 pad15">
+              <h4 class="text-green"><i class="fa fa-gamepad text-white" aria-hidden="true"></i> Playing Now</h4>
+              <div class="thickdiv mar10-bot mar10-top"></div>
+              <ul class="text-lblue disc">
+                <li>Final Fantasy XV</li>
+                <li>World of Warcraft</li>
+                <li>The Legend of Zelda: Twilight Princes</li>
+              </ul>
+            </div>
+            <div class="col-sm-4 pad15">
+              <h4 class="text-green"><i class="fa fa-heart text-white" aria-hidden="true"></i> Favorites</h4>
+              <div class="thickdiv mar10-bot mar10-top"></div>
+              <ul class="text-lblue disc">
+                <li>Gunstar Heroes</li>
+                <li>Megaman X</li>
+                <li>The Binding of Isaac</li>
+                <li>World of Warcraft</li>
+                <li>Final Fantasy VI</li>
+                <li>Kingdom Hearts</li>
+              </ul>
             </div>
           </div>
         </div>

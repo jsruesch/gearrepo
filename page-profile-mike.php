@@ -55,11 +55,11 @@
               </p>
             </div>
           </div>
-          <div class="row">
-            <div class="col-sm-4 bg-lblue pad30">
-              <h4 class="text-dblue"><i class="fa fa-trophy text-white" aria-hidden="true"></i> Projects</h4>
+          <div class="row bg-ddblue pad30">
+            <div class="col-sm-4 pad15">
+              <h4 class="text-green"><i class="fa fa-trophy text-white" aria-hidden="true"></i> Projects</h4>
               <div class="thickdiv mar10-bot mar10-top"></div>
-              <ul class="text-dblue disc">
+              <ul class="text-lblue disc">
                 <li>Virulent</li>
                 <li>Progenitor X</li>
                 <li>Tenacity</li>
@@ -71,27 +71,25 @@
                 <li>At Play in the Cosmos</li>
               </ul>
             </div>
-            <div class="col-sm-8 bg-lblue">
-              <div class="col-sm-6 pad30">
-                <h4 class="text-dblue"><i class="fa fa-gamepad text-white" aria-hidden="true"></i> Playing Now</h4>
-                <div class="thickdiv mar10-bot mar10-top"></div>
-                <ul class="text-dblue disc">
-                  <li>Diablo 3</li>
-                  <li>Team Fortress 2</li>
-                  <li>Titan Quest</li>
-                </ul>
-              </div>
-              <div class="col-sm-6 pad30">
-                <h4 class="text-dblue"><i class="fa fa-heart text-white" aria-hidden="true"></i> Favorites</h4>
-                <div class="thickdiv mar10-bot mar10-top"></div>
-                <ul class="text-dblue disc">
-                  <li>Dig Dug</li>
-                  <li>Telengard</li>
-                  <li>Diablo 2</li>
-                  <li>Team Fortress 2</li>
-                  <li>Minecraft</li>
-                </ul>
-              </div>
+            <div class="col-sm-4 pad15">
+              <h4 class="text-green"><i class="fa fa-gamepad text-white" aria-hidden="true"></i> Playing Now</h4>
+              <div class="thickdiv mar10-bot mar10-top"></div>
+              <ul class="text-lblue disc">
+                <li>Diablo 3</li>
+                <li>Team Fortress 2</li>
+                <li>Titan Quest</li>
+              </ul>
+            </div>
+            <div class="col-sm-4 pad15">
+              <h4 class="text-green"><i class="fa fa-heart text-white" aria-hidden="true"></i> Favorites</h4>
+              <div class="thickdiv mar10-bot mar10-top"></div>
+              <ul class="text-lblue disc">
+                <li>Dig Dug</li>
+                <li>Telengard</li>
+                <li>Diablo 2</li>
+                <li>Team Fortress 2</li>
+                <li>Minecraft</li>
+              </ul>
             </div>
           </div>
         </div>

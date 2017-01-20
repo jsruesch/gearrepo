@@ -981,6 +981,9 @@ ul {
   list-style: disc;
   padding-left: 20px; }
 
+hr {
+  border-top: 1px solid #ffffff !important; }
+
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Montserrat', sans-serif !important;
   font-weight: 800 !important;
@@ -1632,7 +1635,7 @@ textarea {
     top: 50%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
-    height: 100%; }
+    min-width: 100%; }
 
 .hp-featured-proj {
   -webkit-transition: all 0.2s ease;

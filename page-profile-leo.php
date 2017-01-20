@@ -10,13 +10,13 @@
 <!--
   BEGIN: Main Content
 -->
-  <div class="container-fluid mar30-top mar20-bot">
-    <div class="container pad30-left pad30-right">
+  <div class="container-fluid">
+    <div class="container">
     <!--
       BEGIN: UNIFIED VISION
       -->
-      <div class="row mar30-bot">
-        <div class="col-sm-3 pad10-right pad10-left">
+      <div class="row">
+        <div class="col-sm-3">
           <!-- Profile Image -->
           <div class="profile-image-container bg-ddblue">
             <div class="leo"></div>
@@ -47,8 +47,8 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-9 pad10-right pad10-left">
-          <div class="row bg-ddblue pad30">
+        <div class="col-sm-9">
+          <div class="row pad60">
             <div class="row">
               <p class="text-lblue">
                 I started my career almost 10 years ago as a freelance web developer. In the meantime, I was teaching myself game development by creating game mods and working with game servers.
@@ -59,36 +59,34 @@
               </p>
             </div>
           </div>
-          <div class="row">
-            <div class="col-sm-4 bg-green pad30">
-              <h4 class="text-dblue"><i class="fa fa-trophy text-white" aria-hidden="true"></i> Projects</h4>
+          <div class="row bg-ddblue pad30">
+            <div class="col-sm-4 pad15">
+              <h4 class="text-green"><i class="fa fa-trophy text-white" aria-hidden="true"></i> Projects</h4>
               <div class="thickdiv mar10-bot mar10-top"></div>
-              <ul class="text-dblue disc">
+              <ul class="text-lblue disc">
                 <li>At Play in the Cosmos</li>
                 <li>UW Chemical Business Simulator</li>
                 <li>Xenos Isle</li>
                 <li>Ross Medical and Veterinary Games and Simulations</li>
               </ul>
             </div>
-            <div class="col-sm-8 bg-lblue">
-              <div class="col-sm-6 pad30">
-                <h4 class="text-dblue"><i class="fa fa-gamepad text-white" aria-hidden="true"></i> Playing Now</h4>
-                <div class="thickdiv mar10-bot mar10-top"></div>
-                <ul class="text-dblue disc">
-                  <li>Overwatch</li>
-                </ul>
-              </div>
-              <div class="col-sm-6 pad30">
-                <h4 class="text-dblue"><i class="fa fa-heart text-white" aria-hidden="true"></i> Favorites</h4>
-                <div class="thickdiv mar10-bot mar10-top"></div>
-                <ul class="text-dblue disc">
-                  <li>Counter-Strike</li>
-                  <li>Dota 2</li>
-                  <li>Overwatch</li>
-                  <li>Super Meat Boy</li>
-                  <li>Half-Life Series</li>
-                </ul>
-              </div>
+            <div class="col-sm-4 pad15">
+              <h4 class="text-green"><i class="fa fa-gamepad text-white" aria-hidden="true"></i> Playing Now</h4>
+              <div class="thickdiv mar10-bot mar10-top"></div>
+              <ul class="text-lblue disc">
+                <li>Overwatch</li>
+              </ul>
+            </div>
+            <div class="col-sm-4 pad15">
+              <h4 class="text-green"><i class="fa fa-heart text-white" aria-hidden="true"></i> Favorites</h4>
+              <div class="thickdiv mar10-bot mar10-top"></div>
+              <ul class="text-lblue disc">
+                <li>Counter-Strike</li>
+                <li>Dota 2</li>
+                <li>Overwatch</li>
+                <li>Super Meat Boy</li>
+                <li>Half-Life Series</li>
+              </ul>
             </div>
           </div>
         </div>

@@ -10,9 +10,9 @@
 <!--
   BEGIN: Banner
 -->
-<div class="hp-banner-container">
+<div class="hp-banner-container bg-ddblue">
   <div class="container-fluid">
-    <video data-src-high="<?php echo get_template_directory_uri(); ?>/vid/test-render-04.mp4" type"video/mp4" autoplay muted loop data-js-init="video" src="<?php echo get_template_directory_uri(); ?>/vid/test-render-04.mp4">
+    <video class="wow fadeIn" data-src-high="<?php echo get_template_directory_uri(); ?>/vid/test-render-04.mp4" type"video/mp4" autoplay muted loop data-js-init="video" src="<?php echo get_template_directory_uri(); ?>/vid/test-render-04.mp4">
         <img src="<?php echo get_template_directory_uri(); ?>/img/banner-space-with-ship.png">
         Your browser does not support the video tag.
     </video>
@@ -40,7 +40,6 @@
   </div>
 </div>
 <!-- END: Banner -->
-
 <!--
   BEGIN: Main Content
 -->
@@ -190,7 +189,7 @@
 -->
   <div class="container-fluid">
     <div class="container bg-ddblue pad60">
-      <div class="col-sm-6">
+      <div class="col-sm-6 mar30-bot">
         <a href="/at-play-in-the-cosmos">
           <div class="row wow fadeInUp" data-wow-delay=".25s">
               <div class="recent-release-img-container">
@@ -211,8 +210,20 @@
       </div><!-- /.col-sm-6 -->
       <div class="col-sm-6 pad30-left pad30-right">
         <div class="row wow fadeInUp" data-wow-delay=".45s">
-          <h3 class="text-green"><span class="text-white">Featured</span> Projects</h3>
+          <h3 class="text-green"><span class="text-white">Creation Through</span> Collaboration</h3>
           <div class="thickdiv mar15-bot mar10-top"></div>
+          <div class="row">
+            <p class="text-lblue">
+              We build award winning games across ages, content and devices. From toddler math apps to interactive tables at the New York Hall of Science, GEAR's games feature inspiring design, innovative pedagogy, and sound business strategy.
+              <br /><br />
+              We make products, teams, and companies better. Our team spans industry and academics to apply: 1) the principles of interactive entertainment to new areas, and 2) sound pedagogy to innovative products.
+              <br /><br />
+              We cultivate partnerships across academics and industry to bring the best people together and make projects happen.
+            </p>
+          </div>
+          <div class="row mar20-top">
+            <a class="blue-btn" href="/contact">Drop us a Line!</a>
+          </div>
         </div>
       </div>
     </div><!-- /container -->

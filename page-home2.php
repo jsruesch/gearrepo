@@ -91,32 +91,45 @@
                 <?php endif; ?>
               </div><!-- ./row -->
             </td>
-            <td class="col-sm-4 pad30 bg-green" style="vertical-align:middle">
-              <h4 class="text-ddblue"><span class="text-white">Stay</span> Connected</h4>
-              <div class="thickdiv mar15-bot mar10-top"></div>
-              <!-- Twitter -->
-              <div class="twitter-container">
-                <?php echo do_shortcode("[custom-twitter-feeds]"); ?>
-                <!-- <a class="twitter-timeline" data-height="100%" href="https://twitter.com/HigherEdGames">Tweets by HigherEdGames</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+            <td class="col-sm-4 pad30 bg-green">
+              <div class="sc">
+
+                <div class="sc-top">
+                  <h4 class="text-ddblue"><span class="text-white">Stay</span> Connected</h4>
+                  <div class="thickdiv mar15-bot mar10-top"></div>
+                </div>
+                <div class="sc-mid">
+                  <div class="twitter-container">
+                    <?php echo do_shortcode("[custom-twitter-feeds]"); ?>
+                    <!-- <a class="twitter-timeline" data-height="100%" href="https://twitter.com/HigherEdGames">Tweets by HigherEdGames</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+                  </div>
+                </div>
+                <div class="sc-bot">
+                  <!-- SM Buttons -->
+                  <div class="row wow fadeInUp mar20-top" data-wow-delay="1.5s">
+                    <div class="col-xs-4 bg-lgreen">
+                      <div class="profile-link-button">
+                        <a class="btn-gen" href="" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                      </div>
+                    </div>
+                    <div class="col-xs-4">
+                      <div class="profile-link-button">
+                        <a class="btn-gen" href="" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                      </div>
+                    </div>
+                    <div class="col-xs-4 bg-lgreen">
+                      <div class="profile-link-button">
+                        <a class="btn-gen" href="" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                      </div>
+                    </div>
+                  </div><!-- END: SM Buttons -->
+                </div>
               </div>
-              <!-- SM Buttons -->
-              <div class="row wow fadeInUp mar20-top" data-wow-delay="1.5s">
-                <div class="col-xs-4 bg-lgreen">
-                  <div class="profile-link-button">
-                    <a class="btn-gen" href="" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                  </div>
-                </div>
-                <div class="col-xs-4">
-                  <div class="profile-link-button">
-                    <a class="btn-gen" href="" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                  </div>
-                </div>
-                <div class="col-xs-4 bg-lgreen">
-                  <div class="profile-link-button">
-                    <a class="btn-gen" href="" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                  </div>
-                </div>
-              </div><!-- END: SM Buttons -->
+            </div>
+
+              <!-- Twitter -->
+
+
             </td>
           </tr>
         </table>

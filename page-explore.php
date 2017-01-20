@@ -15,8 +15,11 @@
     <!--
       BEGIN: UNIFIED VISION
       -->
-      <div class="row bg-fill-unified-vision">
+      <div class="row explore-image-large-container">
         <img class="explore-img-hidden" src="<?php echo get_template_directory_uri(); ?>/img/unified-vision-cropped.png"/>
+        <div class="col-sm-6 bg-fill">
+            <img class="" src="<?php echo get_template_directory_uri(); ?>/img/unified-vision-cropped.png"/>
+        </div>
         <div class="col-sm-6 col-sm-offset-6 bg-green pad60">
           <h1 class="text-white">Born of a <br /> unified vision</h1>
           <div class="thickdiv mar10-bot mar10-top"></div>
@@ -29,7 +32,7 @@
     <!--
       BEGIN: NEW LOCATION
       -->
-      <div class="row bg-fill-where-learning-lives">
+      <div class="row explore-image-large-container">
         <img class="explore-img-hidden" src="<?php echo get_template_directory_uri(); ?>/img/where-learning-lives-cropped.png"/>
         <div class="col-sm-6 bg-ddblue pad60">
           <h1 class="text-green">Where Learning <br /> Lives</h1>
@@ -37,6 +40,9 @@
           <p class="text-lblue">
             In a ground-breaking partnership with the University of Wisconsin, GEAR is located in the very heart of campus at the Wisconsin Center for Education Research (WCER). Being part of a leading educational institution like the University of Wisconsin gives GEAR a distinct advantage in the space of designing and developing games for learning.
           </p>
+        </div>
+        <div class="col-sm-6 col-sm-offset-6 bg-fill">
+          <img class="" src="<?php echo get_template_directory_uri(); ?>/img/where-learning-lives-cropped.png"/>
         </div>
       </div>
     <!-- END: NEW LOCATION -->
@@ -265,8 +271,11 @@
         <!--
           BEGIN: CHANGE LEARNING
           -->
-          <div class="row bg-fill-together">
+          <div class="row explore-image-large-container">
             <img class="explore-img-hidden" src="<?php echo get_template_directory_uri(); ?>/img/together-banner-cropped.png"/>
+            <div class="col-sm-6 bg-fill">
+              <img class="" src="<?php echo get_template_directory_uri(); ?>/img/together-banner-cropped.png"/>
+            </div>
             <div class="col-sm-6 col-sm-offset-6 bg-green pad60">
               <h1 class="text-white">Changing Learning<br /> Through Partnerships</h1>
               <div class="thickdiv mar10-bot mar10-top"></div>

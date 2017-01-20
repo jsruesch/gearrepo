@@ -567,8 +567,8 @@ iframe{ width: 100%; }
 
 .explore-img-hidden{ display: none; }
 
-.bg-fill-new-vision{
-  background: url(img/new-vision-cropped.png) 50% 0% no-repeat;
+.bg-fill-new-{
+  background: url(img/new-vision.png) 50% 0% no-repeat;
   background-size: auto 100%;
 }
 
@@ -580,9 +580,25 @@ iframe{ width: 100%; }
   background: url(img/together-banner.png) 50% 0% no-repeat;
   background-size: auto 100%;
 }
-.bg-fill-unified-vision{
-  background: url(img/unified-vision-banner.png) 50% 0% no-repeat;
-  background-size: auto 100%;
+
+
+.explore-image-large-container{
+  position: relative;
+
+  .bg-fill{
+    position: absolute;
+    top: 0;
+    bottom:0;
+    overflow: hidden;
+
+    img{
+      position: absolute;
+      height: 110%;
+      top: 50%;
+      left: 50%;
+      transform: translateX(-50%) translateY(-50%);
+    }
+  }
 }
 
 .carousel{

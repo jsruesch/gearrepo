@@ -28,7 +28,7 @@
               <h6 class="text-white small bold text-uppercase">Lead Software Engineer</h6>
             </div>
           </div><!-- END: Profile -->
-          <div class="row bg-green pad60">
+          <div class="row bg-green pad30">
             <h4 class="text-dblue"><i class="fa fa-star text-white" aria-hidden="true"></i> Skills</h4>
             <div class="thickdiv mar10-bot mar10-top"></div>
             <ul class="text-dblue disc">
@@ -56,11 +56,11 @@
               </p>
             </div>
           </div>
-          <div class="row">
-            <div class="col-sm-4 bg-lblue pad60">
-              <h4 class="text-dblue"><i class="fa fa-trophy text-white" aria-hidden="true"></i> Projects</h4>
+          <div class="row bg-ddblue pad30">
+            <div class="col-sm-4 pad15">
+              <h4 class="text-green"><i class="fa fa-trophy text-white" aria-hidden="true"></i> Projects</h4>
               <div class="thickdiv mar10-bot mar10-top"></div>
-              <ul class="text-dblue disc">
+              <ul class="text-lblue disc">
                 <li>At Play in the Cosmos</li>
                 <li>Crystals of Kaydor</li>
                 <li>Tenacity</li>
@@ -69,25 +69,23 @@
                 <li>Anatomy Pro-Am</li>
               </ul>
             </div>
-            <div class="col-sm-8 bg-lblue">
-              <div class="col-sm-6 pad60">
-                <h4 class="text-dblue"><i class="fa fa-gamepad text-white" aria-hidden="true"></i> Playing Now</h4>
-                <div class="thickdiv mar10-bot mar10-top"></div>
-                <ul class="text-dblue disc">
-                  <li>Final Fantasy XV</li>
-                </ul>
-              </div>
-              <div class="col-sm-6 pad60">
-                <h4 class="text-dblue"><i class="fa fa-heart text-white" aria-hidden="true"></i> Favorites</h4>
-                <div class="thickdiv mar10-bot mar10-top"></div>
-                <ul class="text-dblue disc">
-                  <li>Metroid Series</li>
-                  <li>Megaman Series</li>
-                  <li>Sonic the Hedgehog (2D)</li>
-                  <li>Old JRPGs (Final Fantasy, Chrono Trigger, Secret of Mana)</li>
-                  <li>Amplitude / Frequency</li>
-                </ul>
-              </div>
+            <div class="col-sm-4 pad15">
+              <h4 class="text-green"><i class="fa fa-gamepad text-white" aria-hidden="true"></i> Playing Now</h4>
+              <div class="thickdiv mar10-bot mar10-top"></div>
+              <ul class="text-lblue disc">
+                <li>Final Fantasy XV</li>
+              </ul>
+            </div>
+            <div class="col-sm-4 pad15">
+              <h4 class="text-green"><i class="fa fa-heart text-white" aria-hidden="true"></i> Favorites</h4>
+              <div class="thickdiv mar10-bot mar10-top"></div>
+              <ul class="text-lblue disc">
+                <li>Metroid Series</li>
+                <li>Megaman Series</li>
+                <li>Sonic the Hedgehog (2D)</li>
+                <li>Old JRPGs (Final Fantasy, Chrono Trigger, Secret of Mana)</li>
+                <li>Amplitude / Frequency</li>
+              </ul>
             </div>
           </div>
         </div>

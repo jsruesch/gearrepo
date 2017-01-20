@@ -10,13 +10,13 @@
 <!--
   BEGIN: Main Content
 -->
-  <div class="container-fluid mar30-top mar20-bot">
-    <div class="container pad30-left pad30-right">
+  <div class="container-fluid">
+    <div class="container">
     <!--
       BEGIN: UNIFIED VISION
       -->
-      <div class="row mar30-bot">
-        <div class="col-sm-3 pad10-right pad10-left">
+      <div class="row">
+        <div class="col-sm-3">
           <!-- Profile Image -->
           <div class="profile-image-container bg-ddblue">
             <div class="mike"></div>
@@ -47,8 +47,8 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-9 pad10-right pad10-left">
-          <div class="row bg-ddblue pad30">
+        <div class="col-sm-9">
+          <div class="row pad60">
             <div class="row">
               <p class="text-lblue">
                 I am a lifelong game enthusiast with a professional history as a Game Designer, Project Leader, and Artist working with the Learning Games Network and Games Learning Society at the University of Wisconsin-Madison. I designed my first educational game in efforts to find a fun and engaging way to help my then 8 year old daughter study her vocabulary lists. In 2010 I was recruited to GLS by Professor Kurt Squire to create artwork for Virulent. I went on to lead design and development for several GLS/LGN projects including Progenitor X, Tenacity, Crystals of Kaydor, Oztoc, and At Play in the Cosmos. In addition to direct involvement with design and development of many GLS/LGN games, I also worked with local schools and community centers where I engaged with University of Wisconsin-Madison faculty and students to conduct playtests, interviews, and focus group tests.
@@ -56,7 +56,7 @@
             </div>
           </div>
           <div class="row">
-            <div class="col-sm-4 bg-green pad30">
+            <div class="col-sm-4 bg-lblue pad30">
               <h4 class="text-dblue"><i class="fa fa-trophy text-white" aria-hidden="true"></i> Projects</h4>
               <div class="thickdiv mar10-bot mar10-top"></div>
               <ul class="text-dblue disc">

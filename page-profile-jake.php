@@ -28,7 +28,7 @@
               <h6 class="text-white small bold text-uppercase">UI / UX / Web Designer</h6>
             </div>
           </div><!-- END: Profile -->
-          <div class="row bg-green pad60">
+          <div class="row bg-green pad30">
             <h4 class="text-dblue"><i class="fa fa-star text-white" aria-hidden="true"></i> Skills</h4>
             <div class="thickdiv mar10-bot mar10-top"></div>
             <ul class="text-dblue disc">
@@ -62,11 +62,11 @@
               </p>
             </div>
           </div>
-          <div class="row">
-            <div class="col-sm-4 bg-lblue pad60">
-              <h4 class="text-dblue"><i class="fa fa-trophy text-white" aria-hidden="true"></i> Projects</h4>
+          <div class="row bg-ddblue pad30">
+            <div class="col-sm-4 pad15">
+              <h4 class="text-green"><i class="fa fa-trophy text-white" aria-hidden="true"></i> Projects</h4>
               <div class="thickdiv mar10-bot mar10-top"></div>
-              <ul class="text-dblue disc">
+              <ul class="text-lblue disc">
                 <li>At Play in the Cosmos</li>
                 <li>Econauts</li>
                 <li>Oztoc Expedition</li>
@@ -84,29 +84,27 @@
                 <li>Anatomy Pro-Am</li>
               </ul>
             </div>
-            <div class="col-sm-8 bg-lblue">
-              <div class="col-sm-6 pad60">
-                <h4 class="text-dblue"><i class="fa fa-gamepad text-white" aria-hidden="true"></i> Playing Now</h4>
-                <div class="thickdiv mar10-bot mar10-top"></div>
-                <ul class="text-dblue disc">
-                  <li>Dark Souls III</li>
-                  <li>Bloodborne</li>
-                  <li>Team Fortress 2</li>
-                </ul>
-              </div>
-              <div class="col-sm-6 pad60">
-                <h4 class="text-dblue"><i class="fa fa-heart text-white" aria-hidden="true"></i> Favorites</h4>
-                <div class="thickdiv mar10-bot mar10-top"></div>
-                <ul class="text-dblue disc">
-                  <li>Darksouls I-III</li>
-                  <li>Bloodborne</li>
-                  <li>Street Fighter (IV/V)</li>
-                  <li>Legend of Zelda: Occarina of Time</li>
-                  <li>Bioshock</li>
-                  <li>God of War</li>
-                  <li>Path of Exile</li>
-                </ul>
-              </div>
+            <div class="col-sm-4 pad15">
+              <h4 class="text-green"><i class="fa fa-gamepad text-white" aria-hidden="true"></i> Playing Now</h4>
+              <div class="thickdiv mar10-bot mar10-top"></div>
+              <ul class="text-lblue disc">
+                <li>Dark Souls III</li>
+                <li>Bloodborne</li>
+                <li>Team Fortress 2</li>
+              </ul>
+            </div>
+            <div class="col-sm-4 pad15">
+              <h4 class="text-green"><i class="fa fa-heart text-white" aria-hidden="true"></i> Favorites</h4>
+              <div class="thickdiv mar10-bot mar10-top"></div>
+              <ul class="text-lblue disc">
+                <li>Darksouls I-III</li>
+                <li>Bloodborne</li>
+                <li>Street Fighter (IV/V)</li>
+                <li>Legend of Zelda: Occarina of Time</li>
+                <li>Bioshock</li>
+                <li>God of War</li>
+                <li>Path of Exile</li>
+              </ul>
             </div>
           </div>
         </div>

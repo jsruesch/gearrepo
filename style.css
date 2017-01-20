@@ -1231,6 +1231,9 @@ iframe {
  * Elements
  * =========================================
  */
+#ctf .ctf-item, .ctf-header {
+  padding: 15px !important; }
+
 .mission-container {
   background: #05070d;
   margin-top: 20px;

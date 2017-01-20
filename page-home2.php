@@ -54,8 +54,8 @@
   BEGIN: Featured Post
 -->
   <div class="container-fluid">
-    <div class="container bg-green dflex">
-      <div class="col-sm-8 dflex-sub">
+    <div class="container bg-ddblue">
+      <div class="col-sm-8">
         <div class="row bg-ddblue">
           <div class="row wow fadeInUp" data-wow-delay=".45s">
             <?php query_posts('category_name=featured&posts_per_page=1');?>
@@ -91,34 +91,30 @@
     <!--
       BEGIN: Stay Connected
     -->
-      <div class="col-sm-4 dflex-sub">
+      <div class="col-sm-4 bg-green">
         <div class="row wow fadeInUp pad30" data-wow-delay=".55s" style="height:100%">
           <h4 class="text-ddblue"><span class="text-white">Stay</span> Connected</h4>
           <div class="thickdiv mar15-bot mar10-top"></div>
           <!-- Twitter -->
-          <div>
-            <a class="twitter-timeline" data-height="100%" href="https://twitter.com/HigherEdGames">Tweets by HigherEdGames</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+          <div class="twitter-container">
+            <?php echo do_shortcode("[custom-twitter-feeds]"); ?>
+            <!-- <a class="twitter-timeline" data-height="100%" href="https://twitter.com/HigherEdGames">Tweets by HigherEdGames</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> -->
           </div>
           <!-- SM Buttons -->
           <div class="row wow fadeInUp mar20-top" data-wow-delay="1.5s">
-            <div class="col-xs-3 bg-lgreen">
+            <div class="col-xs-4 bg-lgreen">
               <div class="profile-link-button">
                 <a class="btn-gen" href="" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
               </div>
             </div>
-            <div class="col-xs-3">
+            <div class="col-xs-4">
               <div class="profile-link-button">
                 <a class="btn-gen" href="" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
               </div>
             </div>
-            <div class="col-xs-3 bg-lgreen">
+            <div class="col-xs-4 bg-lgreen">
               <div class="profile-link-button">
                 <a class="btn-gen" href="" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-              </div>
-            </div>
-            <div class="col-xs-3">
-              <div class="profile-link-button">
-                <a class="btn-gen" href="" target="_blank"><i class="fa fa-vimeo" aria-hidden="true"></i></a>
               </div>
             </div>
           </div><!-- END: SM Buttons -->

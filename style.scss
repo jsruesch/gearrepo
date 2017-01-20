@@ -792,7 +792,10 @@ textarea{
 
   .project-page-image{
     width: 100%;
-    height: 150px;
+    img{
+      @include full;
+      height: auto;
+    }
   }
 
   h4{ color: $green; }

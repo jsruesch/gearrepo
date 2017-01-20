@@ -137,9 +137,7 @@
         <div class="col-sm-4 wow fadeInUp" data-wow-delay=".25s">
           <div class="row bg-ddblue hp-featured-proj">
             <a href="at-play-in-the-cosmos">
-                <div class="row project-page-image">
-                  <img src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/project-page-image-cosmos-01.png"/>
-                </div>
+                <img class="full mar25-bot" src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/project-page-image-cosmos-01.png"/>
                 <div class="row bg-ddblue pad25">
                   <h4 class="text-green">At Play in the Cosmos</h4>
                   <p class="text-lblue">
@@ -153,9 +151,7 @@
         <div class="col-sm-4 wow fadeInUp" data-wow-delay=".45s">
           <div class="row bg-ddblue hp-featured-proj">
             <a href="http://www.gearlearning.org/microsites/econauts/" target="_blank">
-                <div class="row project-page-image">
-                  <img src="<?php echo get_template_directory_uri(); ?>/img/projects/econauts/project-page-image-econauts-01.png"/>
-                </div>
+                  <img class="full mar25-bot" src="<?php echo get_template_directory_uri(); ?>/img/projects/econauts/project-page-image-econauts-01.png"/>
                 <div class="row bg-ddblue pad25">
                   <h4 class="text-green">Econauts</h4>
                   <p class="text-lblue">
@@ -169,9 +165,7 @@
         <div class="col-sm-4 wow fadeInUp" data-wow-delay=".65s">
           <div class="row bg-ddblue hp-featured-proj">
             <a href="http://www.gearlearning.org/microsites/progenitor/" target="_blank">
-                <div class="row project-page-image">
-                  <img src="<?php echo get_template_directory_uri(); ?>/img/projects/progenitor/project-page-image-progenitor-01.png"/>
-                </div>
+                  <img class="full mar25-bot" src="<?php echo get_template_directory_uri(); ?>/img/projects/progenitor/project-page-image-progenitor-01.png"/>
                 <div class="row bg-ddblue pad25">
                   <h4 class="text-green">Progenitor X</h4>
                   <p class="text-lblue">

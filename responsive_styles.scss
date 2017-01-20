@@ -103,10 +103,18 @@
     }
   }
 
+  .explore-img-hidden{
+    display: block !important;
+    position: relative;
+    z-index: 9;
+    width: 100%;
+    float: left;
+    margin-bottom: 30px;
+  }
+
   .project-page-image{ height: 150px !important; }
 
   .footer-container{ text-align: center; nav{ text-align: center !important; }}
-
 }
 
 /* Devices */

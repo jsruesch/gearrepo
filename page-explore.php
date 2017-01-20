@@ -16,6 +16,7 @@
       BEGIN: UNIFIED VISION
       -->
       <div class="row bg-fill-unified-vision">
+        <img class="explore-img-hidden" src="<?php echo get_template_directory_uri(); ?>/img/unified-vision-cropped.png"/>
         <div class="col-sm-6 col-sm-offset-6 bg-green pad60">
           <h1 class="text-white">Born of a <br /> unified vision</h1>
           <div class="thickdiv mar10-bot mar10-top"></div>
@@ -28,26 +29,28 @@
     <!--
       BEGIN: NEW LOCATION
       -->
-      <div class="row bg-fill-where-learning-lives mar30-bot">
+      <div class="row bg-fill-where-learning-lives">
+        <img class="explore-img-hidden" src="<?php echo get_template_directory_uri(); ?>/img/where-learning-lives-cropped.png"/>
         <div class="col-sm-6 bg-ddblue pad60">
           <h1 class="text-green">Where Learning <br /> Lives</h1>
           <div class="thickdiv mar10-bot mar10-top"></div>
           <p class="text-lblue">
-            In a ground-breaking partnership with the University of Wisconsin, GEAR will be located in the very heart of campus at the Wisconsin Center for Education Research (WCER). Being part of a leading educational institution like the University of Wisconsin gives GEAR a distinct advantage in the space of designing and developing games for learning.
+            In a ground-breaking partnership with the University of Wisconsin, GEAR is located in the very heart of campus at the Wisconsin Center for Education Research (WCER). Being part of a leading educational institution like the University of Wisconsin gives GEAR a distinct advantage in the space of designing and developing games for learning.
           </p>
         </div>
       </div>
     <!-- END: NEW LOCATION -->
     <!--
       BEGIN: MEET OUR TEAM
-      -->
+    -->
+      <div class="row pad60">
         <!-- Header -->
-        <div class="row pad60-top pad60-left pad60-right">
+        <div class="row ">
           <h2 class="text-white">Meet <span class="text-green">Our Team</span></h2>
           <div class="thickdiv mar10-bot mar10-top"></div>
         </div><!-- END: Header -->
         <!-- Portraits -->
-        <div class="row pad60-left pad60-right pad60-bot">
+        <div class="row">
         <!-- Mike -->
           <div class="col-sm-6 col-md-3 col-lg-15 pad5">
             <a href="profile-mike">
@@ -166,6 +169,7 @@
               </a>
             </div><!-- END: Greg -->
         </div><!-- END: Portraits -->
+      </div>
       <!-- END: MEET OUR TEAM -->
       <!--
         BEGIN: TESTIMONIALS
@@ -175,7 +179,7 @@
             <div class="row">
               <h2 class="text-white">Our <span class="text-green">Friends</span></h2>
               <p class="text-lblue">
-                Over the years we've had the privilege of working with some great folks. Sounds like they liked us too!
+                Over the years we've had the privilege of working with some great folks. Here are just a few!
               </p>
             </div>
             <!-- <div class="row mar30-top">
@@ -289,6 +293,7 @@
           BEGIN: CHANGE LEARNING
           -->
           <div class="row bg-fill-together">
+            <img class="explore-img-hidden" src="<?php echo get_template_directory_uri(); ?>/img/together-banner-cropped.png"/>
             <div class="col-sm-6 col-sm-offset-6 bg-green pad60">
               <h1 class="text-white">Changing Learning<br /> Through Partnerships</h1>
               <div class="thickdiv mar10-bot mar10-top"></div>

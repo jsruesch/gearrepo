@@ -813,6 +813,14 @@ h1, h2, h3, h4, h5, p {
       width: 100%;
       height: auto; }
 
+  .explore-img-hidden {
+    display: block !important;
+    position: relative;
+    z-index: 9;
+    width: 100%;
+    float: left;
+    margin-bottom: 30px; }
+
   .project-page-image {
     height: 150px !important; }
 
@@ -1381,6 +1389,9 @@ iframe {
   opacity: .25;
   background-position: center center;
   background-size: cover; }
+
+.explore-img-hidden {
+  display: none; }
 
 .bg-fill-new-vision {
   background: url(img/new-vision.png) 50% 0% no-repeat;

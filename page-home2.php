@@ -10,36 +10,35 @@
 <!--
   BEGIN: Banner
 -->
-<div class="hp-banner-container bg-ddblue">
-  <div class="container-fluid">
-    <video class="wow fadeIn" data-src-high="<?php echo get_template_directory_uri(); ?>/vid/test-render-04.mp4" type"video/mp4" autoplay muted loop data-js-init="video" src="<?php echo get_template_directory_uri(); ?>/vid/test-render-04.mp4">
-        <img src="<?php echo get_template_directory_uri(); ?>/img/banner-space-with-ship.png">
-        Your browser does not support the video tag.
-    </video>
-    <div class="container">
-      <div class="row pad15-left pad15-right">
-        <!-- Type JS -->
-        <div class="col-sm-6">
-          <h1 class="text-shadow">
-            <span class="text-white">WE CREATE GAMES<br /> THAT</span>
-            <div id="typed-strings">
-                <p>INSPIRE</p>
-                <p>TEACH</p>
-                <p>INNOVATE</p>
+  <div class="hp-banner-container bg-ddblue">
+    <div class="container-fluid">
+      <video class="wow fadeIn" data-src-high="<?php echo get_template_directory_uri(); ?>/vid/test-render-04.mp4" type"video/mp4" autoplay muted loop data-js-init="video" src="<?php echo get_template_directory_uri(); ?>/vid/test-render-04.mp4">
+          <img src="<?php echo get_template_directory_uri(); ?>/img/banner-space-with-ship.png">
+          Your browser does not support the video tag.
+      </video>
+      <div class="container">
+        <div class="row pad15-left pad15-right">
+          <!-- Type JS -->
+          <div class="col-sm-6">
+            <h1 class="text-shadow">
+              <span class="text-white">WE CREATE GAMES<br /> THAT</span>
+              <div id="typed-strings">
+                  <p>INSPIRE</p>
+                  <p>TEACH</p>
+                  <p>INNOVATE</p>
+              </div>
+            <span id="typed" class="text-green"></span>
+            </h1>
+          </div><!-- END: Type JS -->
+          <!-- <div class="col-sm-6">
+            <div class="banner-ship wow fadeInDown" data-wow-duration=".75s">
+              <img src="<?php echo get_template_directory_uri(); ?>/img/banner-ship.png"/>
             </div>
-          <span id="typed" class="text-green"></span>
-          </h1>
-        </div><!-- END: Type JS -->
-        <!-- <div class="col-sm-6">
-          <div class="banner-ship wow fadeInDown" data-wow-duration=".75s">
-            <img src="<?php echo get_template_directory_uri(); ?>/img/banner-ship.png"/>
-          </div>
-        </div> -->
+          </div> -->
+        </div>
       </div>
     </div>
-  </div>
-</div>
-<!-- END: Banner -->
+  </div><!-- END: Banner -->
 <!--
   BEGIN: Main Content
 -->

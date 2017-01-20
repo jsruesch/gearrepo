@@ -106,6 +106,20 @@ table tr{  }
 .clear{ clear: both; }
 .left{  float: left; }
 .right{ float: right; }
+/* Five Columns Setup */
+.col-xs-15,
+.col-sm-15,
+.col-md-15,
+.col-lg-15 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.col-xs-15{
+  width: 20%;
+  float: left;
+}
 .full{ @include full; }
 .cstbtn{
   display: inline-block;

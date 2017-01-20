@@ -49,7 +49,7 @@
         <!-- Portraits -->
         <div class="row pad60-left pad60-right pad60-bot">
         <!-- Mike -->
-          <div class="col-sm-6 col-md-3 col-lg-2 pad5">
+          <div class="col-sm-6 col-md-3 col-lg-15 pad5">
             <a href="profile-mike">
             <div class="row portrait-container">
               <div class="row ptext">
@@ -62,7 +62,7 @@
             </a>
           </div><!-- END: Mike -->
           <!-- Greg -->
-            <div class="col-sm-6 col-md-3 col-lg-2 pad5">
+            <div class="col-sm-6 col-md-3 col-lg-15 pad5">
               <a href="profile-greg">
               <div class="row portrait-container">
                 <div class="row ptext">
@@ -75,7 +75,7 @@
               </a>
             </div><!-- END: Greg -->
           <!-- Leo -->
-            <div class="col-sm-6 col-md-3 col-lg-2 pad5">
+            <div class="col-sm-6 col-md-3 col-lg-15 pad5">
               <a href="profile-leo">
               <div class="row portrait-container">
                 <div class="row ptext">
@@ -88,7 +88,7 @@
               </a>
             </div><!-- END: Leo -->
           <!-- John -->
-            <div class="col-sm-6 col-md-3 col-lg-2 pad5">
+            <div class="col-sm-6 col-md-3 col-lg-15 pad5">
               <a href="profile-john">
               <div class="row portrait-container">
                 <div class="row ptext">
@@ -101,7 +101,7 @@
               </a>
             </div><!-- END: John -->
           <!-- Keith -->
-            <div class="col-sm-6 col-md-3 col-lg-2 pad5">
+            <div class="col-sm-6 col-md-3 col-lg-15 pad5">
               <a href="profile-keith">
               <div class="row portrait-container">
                 <div class="row ptext">
@@ -114,7 +114,7 @@
               </a>
             </div><!-- END: Keith -->
           <!-- Sarah -->
-            <div class="col-sm-6 col-md-3 col-lg-2 pad5">
+            <div class="col-sm-6 col-md-3 col-lg-15 pad5">
               <a href="profile-sarah">
               <div class="row portrait-container">
                 <div class="row ptext">
@@ -127,7 +127,7 @@
               </a>
             </div><!-- END: Sarah -->
           <!-- Jason -->
-            <div class="col-sm-6 col-md-3 col-lg-2 pad5">
+            <div class="col-sm-6 col-md-3 col-lg-15 pad5">
               <a href="profile-jason">
               <div class="row portrait-container">
                 <div class="row ptext">
@@ -140,7 +140,7 @@
               </a>
             </div><!-- END: Jason -->
           <!-- Jake -->
-            <div class="col-sm-6 col-md-3 col-lg-2 pad5">
+            <div class="col-sm-6 col-md-3 col-lg-15 pad5">
               <a href="profile-jake">
               <div class="row portrait-container">
                 <div class="row ptext">
@@ -153,7 +153,7 @@
               </a>
             </div><!-- END: Jake -->
           <!-- Josephine -->
-            <div class="col-sm-6 col-md-3 col-lg-2 pad5">
+            <div class="col-sm-6 col-md-3 col-lg-15 pad5">
               <a href="profile-josephine">
               <div class="row portrait-container">
                 <div class="row ptext">

@@ -12,16 +12,19 @@
 /* Small devices */
 @media screen and (min-width: 768px) {
   .container{ width: 100% !important; } /* BS Override */
+  .col-sm-15{ width: 20% !important; float: left; }
 }
 
 /* Medium devices (desktops, 992px and up) */
 @media screen and (min-width: 992px) {
   .container{ width: 100% !important; } /* BS Override */
+  .col-md-15{ width: 20% !important; float: left; }
 }
 
 /* Large devices (large desktops, 1200px and up) */
 @media screen and (min-width: 1170px) {
   .container{ width: 80% !important; } /* BS Override */
+  .col-lg-15{ width: 20% !important; float: left; }
 }
 
 /* Small Screens */

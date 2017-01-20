@@ -867,6 +867,12 @@ h1, h2, h3, h4, h5, p {
   .mobile-dropdown {
     display: block !important; }
 
+  table tr td.col-sm-8,
+  table tr td.col-sm-4 {
+    display: block;
+    width: 100%;
+    clear: both; }
+
   .post-img-left,
   .post-img-right,
   .post-img-full {
@@ -1231,6 +1237,10 @@ iframe {
  * Elements
  * =========================================
  */
+.twitter-container {
+  max-height: 350px;
+  overflow: scroll; }
+
 #ctf .ctf-item, .ctf-header {
   padding: 15px !important; }
 

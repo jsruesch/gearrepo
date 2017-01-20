@@ -149,6 +149,11 @@
     .nav-menu{ display: none; }
     .mobile-dropdown{ display: block !important; }
 
+    table tr td.col-sm-8,
+    table tr td.col-sm-4{
+      display: block; width: 100%; clear: both;
+    }
+
     .post-img-left,
     .post-img-right,
     .post-img-full{

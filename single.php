@@ -28,7 +28,7 @@
           <div class="text-lblue">By <?php the_author_posts_link(); ?> on <?php the_time('F j, Y') ?></div>
 
         </div>
-        <div class="row pad20 bg-white post-entry">
+        <div class="row pad20 bg-white">
           <p  class="text-lblue bcopy">
             <?php the_content(); ?>
           </p>

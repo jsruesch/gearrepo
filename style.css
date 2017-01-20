@@ -739,7 +739,7 @@ h1, h2, h3, h4, h5, p {
 /* Large devices (large desktops, 1200px and up) */
 @media screen and (min-width: 1170px) {
   .container {
-    width: 80% !important; }
+    width: 75% !important; }
 
   /* BS Override */
   .col-lg-15 {
@@ -842,7 +842,7 @@ h1, h2, h3, h4, h5, p {
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: 1170px) {
   .container {
-    width: 80% !important; }
+    width: 75% !important; }
 
   /* BS Override */ }
 @media (max-device-width: 768px) {

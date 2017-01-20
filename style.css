@@ -868,7 +868,8 @@ h1, h2, h3, h4, h5, p {
     display: block !important; }
 
   .post-img-left,
-  .post-img-right {
+  .post-img-right,
+  .post-img-full {
     width: 100%;
     height: auto !important;
     float: left;

@@ -109,12 +109,12 @@
                       </div>
                       <div class="col-xs-4">
                         <div class="profile-link-button">
-                          <a class="btn-gen" href="" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                          <a class="btn-gen" href="https://www.facebook.com/gearlearning" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                         </div>
                       </div>
                       <div class="col-xs-4 bg-lgreen">
                         <div class="profile-link-button">
-                          <a class="btn-gen" href="" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                          <a class="btn-gen" href="https://www.instagram.com/gearlearning/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
                         </div>
                       </div>
                     </div><!-- END: SM Buttons -->

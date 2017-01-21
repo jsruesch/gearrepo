@@ -104,7 +104,7 @@
                     <div class="row wow fadeInUp" data-wow-delay=".65s">
                       <div class="col-xs-4 bg-lgreen">
                         <div class="profile-link-button">
-                          <a class="btn-gen" href="" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                          <a class="btn-gen" href="https://twitter.com/GearLearning" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
                         </div>
                       </div>
                       <div class="col-xs-4">

@@ -61,7 +61,7 @@
         <table class="sc-table">
           <tr style="vertical-align:top">
             <td class="col-sm-8 bg-ddblue">
-              <div class="row wow fadeInUp" data-wow-delay=".45s">
+              <div class="row wow fadeInUp" data-wow-delay=".65s">
                 <?php query_posts('category_name=featured&posts_per_page=1');?>
                 <?php if (have_posts()) : ?>
                     <?php $post = $posts[0]; // Hack. Set $post so that the_date() works. ?>
@@ -92,11 +92,11 @@
               </div><!-- ./row -->
             </td>
             <td class="col-sm-4 pad30 bg-green sc">
-                <div class="sc-top pad30-top pad30-left pad30-right wow fadeInUp"  data-wow-delay=".45s">
+                <div class="sc-top pad30-top pad30-left pad30-right wow fadeInUp"  data-wow-delay=".75s">
                     <h4 class="text-ddblue"><span class="text-white">Stay</span> Connected</h4>
                     <div class="thickdiv mar15-bot mar10-top"></div>
                 </div>
-                <div class="sc-mid mar30 wow fadeInUp"  data-wow-delay=".45s">
+                <div class="sc-mid mar30 wow fadeInUp"  data-wow-delay=".85s">
                     <?php echo do_shortcode("[custom-twitter-feeds]"); ?>
                 </div>
                 <div class="sc-bot mar30-left mar30-bot mar30-right">

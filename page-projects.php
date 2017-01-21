@@ -20,7 +20,7 @@
         <div class="col-sm-6 pad10">
           <a href="at-play-in-the-cosmos">
             <div class="row selproj-btn">
-              <div class="row project-page-image">
+              <div class="row project-page-image pad30-bot">
                 <img src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/project-page-image-cosmos-01.png"/>
               </div>
               <div class="row bg-ddblue pad25">
@@ -36,7 +36,7 @@
         <div class="col-sm-6 pad10">
           <a href="http://www.gearlearning.org/microsites/econauts/" target="_blank">
             <div class="row selproj-btn">
-              <div class="row project-page-image">
+              <div class="row project-page-image pad30-bot">
                 <img src="<?php echo get_template_directory_uri(); ?>/img/projects/econauts/project-page-image-econauts-01.png"/>
               </div>
               <div class="row bg-ddblue pad25">
@@ -52,7 +52,7 @@
         <div class="col-sm-6 pad10">
           <a href="http://www.gearlearning.org/microsites/oztoc/" target="_blank">
             <div class="row selproj-btn">
-              <div class="row project-page-image">
+              <div class="row project-page-image pad30-bot">
                 <img src="<?php echo get_template_directory_uri(); ?>/img/projects/oztoc/project-page-image-oztoc-01.png"/>
               </div>
               <div class="row bg-ddblue pad25">
@@ -68,7 +68,7 @@
         <div class="col-sm-6 pad10">
           <a href="http://www.gearlearning.org/microsites/progenitor/" target="_blank">
             <div class="row selproj-btn">
-              <div class="row project-page-image">
+              <div class="row project-page-image pad30-bot">
                 <img src="<?php echo get_template_directory_uri(); ?>/img/projects/progenitor/project-page-image-progenitor-01.png"/>
               </div>
               <div class="row bg-ddblue pad25">
@@ -84,7 +84,7 @@
         <div class="col-sm-6 pad10">
           <a href="http://www.gearlearning.org/microsites/kaydor/" target="_blank">
             <div class="row selproj-btn">
-              <div class="row project-page-image">
+              <div class="row project-page-image pad30-bot">
                 <img src="<?php echo get_template_directory_uri(); ?>/img/projects/crystals/project-page-image-crystals-01.png"/>
               </div>
               <div class="row bg-ddblue pad25">
@@ -100,7 +100,7 @@
         <div class="col-sm-6 pad10">
           <a href="">
             <div class="row selproj-btn">
-                <div class="row project-page-image">
+                <div class="row project-page-image pad30-bot">
                   <img src="<?php echo get_template_directory_uri(); ?>/img/projects/rosstide/project-page-image-rosstide-01.png"/>
                 </div>
               <div class="row bg-ddblue pad25">
@@ -116,7 +116,7 @@
         <div class="col-sm-6 pad10">
           <a href="">
             <div class="row selproj-btn">
-                <div class="row project-page-image">
+                <div class="row project-page-image pad30-bot">
                   <img src="<?php echo get_template_directory_uri(); ?>/img/projects/pawpad/project-page-image-pawpad-01.png"/>
                 </div>
               <div class="row bg-ddblue pad25">
@@ -132,7 +132,7 @@
         <div class="col-sm-6 pad10">
           <a href="">
             <div class="row selproj-btn">
-                <div class="row project-page-image">
+                <div class="row project-page-image pad30-bot">
                   <img src="<?php echo get_template_directory_uri(); ?>/img/projects/apex/project-page-image-apex-01.png"/>
                 </div>
               <div class="row bg-ddblue pad25">
@@ -148,7 +148,7 @@
         <div class="col-sm-6 pad10">
           <a href="">
             <div class="row selproj-btn">
-              <div class="row project-page-image">
+              <div class="row project-page-image pad30-bot">
                 <img src="<?php echo get_template_directory_uri(); ?>/img/projects/tenacity/project-page-image-tenacity-01.png"/>
               </div>
               <div class="row bg-ddblue pad25">
@@ -164,7 +164,7 @@
         <div class="col-sm-6 pad10">
           <a href="http://fairplaygame.org" target="_blank">
             <div class="row selproj-btn">
-              <div class="row project-page-image">
+              <div class="row project-page-image pad30-bot">
                 <img src="<?php echo get_template_directory_uri(); ?>/img/projects/fairplay/project-page-image-fairplay-01.png"/>
               </div>
               <div class="row bg-ddblue pad25">
@@ -180,7 +180,7 @@
         <div class="col-sm-6 pad10">
          <a href="http://www.gearlearning.org/microsites/soul/" target="_blank">
             <div class="row selproj-btn">
-              <div class="row project-page-image">
+              <div class="row project-page-image pad30-bot">
                 <img src="<?php echo get_template_directory_uri(); ?>/img/projects/soul/project-page-image-soul-01.png"/>
               </div>
               <div class="row bg-ddblue pad25">
@@ -196,7 +196,7 @@
         <div class="col-sm-6 pad10">
           <a href="http://www.gearlearning.org/microsites/virulent/" target="_blank">
             <div class="row selproj-btn">
-              <div class="row project-page-image">
+              <div class="row project-page-image pad30-bot">
                 <img src="<?php echo get_template_directory_uri(); ?>/img/projects/virulent/project-page-image-virulent-01.png"/>
               </div>
               <div class="row bg-ddblue pad25">
@@ -212,7 +212,7 @@
         <div class="col-sm-6 pad10">
           <a href="">
             <div class="row selproj-btn">
-              <div class="row project-page-image">
+              <div class="row project-page-image pad30-bot">
                 <img src="<?php echo get_template_directory_uri(); ?>/img/projects/citizen-science/project-page-image-citizen-science-01.png"/>
               </div>
               <div class="row bg-ddblue pad25">
@@ -228,7 +228,7 @@
         <div class="col-sm-6 pad10">
           <a href="https://external-wiki.terc.edu/display/ZOOM/The+Game" target="_blank">
             <div class="row selproj-btn">
-                <div class="row project-page-image">
+                <div class="row project-page-image pad30-bot">
                   <img src="<?php echo get_template_directory_uri(); ?>/img/projects/zoombinis/project-page-image-zoombinis-01.png"/>
                 </div>
               <div class="row bg-ddblue pad25">

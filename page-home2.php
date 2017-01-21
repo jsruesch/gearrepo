@@ -189,9 +189,9 @@
 -->
   <div class="container-fluid">
     <div class="container bg-ddblue pad60">
-      <div class="col-sm-6 mar30-bot">
+      <div class="col-sm-6 ">
         <a href="/at-play-in-the-cosmos">
-          <div class="row wow fadeInUp" data-wow-delay=".25s">
+          <div class="row wow fadeInUp halfpad-right" data-wow-delay=".25s">
               <div class="recent-release-img-container">
                 <div class="row iframe-embed-container">
                   <iframe src="https://player.vimeo.com/video/179368796?byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -208,8 +208,8 @@
           </div>
         </a>
       </div><!-- /.col-sm-6 -->
-      <div class="col-sm-6 pad30-left pad30-right">
-        <div class="row wow fadeInUp" data-wow-delay=".45s">
+      <div class="col-sm-6 ">
+        <div class="row wow fadeInUp halfpad-left" data-wow-delay=".45s">
           <h3 class="text-green"><span class="text-white">Creation Through</span> Collaboration</h3>
           <div class="thickdiv mar15-bot mar10-top"></div>
           <div class="row">

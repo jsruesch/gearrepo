@@ -756,6 +756,13 @@ h1, h2, h3, h4, h5, p {
     float: left;
     height: 500px; }
 
+  .halfpad-left {
+    padding-left: 0 !important;
+    margin-top: 30px; }
+
+  .halfpad-right {
+    padding-right: 0 !important; }
+
   .container {
     width: 100% !important; }
 
@@ -875,6 +882,13 @@ h1, h2, h3, h4, h5, p {
     width: 100% !important;
     float: left;
     height: 500px; }
+
+  .halfpad-left {
+    padding-left: 0 !important;
+    margin-top: 30px; }
+
+  .halfpad-right {
+    padding-right: 0 !important; }
 
   .nav-menu {
     display: none; }
@@ -1046,6 +1060,12 @@ h1, h2, h3, h4, h5, h6 {
 .full {
   width: 100%;
   float: left; }
+
+.halfpad-left {
+  padding-left: 30px; }
+
+.halfpad-right {
+  padding-right: 30px; }
 
 .cstbtn {
   display: inline-block;

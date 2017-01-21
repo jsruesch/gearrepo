@@ -123,6 +123,8 @@ table tr{  }
   float: left;
 }
 .full{ @include full; }
+.halfpad-left{ padding-left:30px; }
+.halfpad-right{ padding-right:30px; }
 .cstbtn{
   display: inline-block;
   overflow: hidden !important;

@@ -41,6 +41,9 @@
         height: 500px;
     }
 
+    .halfpad-left{ padding-left: 0 !important; margin-top: 30px; }
+    .halfpad-right{ padding-right: 0 !important; }
+
   .container{ width: 100% !important; } /* BS Override */
 
   .post-img-left,
@@ -167,6 +170,9 @@
         height: 500px;
     }
 
+    .halfpad-left{ padding-left: 0 !important; margin-top: 30px; }
+    .halfpad-right{ padding-right: 0 !important; }
+    
     .nav-menu{ display: none; }
     .mobile-dropdown{ display: block !important; }
 

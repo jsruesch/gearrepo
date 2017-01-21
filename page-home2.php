@@ -60,7 +60,7 @@
       <div class="row">
         <table class="sc-table">
           <tr style="vertical-align:top">
-            <td class="col-sm-8 pad20 bg-ddblue">
+            <td class="col-sm-8 bg-ddblue">
               <div class="row wow fadeInUp" data-wow-delay=".45s">
                 <?php query_posts('category_name=featured&posts_per_page=1');?>
                 <?php if (have_posts()) : ?>

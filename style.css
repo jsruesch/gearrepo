@@ -747,6 +747,15 @@ h1, h2, h3, h4, h5, p {
     float: left; } }
 /* Small Screens */
 @media screen and (max-width: 768px) {
+  .sc-table .col-sm-8 {
+    width: 100% !important;
+    float: left; }
+
+  .sc-table .col-sm-4 {
+    width: 100% !important;
+    float: left;
+    height: 500px; }
+
   .container {
     width: 100% !important; }
 
@@ -861,6 +870,15 @@ h1, h2, h3, h4, h5, p {
 
   /* BS Override */ }
 @media (max-device-width: 768px) {
+  .sc-table .col-sm-8 {
+    width: 100% !important;
+    float: left; }
+
+  .sc-table .col-sm-4 {
+    width: 100% !important;
+    float: left;
+    height: 500px; }
+
   .nav-menu {
     display: none; }
 

@@ -20,9 +20,9 @@
       BEGIN: Mobile Navigation
     -->
       <div class="mobile-dropdown">
-        <div class="cstbtn navbtn" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+        <button class="cstbtn navbtn" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
           <span><i class="fa fa-bars" aria-hidden="true"></i></span>
-        </div>
+        </button>
         <div class="collapse" id="collapseExample">
           <div class="well">
             <nav>

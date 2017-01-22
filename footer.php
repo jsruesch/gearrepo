@@ -6,7 +6,7 @@
 			<div class="row pad60">
 				<div class="col-sm-2">
 					<div class="row mar20-bot">
-						<img class="footer-logo center-block" src="<?php echo get_template_directory_uri(); ?>/img/gear-logo.svg"/>
+						<a href="http://gearlearning.org"><img class="footer-logo center-block" src="<?php echo get_template_directory_uri(); ?>/img/gear-logo.svg"/></a>
 					</div>
 				</div>
 

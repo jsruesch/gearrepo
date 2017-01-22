@@ -1240,7 +1240,9 @@ iframe {
   width: 100%; }
   .mobile-dropdown .navbtn {
     position: absolute;
-    right: 0; }
+    right: 0;
+    background: none;
+    border: none; }
   .mobile-dropdown .well {
     width: 100%;
     float: left;

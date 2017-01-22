@@ -58,10 +58,10 @@
 
 
       <div class="row">
-        <table>
+        <table class="sc-table">
           <tr style="vertical-align:top">
-            <td class=="col-sm-8 pad20 bg-lblue">
-              <div class="row wow fadeInUp" data-wow-delay=".45s">
+            <td class="col-sm-8 bg-ddblue">
+              <div class="row wow fadeInUp" data-wow-delay=".65s">
                 <?php query_posts('category_name=featured&posts_per_page=1');?>
                 <?php if (have_posts()) : ?>
                     <?php $post = $posts[0]; // Hack. Set $post so that the_date() works. ?>
@@ -78,7 +78,7 @@
                             }?>
                           </a>
                         </div>
-                        <div class="row pad60">
+                        <div class="row pad60 bg-ddblue">
                           <h3><a href="<?php the_permalink() ?>"  class="text-green"><?php the_title(); ?></a></h3>
                           <div class="thickdiv mar10-bot mar10-top"></div>
                           <p><span  class="text-lblue"><?php the_content( $more_link_text , $strip_teaser ); ?>
@@ -91,115 +91,40 @@
                 <?php endif; ?>
               </div><!-- ./row -->
             </td>
-            <td class="col-sm-4 pad30 bg-green">
-              <div class="sc">
-
-                <div class="sc-top">
-                  <h4 class="text-ddblue"><span class="text-white">Stay</span> Connected</h4>
-                  <div class="thickdiv mar15-bot mar10-top"></div>
+            <td class="col-sm-4 pad30 bg-green sc">
+                <div class="sc-top pad30-top pad30-left pad30-right wow fadeInUp"  data-wow-delay=".75s">
+                    <h4 class="text-ddblue"><span class="text-white">Stay</span> Connected</h4>
+                    <div class="thickdiv mar15-bot mar10-top"></div>
                 </div>
-                <div class="sc-mid">
-                  <div class="twitter-container">
+                <div class="sc-mid mar30 wow fadeInUp"  data-wow-delay=".85s">
                     <?php echo do_shortcode("[custom-twitter-feeds]"); ?>
-                    <!-- <a class="twitter-timeline" data-height="100%" href="https://twitter.com/HigherEdGames">Tweets by HigherEdGames</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> -->
-                  </div>
                 </div>
-                <div class="sc-bot">
-                  <!-- SM Buttons -->
-                  <div class="row wow fadeInUp mar20-top" data-wow-delay="1.5s">
-                    <div class="col-xs-4 bg-lgreen">
-                      <div class="profile-link-button">
-                        <a class="btn-gen" href="" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                <div class="sc-bot mar30-left mar30-bot mar30-right">
+                    <!-- SM Buttons -->
+                    <div class="row wow fadeInUp" data-wow-delay=".65s">
+                      <div class="col-xs-4 bg-lgreen">
+                        <div class="profile-link-button">
+                          <a class="btn-gen" href="https://twitter.com/GearLearning" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                        </div>
                       </div>
-                    </div>
-                    <div class="col-xs-4">
-                      <div class="profile-link-button">
-                        <a class="btn-gen" href="" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                      <div class="col-xs-4">
+                        <div class="profile-link-button">
+                          <a class="btn-gen" href="https://www.facebook.com/gearlearning" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                        </div>
                       </div>
-                    </div>
-                    <div class="col-xs-4 bg-lgreen">
-                      <div class="profile-link-button">
-                        <a class="btn-gen" href="" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                      <div class="col-xs-4 bg-lgreen">
+                        <div class="profile-link-button">
+                          <a class="btn-gen" href="https://www.instagram.com/gearlearning/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                        </div>
                       </div>
-                    </div>
-                  </div><!-- END: SM Buttons -->
+                    </div><!-- END: SM Buttons -->
                 </div>
-              </div>
-            </div>
-
-              <!-- Twitter -->
-
-
             </td>
           </tr>
         </table>
       </div>
 
-      <div class="col-sm-8">
-        <div class="row bg-ddblue">
-          <div class="row wow fadeInUp" data-wow-delay=".45s">
-            <?php query_posts('category_name=featured&posts_per_page=1');?>
-            <?php if (have_posts()) : ?>
-                <?php $post = $posts[0]; // Hack. Set $post so that the_date() works. ?>
-                <?php /* If this is a category archive */ if (is_category()) { ?>
-                <?php } ?>
-                <?php while (have_posts()) : the_post(); ?>
-                  <!-- The Content -->
-                  <div <?php post_class() ?>>
-                    <div class="row post-img-container">
-                      <a href="<?php the_permalink() ?>">
-                      <?php
-                        if ( has_post_thumbnail() ) {
-                          the_post_thumbnail();
-                        }?>
-                      </a>
-                    </div>
-                    <div class="row pad60">
-                      <h3><a href="<?php the_permalink() ?>"  class="text-green"><?php the_title(); ?></a></h3>
-                      <div class="thickdiv mar10-bot mar10-top"></div>
-                      <p><span  class="text-lblue"><?php the_content( $more_link_text , $strip_teaser ); ?>
-                      </span></p>
-                    </div>
-                  </div><!-- /The Content -->
-                <?php endwhile; ?>
-                <?php else : ?>
-                  <p class="text-lblue">There are currently no items to display</p>
-            <?php endif; ?>
-          </div><!-- ./row -->
-        </div>
-      </div><!-- END: Featured Post -->
-    <!--
-      BEGIN: Stay Connected
-    -->
-      <div class="col-sm-4 bg-green">
-        <div class="row wow fadeInUp pad30" data-wow-delay=".55s" style="height:100%">
-          <h4 class="text-ddblue"><span class="text-white">Stay</span> Connected</h4>
-          <div class="thickdiv mar15-bot mar10-top"></div>
-          <!-- Twitter -->
-          <div class="twitter-container">
-            <?php echo do_shortcode("[custom-twitter-feeds]"); ?>
-            <!-- <a class="twitter-timeline" data-height="100%" href="https://twitter.com/HigherEdGames">Tweets by HigherEdGames</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> -->
-          </div>
-          <!-- SM Buttons -->
-          <div class="row wow fadeInUp mar20-top" data-wow-delay="1.5s">
-            <div class="col-xs-4 bg-lgreen">
-              <div class="profile-link-button">
-                <a class="btn-gen" href="" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-              </div>
-            </div>
-            <div class="col-xs-4">
-              <div class="profile-link-button">
-                <a class="btn-gen" href="" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-              </div>
-            </div>
-            <div class="col-xs-4 bg-lgreen">
-              <div class="profile-link-button">
-                <a class="btn-gen" href="" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-              </div>
-            </div>
-          </div><!-- END: SM Buttons -->
-        </div><!-- /.row -->
-      </div><!-- END: Stay Connected -->
+      <d
 
     </div><!-- /.container -->
   </div><!-- /.container-fluid -->
@@ -264,9 +189,9 @@
 -->
   <div class="container-fluid">
     <div class="container bg-ddblue pad60">
-      <div class="col-sm-6 mar30-bot">
+      <div class="col-sm-6 ">
         <a href="/at-play-in-the-cosmos">
-          <div class="row wow fadeInUp" data-wow-delay=".25s">
+          <div class="row wow fadeInUp halfpad-right" data-wow-delay=".25s">
               <div class="recent-release-img-container">
                 <div class="row iframe-embed-container">
                   <iframe src="https://player.vimeo.com/video/179368796?byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -283,8 +208,8 @@
           </div>
         </a>
       </div><!-- /.col-sm-6 -->
-      <div class="col-sm-6 pad30-left pad30-right">
-        <div class="row wow fadeInUp" data-wow-delay=".45s">
+      <div class="col-sm-6 ">
+        <div class="row wow fadeInUp halfpad-left" data-wow-delay=".45s">
           <h3 class="text-green"><span class="text-white">Creation Through</span> Collaboration</h3>
           <div class="thickdiv mar15-bot mar10-top"></div>
           <div class="row">

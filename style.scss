@@ -123,6 +123,8 @@ table tr{  }
   float: left;
 }
 .full{ @include full; }
+.halfpad-left{ padding-left:30px; }
+.halfpad-right{ padding-right:30px; }
 .cstbtn{
   display: inline-block;
   overflow: hidden !important;
@@ -304,7 +306,7 @@ iframe{ width: 100%; }
 .mobile-dropdown{
   display: none;
   width: 100%;
-
+ 
   .navbtn{
     position: absolute;
     right: 0;
@@ -443,27 +445,26 @@ iframe{ width: 100%; }
 #ctf .ctf-item,.ctf-header{ padding: 15px !important; }
 
 .sc{
-  position: relative;
-  height: 100% !important;
-  width: 100%;
+  position: relative !important;
 
   .sc-top{
-    width: 100%;
-    height: 55px;
-    position: relative;
+    position: absolute;
     top: 0;
+    left:0;
+    right: 0;
   }
   .sc-mid{
-    position: absolute;
-    width: 100%;
-    top: 0px;
-    bottom: 0px;
+      position: absolute;
+      top: 55px;
+      bottom: 75px;
+      left: 0;
+      right: 0;
   }
   .sc-bot{
-    height: 55px;
-    width: 100%;
     position: absolute;
     bottom: 0;
+    left: 0;
+    right: 0;
   }
 }
 /* END: Elements */
@@ -837,17 +838,12 @@ textarea{
 
  .project-page-image{
    width: 100%;
-   height: 255px;
-   position: relative;
-   overflow: hidden;
+   float: left;
 
    img{
-     position: absolute;
-     top: 50%;
-     left: 50%;
-     transform: translateX(-50%) translateY(-50%);
-     min-width: 100%;
-   }
+     width: 100%;
+     float:left;
+    }
  }
 
 

@@ -38,8 +38,73 @@
           <iframe src="https://player.vimeo.com/video/179368796?byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
         </div>
       </div>
+
+      <div class="row pad60 bg-ddblue">
+        <div class="row">
+          <div class="col-sm-2 pad20">
+            <img class="center-block" src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/icon-cori.svg" />
+          </div>
+          <div class="col-sm-10">
+            <h2 class="text-c-teal">Introducing CORI</h2>
+            <div class="thickdiv mar10-bot mar10-top"></div>
+            <p class=" text-lblue">
+              CORI, the <strong><span class="text-c-teal">C</span><span class="text-white">osmic <span class="text-c-teal">O</span><span class="text-white">perations</span> <span class="text-c-teal">R</span><span class="text-white">esearch</span> <span class="text-c-teal">I</span><span class="text-white">nterface</span></strong>, is your students' control center within the game. At any time, students can tap this button to access:
+            </p>
+          </div>
+        </div>
+
+
+        <div class="row">
+          <div class="col-sm-2 pad20">
+            <img class="center-block" src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/icon-starchart.svg" />
+          </div>
+          <div class="col-sm-10">
+            <h3 class="text-c-teal">Star Chart</h3>
+            <p class="text-lblue">
+              The Interactive Star Chart, for travel throughout the universe and access to onboard scientific analysis tools, such as the Spectrum Analyzer and Small Angle Tool.
+            </p>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-sm-2 pad20">
+            <img class="center-block" src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/icon-missions.svg" />
+          </div>
+          <div class="col-sm-10">
+            <h3 class="text-c-green">Missions</h3>
+            <p class="text-lblue">
+
+            </p>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-sm-2 pad20">
+            <img class="center-block" src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/icon-data.svg" />
+          </div>
+          <div class="col-sm-10">
+            <h3 class="text-c-pink">Data</h3>
+            <p class="text-lblue">
+
+            </p>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-sm-2 pad20">
+            <img class="center-block" src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/icon-engineering.svg" />
+          </div>
+          <div class="col-sm-10">
+            <h3 class="text-c-yellow">Engineering</h3>
+            <p class="text-lblue">
+
+            </p>
+          </div>
+        </div>
+      </div>
+
       <!-- Tools -->
-      <div class="row mar20-bot">
+      <!-- <div class="row mar20-bot">
         <div class="col-sm-6">
           <div class="row video-embed-container-md">
             <video data-src-high="<?php echo get_template_directory_uri(); ?>/vid/test-render-02.mp4" type"video/mp4" autoplay muted loop data-js-init="video" src="<?php echo get_template_directory_uri(); ?>/vid/test-render-02.mp4"></video>
@@ -54,7 +119,7 @@
         </div>
       </div><!-- END: Tools -->
       <!-- Narrative -->
-      <div class="row pad60 bg-ddblue">
+      <!-- <div class="row pad60 bg-ddblue">
         <div class="col-sm-6">
           <h2 class="text-green">Play up to 20 narrative-driven missions!</h2>
           <div class="thickdiv mar10-bot mar10-top"></div>
@@ -65,7 +130,7 @@
         <div class="col-sm-6">
 
         </div>
-      </div>
+      </div> -->
       <!-- END: Narrative -->
     </div><!-- /.container -->
   </div><!-- /.container-fluid -->

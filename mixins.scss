@@ -63,6 +63,20 @@
  .bg-ddblue{  background: $ddblue; }
  .bg-white{   background: $white; }
 
+ /* Cosmos */
+ $c-teal:    #00BABE;
+ $c-green:   #8EC349;
+ $c-pink:    #EF4C6C;
+ $c-yellow:  #EECC01;
+ .text-c-teal{   color: $c-teal; }
+ .text-c-green{  color: $c-green; }
+ .text-c-pink{   color: $c-pink; }
+ .text-c-yellow{ color: $c-yellow; }
+ .bg-c-teal{   background: $c-teal; }
+ .bg-c-green{  background: $c-green; }
+ .bg-c-pink{   background: $c-pink; }
+ .bg-c-yellow{ background: $c-yellow; }
+
  /* Bootstrap Overrides */
  .container,
  .col-sm-12,

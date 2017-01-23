@@ -74,6 +74,31 @@ Version: 1
 .bg-white {
   background: #ffffff; }
 
+/* Cosmos */
+.text-c-teal {
+  color: #00BABE; }
+
+.text-c-green {
+  color: #8EC349; }
+
+.text-c-pink {
+  color: #EF4C6C; }
+
+.text-c-yellow {
+  color: #EECC01; }
+
+.bg-c-teal {
+  background: #00BABE; }
+
+.bg-c-green {
+  background: #8EC349; }
+
+.bg-c-pink {
+  background: #EF4C6C; }
+
+.bg-c-yellow {
+  background: #EECC01; }
+
 /* Bootstrap Overrides */
 .container,
 .col-sm-12,
@@ -428,6 +453,31 @@ h1, h2, h3, h4, h5, p {
 
 .bg-white {
   background: #ffffff; }
+
+/* Cosmos */
+.text-c-teal {
+  color: #00BABE; }
+
+.text-c-green {
+  color: #8EC349; }
+
+.text-c-pink {
+  color: #EF4C6C; }
+
+.text-c-yellow {
+  color: #EECC01; }
+
+.bg-c-teal {
+  background: #00BABE; }
+
+.bg-c-green {
+  background: #8EC349; }
+
+.bg-c-pink {
+  background: #EF4C6C; }
+
+.bg-c-yellow {
+  background: #EECC01; }
 
 /* Bootstrap Overrides */
 .container,

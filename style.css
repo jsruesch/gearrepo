@@ -800,6 +800,7 @@ h1, h2, h3, h4, h5, p {
   .sc-table .col-sm-8,
   .sc-table .col-sm-6,
   .sc-table .col-sm-2,
+  .sc-table .col-sm-9,
   .sc-table .col-sm-10 {
     width: 100% !important;
     float: left; }
@@ -927,7 +928,11 @@ h1, h2, h3, h4, h5, p {
 
   /* BS Override */ }
 @media (max-device-width: 768px) {
-  .sc-table .col-sm-8 {
+  .sc-table .col-sm-8,
+  .sc-table .col-sm-6,
+  .sc-table .col-sm-2,
+  .sc-table .col-sm-9,
+  .sc-table .col-sm-10 {
     width: 100% !important;
     float: left; }
 

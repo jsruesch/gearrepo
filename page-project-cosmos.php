@@ -39,10 +39,37 @@
         </div>
       </div>
 
+      <!-- First of its kind -->
+      <div class="row pad60 bg-ddblue mar20-bot">
+        <div class="row">
+          <h2 class="text-green">A First-of-its-kind resource for the introductory Astronomy course</h2>
+          <div class="thickdiv mar10-bot mar10-top"></div>
+          <p class="text-lblue">
+            <span class="text-white"><strong>At Play in the Cosmos</strong></span> is a videogame designed to engage students taking the introductory astronomy course for nonscience majors. In the game, students confront challenges and fly missions that span the entire scope of the course, from basic physics through cosmology.
+          </p>
+        </div>
+      </div><!-- END: First of its kind -->
+
+      <!-- Star Chart -->
+      <div class="row mar20-bot bg-ddblue">
+        <div class="col-sm-6 pad30">
+          <div class="row video-embed-container-md">
+            <video data-src-high="<?php echo get_template_directory_uri(); ?>/vid/test-render-02.mp4" type"video/mp4" autoplay muted loop data-js-init="video" src="<?php echo get_template_directory_uri(); ?>/vid/test-render-02.mp4"></video>
+          </div>
+        </div>
+        <div class="col-sm-6 pad30">
+          <h4 class="text-green">An interactive Star Chart helps students understand the scale of the universe</h4>
+          <div class="thickdiv mar10-bot mar10-top"></div>
+          <p class="text-lblue">
+            The interactive Star Chart allows students to travel between objects in our universe. Populated with well-studied celestial objects, the Star Chart supports instructors' goal of helping students develop an intuitive sense of the scale of the universe.
+          </p>
+        </div>
+      </div><!-- END: Star Chart -->
+
     <!--
       BEGIN: CORI
     -->
-      <div class="row">
+      <div class="row mar20-bot">
         <div class="row pad60 bg-c-teal">
           <div class="col-sm-2 pad20 bg-ddblue">
             <img class="center-block" src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/icon-cori.svg" />
@@ -95,7 +122,7 @@
                 <div class="col-sm-8">
                   <h3 class="text-c-pink">Data</h3>
                   <p class="text-lblue">
-                    The Data Almanac, for access to the Interactive Simulations and Glassary. Students can also track their Achievements here.
+                    The Data Almanac, for access to the Interactive Simulations and Glossary. Students can also track their Achievements here.
                   </p>
                 </div>
               </div>
@@ -117,7 +144,35 @@
         </div>
       </div>
     <!-- END: CORI -->
-    
+
+    <div class="row pad60 bg-green mar20-bot">
+      <h3 class="text-ddblue">Misson based, narrative driven</h3>
+      <div class="thickdiv mar10-bot mar10-top"></div>
+      <p class="text-ddblue">
+        <strong>The theme of exploration drives student gameplay through a variety of narrative and collection missions.</strong> In the guided, narrative missions, each student assumes the role of a search/survey/rescue contractor and takes on the exciting challenges the job offers.<br /><br />
+        <strong>The game's Cosmic Operations Research Interface guides students through achieving goals</strong> like finding a habitable exoplanet or redirecting a rogue comet. Along the way, students also need to use the ship's mining tools to collect needed fuel or ore to craft parts for the ship.<br /><br />
+        <strong>In addition, players can freely explore over 50 real objects in the cosmos</strong>. They can use the ship's scientific analysis tools, each based on a central concept in the introductory course, to study real astrophysical objects. This "sandbox" mode introduces the possibility of instructors creating their ownmissions and scavanger hunts.
+      </p>
+    </div>
+
+    <div class="row bg-ddblue">
+
+      <table class="sc-table">
+        <tr>
+          <td class="col-sm-6 pad10">
+            <img class="full" src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/comet-flight.png" />
+          </td>
+          <td class="col-sm-6 pad60 ">
+            <h3 class="text-green">Engaging, Interactive, Intuitive</h3>
+            <div class="thickdiv mar10-bot mar10-top"></div>
+            <p class="text-lblue">
+              Student testers report being immediately engaged by the game's visual style and the voice of CORI. Whether gamers or not, students adapt quickly to the interface and focus on the missions rather tahn the medium. The game interface, ship design, and sound were all created with input from student focus group participants.
+            </p>
+          </td>
+        </tr>
+      </table>
+    </div>
+
       <!-- Tools -->
       <!-- <div class="row mar20-bot">
         <div class="col-sm-6">

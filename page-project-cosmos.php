@@ -51,37 +51,47 @@
       </div><!-- END: First of its kind -->
 
       <!-- Star Chart -->
-      <div class="row mar20-bot bg-ddblue">
-        <div class="col-sm-6 pad30">
-          <div class="row video-embed-container-md">
-            <video data-src-high="<?php echo get_template_directory_uri(); ?>/vid/test-render-02.mp4" type"video/mp4" autoplay muted loop data-js-init="video" src="<?php echo get_template_directory_uri(); ?>/vid/test-render-02.mp4"></video>
-          </div>
-        </div>
-        <div class="col-sm-6 pad30">
-          <h4 class="text-green">An interactive Star Chart helps students understand the scale of the universe</h4>
-          <div class="thickdiv mar10-bot mar10-top"></div>
-          <p class="text-lblue">
-            The interactive Star Chart allows students to travel between objects in our universe. Populated with well-studied celestial objects, the Star Chart supports instructors' goal of helping students develop an intuitive sense of the scale of the universe.
-          </p>
-        </div>
-      </div><!-- END: Star Chart -->
+      <div class="row bg-green mar20-bot">
+        <table class="sc-table">
+          <tr>
+            <td class="col-sm-6 pad10">
+              <img class="full" src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/comet-flight.png" />
+            </td>
+            <td class="col-sm-6 pad60 ">
+              <h3 class="text-white">The Star Chart helps students understand the scale of the universe</h3>
+              <div class="thickdiv mar10-bot mar10-top"></div>
+              <p class="text-ddblue">
+                The interactive Star Chart allows students to travel between objects in our universe. Populated with well-studied celestial objects, the Star Chart supports instructors' goal of helping students develop an intuitive sense of the scale of the universe.
+              </p>
+            </td>
+          </tr>
+        </table>
+      </div>
+      <!-- END: Star Chart -->
 
     <!--
       BEGIN: CORI
     -->
       <div class="row mar20-bot">
-        <div class="row pad60 bg-c-teal">
-          <div class="col-sm-2 pad20 bg-ddblue">
-            <img class="center-block" src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/icon-cori.svg" />
-          </div>
-          <div class="col-sm-10 pad20">
-            <h2 class="text-ddblue">Introducing CORI</h2>
-            <div class="thickdiv mar10-bot mar10-top"></div>
-            <p class=" text-ddblue">
-              CORI, the <strong><span class="text-white"><u>C</u>osmic <u>O</u>perations <u>R</u>esearch <u>I</u>nterface</strong>, is your students' control center within the game. At any time, students can tap this button to access:
-            </p>
-          </div>
+
+        <div class="row pad60 bg-c-teal ">
+          <table class="row sc-table">
+            <tr>
+              <td class="col-sm-2 pad20 bg-ddblue">
+                <img class="center-block cosmos-svg" src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/icon-cori.svg" />
+              </td>
+              <td class="col-sm-10 pad20">
+                <h2 class="text-ddblue">Introducing CORI</h2>
+                <div class="thickdiv mar10-bot mar10-top"></div>
+                <p class=" text-ddblue">
+                  CORI, the <strong><span class="text-white"><u>C</u>osmic <u>O</u>perations <u>R</u>esearch <u>I</u>nterface</strong>, is your students' control center within the game. At any time, students can tap this button to access:
+                </p>
+              </td>
+            </tr>
+          </table>
         </div>
+
+
         <div class="row pad60 bg-ddblue">
           <div class="row">
             <!-- Star Chart -->
@@ -146,7 +156,7 @@
     <!-- END: CORI -->
 
     <div class="row pad60 bg-green mar20-bot">
-      <h3 class="text-ddblue">Misson based, narrative driven</h3>
+      <h3 class="text-white">Misson based, narrative driven</h3>
       <div class="thickdiv mar10-bot mar10-top"></div>
       <p class="text-ddblue">
         <strong>The theme of exploration drives student gameplay through a variety of narrative and collection missions.</strong> In the guided, narrative missions, each student assumes the role of a search/survey/rescue contractor and takes on the exciting challenges the job offers.<br /><br />
@@ -156,7 +166,6 @@
     </div>
 
     <div class="row bg-ddblue">
-
       <table class="sc-table">
         <tr>
           <td class="col-sm-6 pad10">

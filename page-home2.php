@@ -46,7 +46,7 @@
   <div class="container-fluid mission-container wow fadeIn">
     <div class="container">
       <div class="row pad60-left pad60-right">
-          <h2 class="text-center text-white mission-text wow fadeInUp" data-wow-delay=".45s"><span class="text-green">Gear Learning at UW Madison</span> designs and develops games to help make complex content <span class="text-green">accessible</span> and <span class="text-green">fun</span>.</h2>
+          <h2 class="text-center text-white mission-text wow fadeInUp" data-wow-delay=".45s"><span class="text-green">Gear Learning at UW–Madison</span> designs and develops games to help make complex content <span class="text-green">accessible</span> and <span class="text-green">fun</span>.</h2>
       </div>
     </div>
   </div><!-- END: Mission -->
@@ -214,7 +214,7 @@
           <div class="thickdiv mar15-bot mar10-top"></div>
           <div class="row">
             <p class="text-lblue">
-              We build award winning games across ages, content and devices. From toddler math apps to interactive tables at the New York Hall of Science, Gear's games feature inspiring design, innovative pedagogy, and sound business strategy.
+              We build award winning games across ages, content and devices. From toddler math apps to interactive tables at the New York Hall of Science, G's games feature inspiring design, innovative pedagogy, and sound business strategy.
               <br /><br />
               We make products, teams, and companies better. Our team spans industry and academics to apply: 1) the principles of interactive entertainment to new areas, and 2) sound pedagogy to innovative products.
               <br /><br />

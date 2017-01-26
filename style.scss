@@ -293,12 +293,12 @@ iframe{ width: 100%; }
   .nav-logo{
     float: left;
     position: absolute;
-    padding: 15px;
-    border-radius: 50%;
+    padding: 15px 18px;
     background: $ddblue;
+    border-radius: 5px;
 
     img{
-      height: 65px;
+      height: 75px;
     }
   }
 }

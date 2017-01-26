@@ -4,7 +4,7 @@
     <div class="row">
       <!-- Nav Logo -->
       <div class="nav-logo">
-        <a href="http://gearlearning.org"><img src="<?php echo get_template_directory_uri(); ?>/img/gear-logo.svg" class="wow rotateIn"/></a>
+        <a href="http://gearlearning.org"><img src="<?php echo get_template_directory_uri(); ?>/img/gear-logo-text.svg" class="wow fadeIn"/></a>
       </div><!-- END: Nav Logo -->
     <!--
       BEGIN: Full Screen Navigation

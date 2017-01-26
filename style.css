@@ -1287,11 +1287,11 @@ iframe {
   .nav-full-container .nav-logo {
     float: left;
     position: absolute;
-    padding: 15px;
-    border-radius: 50%;
-    background: #05070d; }
+    padding: 15px 18px;
+    background: #05070d;
+    border-radius: 5px; }
     .nav-full-container .nav-logo img {
-      height: 65px; }
+      height: 75px; }
 
 .mobile-dropdown {
   display: none;

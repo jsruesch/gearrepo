@@ -49,9 +49,9 @@ new WOW().init();
 </head>
 
 <body <?php body_class(); ?>>
-
+<!-- 
   <div class="under-construction">
     <h5 class="text-white text-center">
       Please pardon our dust. Parts of this site are still under contstruction
     </h5>
-  </div>
+  </div> -->

@@ -51,7 +51,7 @@
           <div class="row pad60">
             <div class="row">
               <p class="text-lblue">
-                I obtained my Bachelor's in Art from the University of Wisconsin - Madison.  After working for three years as a project manager for a software company, I returned to school and graduated from the Applied Arts in Animation & Concept Development program at Madison College. I began my 3D artist career as an intern for Learning Games Network in early 2014, which progressed to a full time staff artist later that year.  Now an Associate 3D artist for GEAR, I continue to work on educational games, with a focus on medically accurate human and animal simulations designed for students to learn anatomy.
+                I obtained my Bachelor's in Art from the University of Wisconsin - Madison.  After working for three years as a project manager for a software company, I returned to school and graduated from the Applied Arts in Animation & Concept Development program at Madison College. I began my 3D artist career as an intern for Learning Games Network in early 2014, which progressed to a full time staff artist later that year.  Now an Associate 3D artist for Gear, I continue to work on educational games, with a focus on medically accurate human and animal simulations designed for students to learn anatomy.
               </p>
             </div>
           </div>

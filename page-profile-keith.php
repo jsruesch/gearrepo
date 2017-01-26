@@ -48,7 +48,7 @@
           <div class="row pad60">
             <div class="row">
               <p class="text-lblue">
-                I cut my teeth in Full Sail University's Game Development program and continued on to work at Creative Kingdoms after graduation. While there I had the opportunity to complete development on Cosmic Quest; an interactive educational exhibit spanning four of their facilities. After the project I had hoped to continue developing interactive educational media, eventually finding GEAR. I'm just as excited to work with GEAR as I was to start my first day at Full Sail.
+                I cut my teeth in Full Sail University's Game Development program and continued on to work at Creative Kingdoms after graduation. While there I had the opportunity to complete development on Cosmic Quest; an interactive educational exhibit spanning four of their facilities. After the project I had hoped to continue developing interactive educational media, eventually finding GEAR. I'm just as excited to work with Gear as I was to start my first day at Full Sail.
               </p>
             </div>
           </div>

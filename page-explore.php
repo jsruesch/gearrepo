@@ -24,7 +24,7 @@
           <h1 class="text-white">Born of a <br /> unified vision</h1>
           <div class="thickdiv mar10-bot mar10-top"></div>
           <p class="text-dblue">
-            Building on the design and development experiences over the last seven years with Games + Learning + Society and Learning Games Network, the development team that brought you Virulent, Crystals of Kaydor, Econauts, and At Play in the Cosmos is starting GEAR, a new game development studio at the Wisconsin Center for Education Research at the University of Wisconsin.
+            Building on the design and development experiences over the last seven years with Games + Learning + Society and Learning Games Network, the development team that brought you Virulent, Crystals of Kaydor, Econauts, and At Play in the Cosmos is starting Gear, a new game development studio at the Wisconsin Center for Education Research at the University of Wisconsin.
           </p>
         </div>
       </div>
@@ -38,7 +38,7 @@
           <h1 class="text-green">Where Learning <br /> Lives</h1>
           <div class="thickdiv mar10-bot mar10-top"></div>
           <p class="text-lblue">
-            In a ground-breaking partnership with the University of Wisconsin, GEAR is located in the very heart of campus at the Wisconsin Center for Education Research (WCER). Being part of a leading educational institution like the University of Wisconsin gives GEAR a distinct advantage in the space of designing and developing games for learning.
+            In a ground-breaking partnership with the University of Wisconsin, Gear is located in the very heart of campus at the Wisconsin Center for Education Research (WCER). Being part of a leading educational institution like the University of Wisconsin gives Gear a distinct advantage in the space of designing and developing games for learning.
           </p>
         </div>
         <div class="col-sm-6 col-sm-offset-6 bg-fill">
@@ -281,7 +281,7 @@
               <div class="thickdiv mar10-bot mar10-top"></div>
               <div class="row">
                 <p class="text-dblue">
-                  GEAR’s highly specialized group of designers and developers have worked together for over seven years and have the experience to help shape the way people learn. Our team has created games and digital media for use in both formal and informal learning environments with content ranging from empathic accuracy and neuroscience to creating museum exhibits designed to teach the basics of electrical circuits. If you are interested in games for learning, we'd love to talk with you.
+                  Gear’s highly specialized group of designers and developers have worked together for over seven years and have the experience to help shape the way people learn. Our team has created games and digital media for use in both formal and informal learning environments with content ranging from empathic accuracy and neuroscience to creating museum exhibits designed to teach the basics of electrical circuits. If you are interested in games for learning, we'd love to talk with you.
                 </p>
               </div>
               <div class="row mar20-top">

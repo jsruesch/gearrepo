@@ -214,7 +214,7 @@
           <div class="thickdiv mar15-bot mar10-top"></div>
           <div class="row">
             <p class="text-lblue">
-              We build award winning games across ages, content and devices. From toddler math apps to interactive tables at the New York Hall of Science, GEAR's games feature inspiring design, innovative pedagogy, and sound business strategy.
+              We build award winning games across ages, content and devices. From toddler math apps to interactive tables at the New York Hall of Science, Gear's games feature inspiring design, innovative pedagogy, and sound business strategy.
               <br /><br />
               We make products, teams, and companies better. Our team spans industry and academics to apply: 1) the principles of interactive entertainment to new areas, and 2) sound pedagogy to innovative products.
               <br /><br />

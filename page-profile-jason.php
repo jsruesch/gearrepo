@@ -52,7 +52,7 @@
           <div class="row pad60">
             <div class="row">
               <p class="text-lblue">
-                I grew up with a pencil on one hand and a game controller in the other.  After 12 years as a land surveyor, I decided it was time to return to what I was passionate about, art and games.  In 2011, I joined the development team at Games+Learning+Society, and in 2012, received a degree in Game Art and Animation. As the team evolved, I grew with the group as it turned into GEAR, and now sit with the team as a Sr. 3D Artist.
+                I grew up with a pencil on one hand and a game controller in the other.  After 12 years as a land surveyor, I decided it was time to return to what I was passionate about, art and games.  In 2011, I joined the development team at Games+Learning+Society, and in 2012, received a degree in Game Art and Animation. As the team evolved, I grew with the group as it turned into Gear, and now sit with the team as a Sr. 3D Artist.
               </p>
             </div>
           </div>

@@ -52,7 +52,7 @@
           <div class="row pad60">
             <div class="row">
               <p class="text-lblue">
-                After a 10 year career freelancing as a business application programmer, I formalized my self-taught education and earned my B.S in Game Development in 2011. I started in the educational games space with Games+Learning+Society and stuck with that development team as we evolved into Learning Games Network, and now GEAR, as their Lead Software Engineer. I have shipped several games for mobile and desktop platforms and have been heavily involved in multiple open source projects.
+                After a 10 year career freelancing as a business application programmer, I formalized my self-taught education and earned my B.S in Game Development in 2011. I started in the educational games space with Games+Learning+Society and stuck with that development team as we evolved into Learning Games Network, and now Gear, as their Lead Software Engineer. I have shipped several games for mobile and desktop platforms and have been heavily involved in multiple open source projects.
               </p>
             </div>
           </div>

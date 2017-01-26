@@ -7,7 +7,7 @@
 	<?php if (is_search()) { ?>
 	   <meta name="robots" content="noindex, nofollow" />
 	<?php } ?>
-	<title>GEAR Learning</title>
+	<title>Gear Learning</title>
 	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/style.min.css" type="text/css" />
 	<link rel="pingback" href="<?php bloginfo('pingback_url'); ?>" />
 	<?php if ( is_singular() ) wp_enqueue_script( 'comment-reply' ); ?>
@@ -49,7 +49,7 @@ new WOW().init();
 </head>
 
 <body <?php body_class(); ?>>
-<!-- 
+<!--
   <div class="under-construction">
     <h5 class="text-white text-center">
       Please pardon our dust. Parts of this site are still under contstruction

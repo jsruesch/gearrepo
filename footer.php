@@ -13,7 +13,7 @@
 				<div class="col-sm-3 pad10">
 					<div class="row">
 						<p class="text-lblue small">
-							GEAR is housed within the <a href="http://www.wcer.wisc.edu/" taget="_blank">Wisconsin Center for Education Research</a> at the <a href="http://www.education.wisc.edu/" target="_blank">School of Education</a>, <a href="http://www.wisc.edu/" target="_blank">University of Wisconsin-Madison</a>.
+							Gear Learning is part of the <a href="http://www.wcer.wisc.edu/" taget="_blank">Wisconsin Center for Education Research</a> in the <a href="http://www.wisc.edu/" target="_blank">University of Wisconsin-Madison's</a> <a href="http://www.education.wisc.edu/" target="_blank">School of Education</a>.
 						</p>
 					</div>
 				</div>

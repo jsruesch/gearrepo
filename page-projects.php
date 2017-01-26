@@ -96,7 +96,7 @@
             </div>
             </a>
         </div><!-- END: Crystals of Kaydor -->
-        <!-- DeVry Medical -->
+        <!-- DeVry Medical
         <div class="col-sm-6 pad10">
           <a href="">
             <div class="row selproj-btn">
@@ -111,8 +111,8 @@
               </div>
             </div>
             </a>
-        </div><!-- END: DeVry Medical -->
-        <!-- DeVry Veterinary -->
+        </div>  END: DeVry Medical -->
+        <!-- DeVry Veterinary
         <div class="col-sm-6 pad10">
           <a href="">
             <div class="row selproj-btn">
@@ -127,8 +127,8 @@
               </div>
             </div>
             </a>
-        </div><!-- END: DeVry Veterinary -->
-        <!-- Vetruvian Table -->
+        </div> END: DeVry Veterinary -->
+        <!-- Vetruvian Table
         <div class="col-sm-6 pad10">
           <a href="">
             <div class="row selproj-btn">
@@ -143,7 +143,7 @@
               </div>
             </div>
             </a>
-        </div><!-- END: DeVry Medical -->
+        </div> END: DeVry Medical -->
         <!-- Tenacity -->
         <div class="col-sm-6 pad10">
           <a href="">

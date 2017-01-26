@@ -117,7 +117,7 @@
                 <div class="col-sm-8">
                   <h3 class="text-c-green">Missions</h3>
                   <p class="text-lblue">
-                    The Missions Button, for acces to the missions list, or to switch to Sandbox Mode
+                    The Missions Button, for access to the missions list, or to switch to Sandbox Mode.
                   </p>
                 </div>
               </div>
@@ -145,7 +145,7 @@
                 <div class="col-sm-8">
                   <h3 class="text-c-yellow">Engineering</h3>
                   <p class="text-lblue">
-                    The Engineering Button, where students can access the Crafting System used to repair the ship
+                    The Engineering Button, where students can access the Crafting System used to repair the ship.
                   </p>
                 </div>
               </div>
@@ -161,7 +161,7 @@
       <p class="text-ddblue">
         <strong>The theme of exploration drives student gameplay through a variety of narrative and collection missions.</strong> In the guided, narrative missions, each student assumes the role of a search/survey/rescue contractor and takes on the exciting challenges the job offers.<br /><br />
         <strong>The game's Cosmic Operations Research Interface guides students through achieving goals</strong> like finding a habitable exoplanet or redirecting a rogue comet. Along the way, students also need to use the ship's mining tools to collect needed fuel or ore to craft parts for the ship.<br /><br />
-        <strong>In addition, players can freely explore over 50 real objects in the cosmos</strong>. They can use the ship's scientific analysis tools, each based on a central concept in the introductory course, to study real astrophysical objects. This "sandbox" mode introduces the possibility of instructors creating their ownmissions and scavanger hunts.
+        <strong>In addition, players can freely explore over 50 real objects in the cosmos</strong>. They can use the ship's scientific analysis tools, each based on a central concept in the introductory course, to study real astrophysical objects. This "sandbox" mode introduces the possibility of instructors creating their own missions and scavanger hunts.
       </p>
     </div>
 
@@ -175,7 +175,7 @@
             <h3 class="text-green">Engaging, Interactive, Intuitive</h3>
             <div class="thickdiv mar10-bot mar10-top"></div>
             <p class="text-lblue">
-              Student testers report being immediately engaged by the game's visual style and the voice of CORI. Whether gamers or not, students adapt quickly to the interface and focus on the missions rather tahn the medium. The game interface, ship design, and sound were all created with input from student focus group participants.
+              Student testers report being immediately engaged by the game's visual style and the voice of CORI. Whether gamers or not, students adapt quickly to the interface and focus on the missions rather than the medium. The game interface, ship design, and sound were all created with input from student focus group participants.
             </p>
           </td>
         </tr>

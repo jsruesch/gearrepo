@@ -6,7 +6,7 @@
   BEGIN: Main Content
 -->
   <div class="container-fluid">
-    <div class="container pad30-left pad30-right">
+    <div class="container">
 
 
     <?php if (have_posts()) : while (have_posts()) : the_post(); ?>

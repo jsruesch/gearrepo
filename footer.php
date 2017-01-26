@@ -36,7 +36,13 @@
 						</nav>
 					</div>
 				</div>
+				<div class="col-sm-12">
+					<p class="text-center text-lblue"><small><small>
+						COPYRIGHT ©2017 THE BOARD OF REGENTS OF THE UNIVERSITY OF WISCONSIN SYSTEM
+					</small></small></p>
+				</div>
 			</div>
+
 		</div><!-- /.container -->
 	</div><!-- /.footer-container -->
 <!-- END: Footer -->

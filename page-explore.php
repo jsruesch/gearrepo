@@ -188,12 +188,37 @@
                 Over the years we've had the privilege of working with some great folks. Here are just a few!
               </p>
             </div>
-            <!-- <div class="row mar30-top">
+            <!--
+            <div class="row mar30-top">
               <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 
                 <div class="carousel-inner" role="listbox">
 
                   <div class="item active">
+                    <img class="center-block" src="<?php echo get_template_directory_uri(); ?>/img/testimonials/testimonial-kurt-01.png" alt="Dr. Charles Hutchison, DeVry Education Group, Academic Technology Solutions & Services Unit">
+                    <div class="carousel-caption">
+                      <p class="text-white text-center">
+                        <b>"</b> Establishing Gear is a huge step forward for the University of Wisconsin-Madison School of Education. It gives faculty a top-notch team to collaborate with on research, graduate students an excellent source to learn with industry professionals, and valuable real world learning opportunities for undergraduates. Gear both increases the validity of research findings of how people learn with technology while also giving projects a much greater chance of making a difference in the world by going to market. I'm proud to have assembled the Gear team, delighted with their work, and gratified that the WCER is investing in them as people and as a group. <b>"</b>
+                      </p>
+                      <p class="text-lblue small text-center">
+                        <em>- Kurt Squire</em>
+                      </p>
+                    </div>
+                  </div>
+                  <div class="item">
+                    <img class="center-block" src="<?php echo get_template_directory_uri(); ?>/img/testimonials/testimonial-kurt-01.png" alt="Dr. Charles Hutchison, DeVry Education Group, Academic Technology Solutions & Services Unit">
+                    <div class="carousel-caption">
+                      <p class="text-white text-center">
+                        <b>"</b> DeVry Medical International’s Institute for Research and Clinical Strategy, in conjunction with Ross medical and veterinary schools, partnered with GEAR at the Wisconsin Center for Education Research at the University of Wisconsin to create curriculum driven apps and touch screen anatomical tables for medical and veterinary students to increase engagement, learning, and student success. GEAR has provided a fully integrated shop for coding, digital graphics, hardware configuration, conceptual innovation, and final testing of the highest level. They have delivered projects on time and on budget. Great group to work with on a collaborative project – always available and exceeded all expectations. <b>"</b>
+                      </p>
+                      <p class="text-lblue small text-center">
+                        <em>- David Pederson, PhD<sub>c</sub>, MEd Medical Educator Fellow -- IAMSE<br />
+                              Eric B. Bauman, PhD, Assistant Dean - Institute for Research and Clinical Strategy, Chair - Department of Educational Technology and Game-Based Learning, Associate Director - Center for Excellence in Simulation Education, Devry Medical International<br />
+                              Bruce Kaplan, Group VP Clinical Healthcare DMI, Dean Graduate Medical Education, Executive Director Institute for Research and Clinical Strategy</em>
+                      </p>
+                    </div>
+                  </div>
+                  <div class="item">
                     <img class="center-block" src="<?php echo get_template_directory_uri(); ?>/img/testimonials/testimonial-chuck-01.png" alt="Dr. Charles Hutchison, DeVry Education Group, Academic Technology Solutions & Services Unit">
                     <div class="carousel-caption">
                       <p class="text-white text-center">
@@ -204,32 +229,10 @@
                       </p>
                     </div>
                   </div>
-                  <div class="item">
-                    <img class="" src="<?php echo get_template_directory_uri(); ?>/img/gear-logo.svg" alt="...">
-                    <div class="carousel-caption">
-                      <p class="text-white text-center">
-                        <b>"</b>One time a guy did a thing! Whoa dang!<b>"</b>
-                      </p>
-                      <p class="text-lblue small text-center">
-                        <em>- First Last, NySci</em>
-                      </p>
-                    </div>
-                  </div>
-                  <div class="item">
-                    <img class="" src="<?php echo get_template_directory_uri(); ?>/img/gear-logo.svg" alt="...">
-                    <div class="carousel-caption">
-                      <p class="text-white text-center">
-                        <b>"</b>Pew Pew Zoom! Another zazzy comment! Thems peoples be the best in the worlding.<b>"</b>
-                      </p>
-                      <p class="text-lblue small text-center">
-                        <em>- Admiral Zazz</em>
-                      </p>
-                    </div>
-                  </div>
 
                 </div>
               </div>
-            </div> -->
+            </div>-->
             <div class="row mar20-top">
               <div class="col-xs-6 col-sm-3 col-md-3 col-lg-2 pad20">
                 <img class="center-block partner-logo" src="<?php echo get_template_directory_uri(); ?>/img/partner-logos/partner-logo-norton.png" />
@@ -267,6 +270,33 @@
             </div>
           </div>
           <!-- END: Header -->
+
+          <!--
+          <div class="row">
+            <table class="sc-table">
+              <tr>
+                <td class="col-md-3 col-sm-6">
+                  <img class="full" src="<?php echo get_template_directory_uri(); ?>/img/testimonials/testimonial-kurt-01.png" />
+                </td>
+                <td class="col-md-9 col-sm-6 pad60 bg-green">
+                  <p class="text-ddblue">
+                    <span class="text-bold text-white">"</span> Establishing Gear is a huge step forward for the University of Wisconsin-Madison School of Education. It gives faculty a top-notch team to collaborate with on research, graduate students an excellent source to learn with industry professionals, and valuable real world learning opportunities for undergraduates. Gear both increases the validity of research findings of how people learn with technology while also giving projects a much greater chance of making a difference in the world by going to market. I'm proud to have assembled the Gear team, delighted with their work, and gratified that the WCER is investing in them as people and as a group.<span class="text-bold text-white">"</span>
+                  </p>
+                  <p class="bold text-ddblue">
+                    <small>- Kurt Squire</small>
+                  </p>
+                </td>
+              </tr>
+              <tr>
+
+              </tr>
+              <tr>
+
+              </tr>
+            </table>
+          </div>-->
+
+
         <!-- END: TESTIMONIALS -->
         <!--
           BEGIN: CHANGE LEARNING
@@ -297,7 +327,7 @@
 <!-- Adjust Carousel Rotation Time -->
 <script>
   $('.carousel').carousel({
-    interval: 2750
+    interval: 4000
   })
 </script>
 

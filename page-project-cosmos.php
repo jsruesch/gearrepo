@@ -55,7 +55,7 @@
         <table class="sc-table">
           <tr>
             <td class="col-sm-6 pad10">
-              <img class="full" src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/comet-flight.png" />
+              <img class="full" src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/comet-starchart.png" />
             </td>
             <td class="col-sm-6 pad60 ">
               <h3 class="text-white">The Star Chart helps students understand the scale of the universe</h3>

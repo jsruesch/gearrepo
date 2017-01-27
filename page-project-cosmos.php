@@ -171,7 +171,7 @@
       </p>
     </div>
 
-    <div class="row bg-ddblue">
+    <div class="row bg-ddblue mar20-bot">
       <table class="sc-table">
         <tr>
           <td class="col-sm-6 pad10">
@@ -179,13 +179,29 @@
                 <img class="full" src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/comet-flight.png" />
                 Your browser does not support the video tag.
             </video>
-            <!-- <img class="full" src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/comet-flight.png" /> -->
           </td>
           <td class="col-sm-6 pad60 ">
             <h3 class="text-green">Engaging, Interactive, Intuitive</h3>
             <div class="thickdiv mar10-bot mar10-top"></div>
             <p class="text-lblue">
               Student testers report being immediately engaged by the game's visual style and the voice of CORI. Whether gamers or not, students adapt quickly to the interface and focus on the missions rather than the medium. The game interface, ship design, and sound were all created with input from student focus group participants.
+            </p>
+          </td>
+        </tr>
+      </table>
+    </div>
+
+    <div class="row bg-green mar20-bot">
+      <table class="sc-table">
+        <tr>
+          <td class="col-sm-6 pad10">
+            <img class="full" src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/comet-flight.png" />
+          </td>
+          <td class="col-sm-6 pad60 ">
+            <h3 class="text-white">Driven by real astronomical data</h3>
+            <div class="thickdiv mar10-bot mar10-top"></div>
+            <p class="text-ddblue">
+              Whenever possible, At Play in the Cosmos uses data measured for real astronomical objects. From the densities of asteroids in binary systems to the temperatures of the stars in Orion's Trapezium Cluster, the game inspires students to explore astronomy through its stunning depictions of actual objects.
             </p>
           </td>
         </tr>

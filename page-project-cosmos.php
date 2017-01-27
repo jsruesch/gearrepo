@@ -55,7 +55,11 @@
         <table class="sc-table">
           <tr>
             <td class="col-sm-6 pad10">
-              <img class="full" src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/comet-starchart.png" />
+              <video class="wow full" data-src-high="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/starchart.mp4" type"video/mp4" autoplay muted loop data-js-init="video" src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/starchart.mp4">
+                  <img class="full" src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/comet-starchart.png" />
+                  Your browser does not support the video tag.
+              </video>
+
             </td>
             <td class="col-sm-6 pad60 ">
               <h3 class="text-white">The Star Chart helps students understand the scale of the universe</h3>

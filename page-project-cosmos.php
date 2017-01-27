@@ -175,7 +175,11 @@
       <table class="sc-table">
         <tr>
           <td class="col-sm-6 pad10">
-            <img class="full" src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/comet-flight.png" />
+            <video class="wow full" data-src-high="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/small-angle.mp4" type"video/mp4" autoplay muted loop data-js-init="video" src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/small-angle.mp4">
+                <img class="full" src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/comet-flight.png" />
+                Your browser does not support the video tag.
+            </video>
+            <!-- <img class="full" src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/comet-flight.png" /> -->
           </td>
           <td class="col-sm-6 pad60 ">
             <h3 class="text-green">Engaging, Interactive, Intuitive</h3>

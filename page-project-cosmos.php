@@ -82,15 +82,21 @@
           <div class="row pad60 ">
             <table class="sc-table">
               <tr>
-                <td class="col-sm-2 pad20 bg-ddblue">
-                  <img class="center-block cosmos-svg" src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/icon-cori.svg" />
+                <td class="col-sm-2">
+                  <div class="row bg-ddblue mar10">
+                    <img class="center-block cosmos-svg mar20" src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/icon-cori.svg" />
+                  </div>
+
                 </td>
-                <td class="col-sm-10 pad20">
-                  <h2 class="text-ddblue">Introducing CORI</h2>
-                  <div class="thickdiv mar10-bot mar10-top"></div>
-                  <p class=" text-ddblue">
-                    CORI, the <strong><span class="text-white"><u>C</u>osmic <u>O</u>perations <u>R</u>esearch <u>I</u>nterface</strong>, is your students' control center within the game. At any time, students can tap this button to access:
-                  </p>
+                <td class="col-sm-10">
+                  <div class="row mar10">
+                    <h2 class="text-ddblue">Introducing CORI</h2>
+                    <div class="thickdiv mar10-bot mar10-top"></div>
+                    <p class=" text-ddblue">
+                      CORI, the <strong><span class="text-white"><u>C</u>osmic <u>O</u>perations <u>R</u>esearch <u>I</u>nterface</strong>, is your students' control center within the game. At any time, students can tap this button to access:
+                    </p>
+                  </div>
+
                 </td>
               </tr>
             </table>

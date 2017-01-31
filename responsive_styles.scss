@@ -85,6 +85,10 @@
     }
   }
 
+  .explore-mission-container{
+    .mission-text{ font-size: 18px; }
+  }
+
   .mc{
     padding-left:  30px !important;
     padding-right: 30px !important;
@@ -138,6 +142,9 @@
     margin-bottom: 30px;
   }
 
+  .explore-img-full{ display: none; }
+  .explore-img-full-hidden{ display: block !important; }
+
   .footer-container{ text-align: center; nav{ text-align: center !important; }}
 }
 
@@ -176,6 +183,18 @@
         width: 100% !important;
         float: left;
         height: 500px;
+    }
+
+    .mission-container{
+      margin-top: 0 !important;
+
+      .mission-text{
+        font-size: 18px;
+      }
+    }
+
+    .explore-mission-container{
+      .mission-text{ font-size: 18px; }
     }
 
     .halfpad-left{ padding-left: 0 !important; margin-top: 30px; }
@@ -255,5 +274,8 @@
         height: auto;
       }
     }
+
+    .explore-img-full{ display: none; }
+    .explore-img-full-hidden{ display: block !important; }
 
 }

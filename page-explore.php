@@ -21,31 +21,71 @@
             <img class="" src="<?php echo get_template_directory_uri(); ?>/img/unified-vision-cropped.png"/>
         </div>
         <div class="col-sm-6 col-sm-offset-6 bg-green pad60">
-          <h1 class="text-white">Born of a <br /> unified vision</h1>
+          <h1 class="text-white">Our Services</h1>
           <div class="thickdiv mar10-bot mar10-top"></div>
-          <p class="text-dblue">
-            Building on the design and development experiences over the last seven years with Games + Learning + Society and Learning Games Network, the development team that brought you Virulent, Crystals of Kaydor, Econauts, and At Play in the Cosmos is starting Gear, a new game development studio at the Wisconsin Center for Education Research at the University of Wisconsin.
+          <p class="text-ddblue">
+            Gear Learning at UW--Madison’s Wisconsin Center for Education Research provides a dynamic hands-on game development resource for campus researchers, outreach groups and external educational partners. We make products, teams and companies better.
           </p>
+          <p class="text-ddblue">
+            Gear Learning games are based on inspiring design, proven instructional methods, emerging research and sound business strategy. We have a long history of:
+          </p>
+          <ul class="disc text-ddblue">
+            <li>building technically engaging and visually stunning learning games,</li>
+            <li>forming strong and lasting consulting relationships with subject matter experts, and</li>
+            <li>cultivating partnerships across academia and industry to bring the best people together and make projects happen.</li>
+          </ul>
         </div>
       </div>
     <!-- END: UNIFIED VISION -->
     <!--
-      BEGIN: NEW LOCATION
+      BEGIN: UW Affiliation
       -->
-      <div class="row explore-image-large-container">
-        <img class="explore-img-hidden" src="<?php echo get_template_directory_uri(); ?>/img/where-learning-lives-cropped.png"/>
-        <div class="col-sm-6 bg-ddblue pad60">
-          <h1 class="text-green">Where Learning <br /> Lives</h1>
+      <div class="row mar20-bot">
+        <div class="row">
+          <img class="full" src="<?php echo get_template_directory_uri(); ?>/img/where-learning-lives.png"/>
+        </div>
+        <div class="row bg-ddblue pad60">
+          <h1 class="text-green">Our UW Affiliation</h1>
           <div class="thickdiv mar10-bot mar10-top"></div>
           <p class="text-lblue">
-            In a ground-breaking partnership with the University of Wisconsin, Gear is located in the very heart of campus at the Wisconsin Center for Education Research (WCER). Being part of a leading educational institution like the University of Wisconsin gives Gear a distinct advantage in the space of designing and developing games for learning.
+            We believe that better learning games can be made in a university environment.
+            <br /><br />
+            When you work with Gear you are working with the Wisconsin Center for Education Research.  As one of the oldest and most respected education research centers in the world, WCER is located in the heart of Wisconsin’s flagship and nationally top-ranked research university, and is part of its also highly-ranked public school of education.
+            <br /><br />
+            As part of a leading educational institution like UW--Madison, Gear gains a distinct advantage in designing and developing games for learning.
+            Our office location in the Educational Sciences Building places us in close proximity to the many world-renowned scientists, educators and collaborators who have contributed to the university’s rich foundation in game learning research and continue to work on its cutting-edge today.
+            <br /><br />
+            We share WCER as a home with about 140 research projects and nearly 500 faculty, staff and graduate students, including the world class evaluators we depend upon to determine if our games are meeting set goals.
+            <br /><br />
+            We benefit from unique collegial working relationships and direct access to the research and expertise of these top education scholars. We also connect with many networks, outreach programs, student organizations and other research institutes across campus to recruit focus group participants and game play testers.
+            <br /><br />
+            <i>“The Gear team is a natural fit within WCER. They put into practice the deep research on digital media learning conducted at UW-Madison for the benefit of colleagues on campus, and external partners locally and around the world. UW researchers provide exciting content and careful oversight to ensure factual accuracy in their games.  WCER’s world-class evaluators determine if the games are meeting set goals.” <span class="text-green">-- Bob Mathieu, WCER Director</span></i>
           </p>
         </div>
-        <div class="col-sm-6 col-sm-offset-6 bg-fill">
-          <img class="" src="<?php echo get_template_directory_uri(); ?>/img/where-learning-lives-cropped.png"/>
+      </div>
+    <!-- END: UW Affiliation -->
+    <!--
+      BEGIN: Backstory
+      -->
+      <div class="row">
+        <div class="row">
+          <img class="full" src="<?php echo get_template_directory_uri(); ?>/img/where-learning-lives.png"/>
+        </div>
+        <div class="row bg-ddblue pad60">
+          <h1 class="text-green">Our Backstory</h1>
+          <div class="thickdiv mar10-bot mar10-top"></div>
+          <p class="text-lblue">
+            The team that that became Gear Learning met in Madison, WI in 2XXX while studying game development and design in college. We immediately bonded through our passion for gaming and game development. Soon we worked to create our own academic program to keep pace with our growing skills and boundless enthusiasm for our field of study and future profession.
+            <br /><br />
+            We were hired together and honed our professional skills by working closely with industry pioneers Kurt Squire and Scot Osterweil. Our training ground was game development groups affiliated with MIT and UW--Madison, including Games + Learning + Society, one of the longest standing games-for-learning research programs in the world.
+            <br /><br />
+            We have deep roots and a passionate commitment for building research into our work and for using proven findings to improve our games as learning tools.
+            <br /><br />
+            <i>“Establishing GEAR is a huge step forward for the UW--Madison School of Education. It gives faculty a top-notch team to enable forefront games research, and students an excellent place for hands-on learning opportunities. GEAR both increases the validity of research findings of how people learn with technology while also giving projects a much greater chance of making a difference in the world by going to market. I'm proud to have assembled the GEAR team, delighted with their work, and gratified that the WCER is investing in them as people and as a group.” <span class="text-green">-- Kurt Squire, co-founder Games + Learning + Society</span></i>
+          </p>
         </div>
       </div>
-    <!-- END: NEW LOCATION -->
+    <!-- END: Backstory -->
     <!--
       BEGIN: MEET OUR TEAM
     -->
@@ -301,7 +341,7 @@
         <!--
           BEGIN: CHANGE LEARNING
           -->
-          <div class="row explore-image-large-container">
+          <div class="row explore-image-large-container mar20-bot">
             <img class="explore-img-hidden" src="<?php echo get_template_directory_uri(); ?>/img/together-banner-cropped.png"/>
             <div class="col-sm-6 bg-fill">
               <img class="" src="<?php echo get_template_directory_uri(); ?>/img/together-banner-cropped.png"/>
@@ -320,6 +360,49 @@
             </div>
           </div>
         <!-- END: CHANGE LEARNING -->
+        <!-- Next Steps -->
+        <div class="row pad60">
+          <div class="row mar10-bot">
+            <h2 class="text-white">Work <span class="text-green">With Us</span></h2>
+            <div class="thickdiv mar10-bot mar10-top"></div>
+          </div>
+          <div class="row pad60 bg-green">
+            <h3 class="text-white">First Steps</h3>
+            <div class="thickdiv mar10-bot mar10-top"></div>
+            <p class="text-ddblue">
+              We are eager to meet with potential campus and external partners and engage in lively, two-way conversations to ensure we:
+            </p>
+            <ul class="disc text-ddblue">
+              <li>understand your needs and dreams,</li>
+              <li>share our scope of relevant services and skills,</li>
+              <li>ollaborate on ideas with creativity and fun. and</li>
+              <li>bring learning in your field to digital life through engaging scenarios, instructional accuracy and the latest and best practices in game learning.</li>
+            </ul>
+          </div>
+          <div class="row pad60 bg-ddblue">
+            <h3 class="text-green">Next Steps</h3>
+            <div class="thickdiv mar10-bot mar10-top"></div>
+            <p class="text-lblue">
+              We will want to schedule an initial consultation with your project’s sponsor and key team members. Based on this consultant, we may follow-up with additional questions to clarify your vision.
+              <br /><br />
+              Once we are satisfied with information we have gathered we will develop a statement of work with timelines and fee estimates for each phase of the proposed project or services. We will meet with you to discuss and create a final statement of work.
+              <br /><br />
+              From there, we will prioritize what to do and how we’ll work together to deliver your product on time, within budget and to ensure your satisfaction and delight.
+            </p>
+
+          </div>
+
+
+        </div><!-- END: Next Steps -->
+
+        <!-- RFPs -->
+        <div class="row pad60 bg-ddblue">
+          <h3 class="text-green">RFPs</h3>
+          <div class="thickdiv mar10-bot mar10-top"></div>
+          <p class="text-lblue">
+            Send us your next Request for Proposal. Contact or send to <a href="mailto:mike@gearlearning.org" target="_blank">Mike Beall</a>. We will respond!
+          </p>
+        </div><!-- END: RFPs -->
       </div><!-- /.container -->
   </div><!-- /.container-fluid -->
 <!-- END: Main Content -->

@@ -38,35 +38,39 @@
           <iframe src="https://player.vimeo.com/video/179368796?byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
         </div>
       </div>
-      <!-- Tools -->
-      <div class="row mar20-bot">
-        <div class="col-sm-6">
-          <div class="row video-embed-container-md">
-            <video data-src-high="<?php echo get_template_directory_uri(); ?>/vid/test-render-02.mp4" type"video/mp4" autoplay muted loop data-js-init="video" src="<?php echo get_template_directory_uri(); ?>/vid/test-render-02.mp4"></video>
-          </div>
-        </div>
-        <div class="col-sm-6 pad30">
-          <h2 class="text-green">From the page to your fingertips</h2>
-          <div class="thickdiv mar10-bot mar10-top"></div>
-          <p class="text-lblue">
-            At Play in the Cosmos takes concepts from the textbook and transforms them in to interactive, intuitive tools and interactives that help students experience content in a way never done before.
+      <!-- APEX Intro -->
+      <div class="row pad60 bg-ddblue mar20-bot">
+        <div class="row">
+          <h2 class="text-green text-center mar20-bot">APEX Anatomy<br />Software and Hardware</h2>
+          <!-- <div class="thickdiv mar10-bot mar10-top"></div> -->
+          <p class="text-lblue large text-center">
+            <strong><span class="text-white">The Anatomy and Physiology Exploration software</span></strong>, or <strong><span class="text-white">APEX</span></strong> for short, is a platform developed to allow the exploration of anatomy of quite literally any species.  In current development are APEXHuman and APEXCanine, with APEXVolucrine (bird anatomy) and a version of APEXHuman for infant anatomy coming soon!
           </p>
         </div>
-      </div><!-- END: Tools -->
-      <!-- Narrative -->
-      <div class="row pad60 bg-ddblue">
-        <div class="col-sm-6">
-          <h2 class="text-green">Play up to 20 narrative-driven missions!</h2>
-          <div class="thickdiv mar10-bot mar10-top"></div>
-          <p class="text-lblue">
-            At Play in the Cosmos offers a complex, story-driven campaign along side a robust sandbox mission mode where players get to roam the universe and research new locations and environments.
-          </p>
-        </div>
-        <div class="col-sm-6">
+      </div><!-- END: APEX Intro -->
+      <!-- Unique Tool -->
+      <div class="row bg-green mar20-bot">
+        <table class="sc-table">
+          <tr>
+            <td class="col-sm-6 pad10">
+              <video class="wow full" data-src-high="<?php echo get_template_directory_uri(); ?>/img/projects/apex/apex-heart-rotate.mp4" type"video/mp4" autoplay muted loop data-js-init="video" src="<?php echo get_template_directory_uri(); ?>/img/projects/apex/apex-heart-rotate.mp4">
+                  <img class="full" src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/comet-starchart.png" />
+                  Your browser does not support the video tag.
+              </video>
 
-        </div>
+            </td>
+            <td class="col-sm-6 pad60 ">
+              <h3 class="text-white">A unique tool to for medical and veterinary students</h3>
+              <div class="thickdiv mar10-bot mar10-top"></div>
+              <p class="text-ddblue">
+                The APEX suite includes the APEXHuman and APEXCanine and allows anatomy students to view structures and relationships between different structures.  Students and professionals use the APEX software to learn and teach about muscles, bones, and other structures without the need for a cadaver in a full 3D environment!
+              </p>
+            </td>
+          </tr>
+        </table>
       </div>
-      <!-- END: Narrative -->
+      <!-- END: Unique Tool -->
+
     </div><!-- /.container -->
   </div><!-- /.container-fluid -->
 <!-- END: Main Content -->

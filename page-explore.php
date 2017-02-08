@@ -14,7 +14,7 @@
     <div class="container">
 
       <div class="row pad80 explore-mission-container">
-          <h2 class="text-center mission-text text-white">Our mission is to design and develop games to help make (learning) complex content accessible and fun.</h2>
+          <h2 class="text-center mission-text text-white">Our mission is to Design and develop games to help make learning complex content accessible and fun.</h2>
       </div>
 
     <!--
@@ -59,27 +59,15 @@
           </div>
           <div class="row pad10">
             <p class="text-lblue">
-              We build award-winning games across ages, content and devices for formal and informal learning environments. Our platforms and content range from toddler math apps and interactive tables at the New York Hall of Science to empathic accuracy and neuroscience and creating museum exhibits that teach the basics of electrical circuits.
+              We build award-winning games across ages, content and devices for formal and informal learning environments. Our platforms and content range from toddler math apps and interactive tables at the New York Hall of Science, to empathic accuracy, neuroscience and museum exhibits that teach the basics of electrical circuits.
+            </p>
+            <p class="text-lblue mar20-top">
+              Throughout our work in industry and academia, we apply the principles of interactive entertainment to new subject areas and build sound pedagogy into innovative products.
+            </p>
+            <p class="text-lblue mar20-top">
+              Our highly specialized group of designers and developers are helping to shape the way people learn. You can experience our games by visiting our product <a href="http://gearlearning.org/projects">portfolio</a>.
             </p>
           </div>
-          <div class="row">
-            <div class="col-sm-6 pad10">
-              <p class="text-lblue">
-                Throughout our work in industry and academia, we:
-              </p>
-              <ul class="disc text-lblue">
-                <li>apply the principles of interactive entertainment to new subject areas, and</li>
-                <li>build sound pedagogy into innovative products.</li>
-              </ul>
-            </div>
-            <div class="col-sm-6 pad10">
-              <p class="text-lblue">
-                Our highly specialized group of designers and developers are helping to shape the way people learn. You can experience our games in our product <a href="http://gearlearning.org/projects">portfolio</a>.
-              </p>
-            </div>
-          </div>
-
-
         </div>
       </div>
     <!-- END: UW Affiliation -->
@@ -99,16 +87,16 @@
           <p class="text-ddblue">
             We believe that better learning games can be made in a university environment.
             <br /><br />
-            When you work with Gear you are working with the Wisconsin Center for Education Research.  As one of the oldest and most respected education research centers in the world, WCER is located in the heart of Wisconsin’s flagship and nationally top-ranked research university, and is part of its also highly-ranked public school of education.
+            By working with Gear you are working with the Wisconsin Center for Education Research.  As one of the oldest and most respected education research centers in the world, WCER is located in the heart of Wisconsin’s flagship and nationally top-ranked research university. It is part of the university’s highly-ranked public School of Education.
             <br /><br />
             As part of a leading educational institution like UW--Madison, Gear gains a distinct advantage in designing and developing games for learning.
-            Our office location in the Educational Sciences Building places us in close proximity to the many world-renowned scientists, educators and collaborators who have contributed to the university’s rich foundation in game learning research and continue to work on its cutting-edge today.
+            Our office location in the Educational Sciences Building places us in close proximity to the many world-renowned scientists, educators and collaborators who have contributed to the university’s rich foundation in game learning research and continue work on the cutting edge today.
             <br /><br />
-            We share WCER as a home with about 140 research projects and nearly 500 faculty, staff and graduate students, including the world class evaluators we depend upon to determine if our games are meeting set goals.
+            We share WCER as a home with more than 100 research projects and nearly 500 faculty, staff and graduate students, including world-class evaluators we depend upon to determine if our games meet their set goals.
             <br /><br />
             We benefit from unique collegial working relationships and direct access to the research and expertise of these top education scholars. We also connect with many networks, outreach programs, student organizations and other research institutes across campus to recruit focus group participants and game play testers.
             <br /><br />
-            <i>“The Gear team is a natural fit within WCER. They put into practice the deep research on digital media learning conducted at UW-Madison for the benefit of colleagues on campus, and external partners locally and around the world. UW researchers provide exciting content and careful oversight to ensure factual accuracy in their games.  WCER’s world-class evaluators determine if the games are meeting set goals.” <span class="text-white">-- Bob Mathieu, WCER Director</span></i>
+            <i>“The Gear team is a natural fit within WCER. They put into practice the deep research on digital media learning conducted at UW―Madison for the benefit of colleagues on campus, and external partners locally and around the world. UW researchers provide exciting content and careful oversight to ensure factual accuracy in their games.  WCER’s world-class evaluators study use of the games to measure their impact on student learning.” <span class="text-white">― Bob Mathieu, WCER Director</span></i>
           </p>
         </div>
       </div>
@@ -124,11 +112,11 @@
           </div>
           <div class="row">
             <p class="text-lblue">
-              The team that that became Gear Learning met in Madison, WI in 2009 while studying game development and design in college. We immediately bonded through our passion for gaming and game development. Soon we worked to create our own academic program to keep pace with our growing skills and boundless enthusiasm for our field of study and future profession.
+              The team that that became Gear Learning met in Madison, Wis., in 2009 while studying game development and design in college. We immediately bonded through our passion for gaming and game development. Soon we began designing our own academic program to keep pace with our growing skills and boundless enthusiasm for our field of study and future profession and field.
               <br /><br />
-              We were hired together and honed our professional skills by working closely with industry pioneers Kurt Squire and Scot Osterweil. Our training ground was game development groups affiliated with MIT and UW--Madison, including Games + Learning + Society, one of the longest standing games-for-learning research programs in the world.
+              We were hired and honed our professional skills by working closely with industry pioneers Kurt Squire and Scot Osterweil. Our training ground was within game development groups affiliated with MIT and UW―Madison, including Games + Learning + Society, one of the longest standing games-for-learning research programs in the world.
               <br /><br />
-              We have deep roots and a passionate commitment for building research into our work and for using proven findings to improve our games as learning tools.
+              We have deep roots and a passionate commitment for building research into our work and for using proven findings to improve games as learning tools.
             </p>
           </div>
           <div class="row mar20-top mar20-bot">
@@ -144,7 +132,7 @@
           </div>
           <div class="row">
             <p class="text-lblue">
-              <i>“Establishing GEAR is a huge step forward for the UW--Madison School of Education. It gives faculty a top-notch team to enable forefront games research, and students an excellent place for hands-on learning opportunities. GEAR both increases the validity of research findings of how people learn with technology while also giving projects a much greater chance of making a difference in the world by going to market. I'm proud to have assembled the GEAR team, delighted with their work, and gratified that the WCER is investing in them as people and as a group.” <span class="text-green">-- Kurt Squire, co-founder Games + Learning + Society</span></i>
+              <i>“Establishing GEAR is a huge step forward for the UW―Madison School of Education. It gives faculty a top-notch team to enable forefront games research, and provides students an excellent place for hands-on learning opportunities. Gear both increases the validity of research findings on how people learn with technology, while giving projects a much greater chance of going to market and making a difference in the world. I'm proud to have assembled the GEAR team, delighted with their work, and gratified that the WCER is investing in them as people and as a group.” <span class="text-green">― Kurt Squire, co-founder Games + Learning + Society</span></i>
             </p>
         </div>
       </div>
@@ -410,14 +398,14 @@
             </div>
             <div class="row pad60 bg-green">
               <div class="row">
-                <h2 class="text-white">Work with us</h2>
+                <h2 class="text-white">Working with us</h2>
                 <div class="thickdiv mar10-bot mar10-top"></div>
               </div>
               <div class="row">
                 <div class="col-sm-6 pad15">
                   <h3 class="text-white">First Steps</h3>
                   <p class="text-ddblue">
-                    We are eager to meet with potential campus and external partners and engage in lively, two-way conversations to ensure we:
+                    We are eager to meet with potential campus and external partners. We will work with your team to facilitate lively, two-way conversations that ensure we:
                   </p>
                   <ul class="disc text-ddblue">
                     <li>understand your needs and dreams,</li>
@@ -429,11 +417,11 @@
                 <div class="col-sm-6 pad15">
                   <h3 class="text-white">Next Steps</h3>
                   <p class="text-ddblue">
-                    We will want to schedule an initial consultation with your project’s sponsor and key team members. Based on this consultant, we may follow-up with additional questions to clarify your vision.
+                    After an initial consultation with your project’s sponsor and key team members, we may follow-up with additional questions to clarify your vision.
                     <br /><br />
-                    Once we are satisfied with information we have gathered we will develop a statement of work with timelines and fee estimates for each phase of the proposed project or services. We will meet with you to discuss and create a final statement of work.
+                    Once we are satisfied that we understand your needs, we will  develop a statement of work with timelines and fee estimates for each phase of the proposed project or services. We will meet with you to discuss and collaborate on a final statement of work.
                     <br /><br />
-                    From there, we will prioritize what to do and how we’ll work together to deliver your product on time, within budget and to ensure your satisfaction and delight.
+                    From there, we will prioritize what to do and how we’ll work together to deliver your product on time and within budget, and to ensure your satisfaction and delight.
                   </p>
                 </div>
               </div>
@@ -446,7 +434,7 @@
           <h3 class="text-green">RFPs</h3>
           <div class="thickdiv mar10-bot mar10-top"></div>
           <p class="text-lblue">
-            Send us your next Request for Proposal. Contact or send to <a href="mailto:mike@gearlearning.org" target="_blank">Mike Beall</a>. We will respond!
+            Send us your next Request for Proposal. Contact or send to <a href="mailto:mike@gearlearning.org" target="_blank">Mike Beall</a>. We will respond as soon as we can.
           </p>
         </div><!-- END: RFPs -->
       </div><!-- /.container -->

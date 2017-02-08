@@ -57,7 +57,6 @@
                   <img class="full" src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/comet-starchart.png" />
                   Your browser does not support the video tag.
               </video>
-
             </td>
             <td class="col-sm-6 pad60 ">
               <h3 class="text-white">A unique tool to for medical and veterinary students</h3>
@@ -70,7 +69,17 @@
         </table>
       </div>
       <!-- END: Unique Tool -->
-
+      <div class="row mar20-bot">
+        <div class="row">
+          <img class="full" src="<?php echo get_template_directory_uri(); ?>/img/projects/apex/apex-in-the-classroom.png" />
+        </div>
+        <div class="row pad60 bg-ddblue">
+          <h3 class="text-green">Use in Classrooms</h3>
+          <p class="text-lblue">
+            The apex software is currently being used in classrooms internationally to teach anatomy to hundreds of anatomy students.  APEX Software can be directly incorporated into classroom activities through its innovative data sharing solutions!
+          </p>
+        </div>
+      </div>
     </div><!-- /.container -->
   </div><!-- /.container-fluid -->
 <!-- END: Main Content -->

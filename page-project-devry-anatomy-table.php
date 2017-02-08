@@ -31,9 +31,9 @@
 <!--
   BEGIN: Main Content
 -->
-  <div class="container-fluid mar20-bot pad30-left pad30-right">
+  <div class="container-fluid mar20-bot">
     <div class="container">
-      <div class="row mar20-bot">
+      <div class="row">
         <div class="row iframe-embed-container">
           <iframe src="https://player.vimeo.com/video/179368796?byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
         </div>
@@ -69,15 +69,32 @@
         </table>
       </div>
       <!-- END: Unique Tool -->
+      <!-- In Classrooms -->
       <div class="row mar20-bot">
         <div class="row">
           <img class="full" src="<?php echo get_template_directory_uri(); ?>/img/projects/apex/apex-in-the-classroom.png" />
         </div>
         <div class="row pad60 bg-ddblue">
           <h3 class="text-green">Use in Classrooms</h3>
+          <div class="thickdiv mar10-bot mar10-top"></div>
           <p class="text-lblue">
             The apex software is currently being used in classrooms internationally to teach anatomy to hundreds of anatomy students.  APEX Software can be directly incorporated into classroom activities through its innovative data sharing solutions!
           </p>
+        </div>
+      </div><!-- END: In Classrooms -->
+      <div class="row">
+        <div class="row pad60 bg-green">
+          <h3 class="text-white">A Collaborative Effort</h3>
+          <div class="thickdiv mar10-bot mar10-top"></div>
+          <p class="text-ddblue">
+            We’ve worked closely with anatomy experts at Ross School for Medicine and Ross School for Veterinary Medicine, as well as anatomists with DeVry Medical International and the University of Wisconsin - Madison to assure complete anatomical accuracy.  Each structure is meticulously studied, rendered in 3D, and textured for a photorealistic dissection experience.
+          </p>
+        </div>
+        <div class="col-sm-6"F>
+          <img class="full" src="<?php echo get_template_directory_uri(); ?>/img/projects/apex/apex-in-the-classroom.png" />
+        </div>
+        <div class="col-sm-6"F>
+          <img class="full" src="<?php echo get_template_directory_uri(); ?>/img/projects/apex/apex-in-the-classroom.png" />
         </div>
       </div>
     </div><!-- /.container -->

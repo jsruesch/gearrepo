@@ -10,17 +10,17 @@
 <!--
   BEGIN: Banner
 -->
-<div class="project-banner-cosmos">
+<div class="project-banner-apex mar20-bot">
   <div class="container-fluid">
     <div class="container">
       <div class="row pad30-left pad30-right">
-
-        <div class="col-sm-6">
-          <div class="game-logo-container pad20-left pad20-right">
-            <img src="<?php echo get_template_directory_uri(); ?>/img/game-logos/cosmos.svg" />
-          </div>
-        </div>
-
+        <table class="project-img-table">
+          <tr>
+            <td>
+              <img class="center-block max-full" src="<?php echo get_template_directory_uri(); ?>/img/game-logos/apex-logo.png" />
+            </td>
+          </tr>
+        </table>
       </div>
     </div>
   </div>
@@ -91,10 +91,10 @@
           </p>
         </div>
         <div class="col-sm-6"F>
-          <img class="full" src="<?php echo get_template_directory_uri(); ?>/img/projects/apex/apex-in-the-classroom.png" />
+          <img class="full" src="<?php echo get_template_directory_uri(); ?>/img/projects/apex/apex-img-01.png" />
         </div>
         <div class="col-sm-6"F>
-          <img class="full" src="<?php echo get_template_directory_uri(); ?>/img/projects/apex/apex-in-the-classroom.png" />
+          <img class="full" src="<?php echo get_template_directory_uri(); ?>/img/projects/apex/apex-img-02.png" />
         </div>
       </div>
     </div><!-- /.container -->

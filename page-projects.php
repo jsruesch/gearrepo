@@ -128,9 +128,9 @@
             </div>
             </a>
         </div> END: DeVry Veterinary -->
-        <!-- Vetruvian Table
+        <!-- Apex -->
         <div class="col-sm-6 pad10">
-          <a href="">
+          <a href="apex-anatomy">
             <div class="row selproj-btn">
                 <div class="row project-page-image pad30-bot">
                   <img src="<?php echo get_template_directory_uri(); ?>/img/projects/apex/project-page-image-apex-01.png"/>
@@ -143,7 +143,7 @@
               </div>
             </div>
             </a>
-        </div> END: DeVry Medical -->
+        </div> <!-- END: Apex -->
         <!-- Tenacity -->
         <div class="col-sm-6 pad10">
           <a href="">

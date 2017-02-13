@@ -31,13 +31,13 @@
 <!--
   BEGIN: Main Content
 -->
-  <div class="container-fluid mar20-bot">
+  <div class="container-fluid">
     <div class="container">
-      <div class="row">
+      <!-- <div class="row">
         <div class="row iframe-embed-container">
           <iframe src="https://player.vimeo.com/video/179368796?byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
         </div>
-      </div>
+      </div> -->
       <!-- APEX Intro -->
       <div class="row pad60 bg-ddblue mar20-bot">
         <div class="row">
@@ -97,6 +97,27 @@
           <img class="full" src="<?php echo get_template_directory_uri(); ?>/img/projects/apex/apex-img-02.png" />
         </div>
       </div>
+      <!-- Kiosk -->
+      <div class="row bg-ddblue mar20-bot">
+        <table class="sc-table">
+          <tr>
+            <td class="col-sm-6 pad60 ">
+              <h3 class="text-green">The Kiosk</h3>
+              <div class="thickdiv mar10-bot mar10-top"></div>
+              <p class="text-lblue">
+                The APEX Table is a standalone computer kiosk designed to be moved from classroom to classroom and work with existing A/V setups commonly found in schools.  Connect the APEX Table to a projector and classroom sound system to share one user’s view with the whole class!  The table is also designed specifically to be ADA compliant, allowing anyone to easily use all of it’s features.
+              </p>
+            </td>
+            <td class="col-sm-6 pad10">
+              <video class="wow full" data-src-high="<?php echo get_template_directory_uri(); ?>/img/projects/apex/apex-kiosk.mp4" type"video/mp4" autoplay muted loop data-js-init="video" src="<?php echo get_template_directory_uri(); ?>/img/projects/apex/apex-kiosk.mp4">
+                  <img class="full" src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/comet-starchart.png" />
+                  Your browser does not support the video tag.
+              </video>
+            </td>
+          </tr>
+        </table>
+      </div>
+      <!-- END: Kiosk -->
     </div><!-- /.container -->
   </div><!-- /.container-fluid -->
 <!-- END: Main Content -->

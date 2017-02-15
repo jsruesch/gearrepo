@@ -22,13 +22,13 @@
 
 			<div class="row" <?php post_class() ?> id="post-<?php the_ID(); ?>">
 
-        <div class="row pad30 bg-ddblue">
+        <div class="row pad60 bg-ddblue">
           <h2 class="text-green"><?php the_title(); ?></h2>
           <div class="thickdiv mar10-bot mar10-top"></div>
           <div class="text-lblue">By <?php the_author_posts_link(); ?> on <?php the_time('F j, Y') ?></div>
 
         </div>
-        <div class="row pad20 bg-white">
+        <div class="row pad60 bg-white">
           <p  class="text-lblue bcopy">
             <?php the_content(); ?>
           </p>

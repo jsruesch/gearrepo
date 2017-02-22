@@ -25,7 +25,7 @@
             <div class="profile-name">
               <h3 class="text-green">Greg<br />Vaughan</h3>
               <div class="thickdiv mar10-bot mar10-top"></div>
-              <h6 class="text-white small bold text-uppercase">Lead Software Engineer</h6>
+              <h6 class="text-white small bold text-uppercase">Chief Technologist</h6>
             </div>
           </div><!-- END: Profile -->
           <div class="row bg-green pad30">
@@ -52,7 +52,7 @@
           <div class="row pad60">
             <div class="row">
               <p class="text-lblue">
-                After a 10 year career freelancing as a business application programmer, I formalized my self-taught education and earned my B.S in Game Development in 2011. I started in the educational games space with Games+Learning+Society and stuck with that development team as we evolved into Learning Games Network, and now Gear, as their Lead Software Engineer. I have shipped several games for mobile and desktop platforms and have been heavily involved in multiple open source projects.
+                After a 10 year career freelancing as a business application programmer, I formalized my self-taught education and earned my B.S in Game Development in 2011. I started in the educational games space with Games+Learning+Society and stuck with that development team as we evolved into Learning Games Network, and now Gear, as their Chief Technologist. I have shipped several games for mobile and desktop platforms and have been heavily involved in multiple open source projects.
               </p>
             </div>
           </div>

@@ -168,7 +168,7 @@
                 <div class="row ptext">
                   <div class="thickdiv mar10-bot"></div>
                   <h4 class="text-green">Greg<br />Vaughan</h4>
-                  <p class="text-white small bold text-uppercase">Software Engineer</p>
+                  <p class="text-white small bold text-uppercase">Chief Technologist</p>
                 </div>
                 <div class="portrait-btn greg"></div>
               </div>

@@ -830,11 +830,14 @@ h1, h2, h3, h4, h5, p {
 
   /* BS Override */
   .post-img-left,
-  .post-img-right {
-    width: 100%;
-    float: left;
-    padding-top: 20px;
-    padding-bottom: 20px; }
+  .post-img-right,
+  .post-img-half,
+  .post-img-quarter,
+  .post-img-third {
+    width: 100% !important;
+    float: left !important;
+    padding-top: 20px !important;
+    padding-bottom: 20px !important; }
 
   h1 {
     font-size: 30px !important; }
@@ -987,10 +990,13 @@ h1, h2, h3, h4, h5, p {
 
   .post-img-left,
   .post-img-right,
+  .post-img-third,
+  .post-img-half,
+  .post-img-quarter,
   .post-img-full {
-    width: 100%;
+    width: 100% !important;
     height: auto !important;
-    float: left;
+    float: left !important;
     padding: 20px 0 !important; }
 
   .hp-banner-container {
@@ -1976,19 +1982,42 @@ textarea {
  * Post Styles
  * =========================================
  */
+.post-body hr {
+  width: 100% !important;
+  float: left !important;
+  border-top: 1px solid #ccc !important;
+  margin-top: 30px !important;
+  margin-bottom: 30px !important; }
+.post-body h3 {
+  color: #87b840; }
+
 .post-img-left {
   float: left;
-  padding: 20px; }
+  padding: 20px 20px 20px 0; }
 
 .post-img-right {
   float: right;
-  padding: 20px; }
+  padding: 20px 0 20px 20px; }
 
 .post-img-full {
   width: 100%;
   float: left;
   padding-top: 20px;
   padding-bottom: 20px; }
+
+.post-img-half {
+  height: auto;
+  width: 50%; }
+
+.post-img-quarter {
+  height: auto;
+  width: 25%; }
+
+.post-img-third {
+  height: auto;
+  width: 33.33%;
+  padding: 20px;
+  float: left !important; }
 
 /* END: Post Styles */
 /**

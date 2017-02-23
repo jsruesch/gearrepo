@@ -1055,14 +1055,29 @@ textarea{
   * =========================================
   */
 
+
+.post-body{
+  hr{
+    width: 100% !important;
+    float: left !important;
+    border-top: 1px solid #ccc !important;
+    margin-top: 30px !important;
+    margin-bottom: 30px !important;
+  }
+
+  h3{
+    color: $green;
+  }
+}
+
   .post-img-left{
     float: left;
-    padding: 20px;
+    padding: 20px 20px 20px 0;
   }
 
   .post-img-right{
     float: right;
-    padding: 20px;
+    padding: 20px 0 20px 20px;
   }
 
   .post-img-full{
@@ -1070,6 +1085,23 @@ textarea{
     float: left;
     padding-top: 20px;
     padding-bottom: 20px;
+  }
+
+  .post-img-half{
+    height: auto;
+    width: 50%;
+  }
+
+  .post-img-quarter{
+    height: auto;
+    width: 25%;
+  }
+
+  .post-img-third{
+    height: auto;
+    width: 33.33%;
+    padding: 20px;
+    float: left !important;
   }
 
 

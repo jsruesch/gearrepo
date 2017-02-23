@@ -28,10 +28,10 @@
           <div class="text-lblue">By <?php the_author_posts_link(); ?> on <?php the_time('F j, Y') ?></div>
 
         </div>
-        <div class="row pad60 bg-white">
-          <p  class="text-lblue bcopy">
+        <div class="row pad60 bg-white text-dblue">
+          <div class="row post-body">
             <?php the_content(); ?>
-          </p>
+          </div>
         </div>
 
 				<!-- Edit This Entry -->

@@ -51,11 +51,14 @@
   .container{ width: 100% !important; } /* BS Override */
 
   .post-img-left,
-  .post-img-right{
-    width: 100%;
-    float: left;
-    padding-top: 20px;
-    padding-bottom: 20px;
+  .post-img-right,
+  .post-img-half,
+  .post-img-quarter,
+  .post-img-third{
+    width: 100% !important;
+    float: left !important;
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
   }
 
   h1{ font-size: 30px !important; }
@@ -210,10 +213,13 @@
 
     .post-img-left,
     .post-img-right,
+    .post-img-third,
+    .post-img-half,
+    .post-img-quarter,
     .post-img-full{
-      width: 100%;
+      width: 100% !important;
       height: auto !important;
-      float: left;
+      float: left !important;
       padding: 20px 0 !important;
     }
 

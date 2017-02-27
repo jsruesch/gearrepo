@@ -32,11 +32,9 @@
             <h4 class="text-dblue"><i class="fa fa-star text-white" aria-hidden="true"></i> Skills</h4>
             <div class="thickdiv mar10-bot mar10-top"></div>
             <ul class="text-dblue disc">
-              <li>Project Management</li>
-              <li>Game Design</li>
-              <li>Unity3D</li>
-              <li>Maya</li>
-              <li>Adobe Creative Suite</li>
+              <li>SPSS</li>
+              <li>MAXQDA</li>
+              <li>Discourse Analysis</li>
             </ul>
           </div>
           <div class="row bg-ddblue">
@@ -51,7 +49,7 @@
           <div class="row pad60">
             <div class="row">
               <p class="text-lblue">
-                I am a lifelong game enthusiast with a professional history as a Game Designer, Project Leader, and Artist working with the Learning Games Network and Games Learning Society at the University of Wisconsin-Madison. I designed my first educational game in efforts to find a fun and engaging way to help my then 8 year old daughter study her vocabulary lists. In 2010 I was recruited to GLS by Professor Kurt Squire to create artwork for Virulent. I went on to lead design and development for several GLS/LGN projects including Progenitor X, Tenacity, Crystals of Kaydor, Oztoc, and At Play in the Cosmos. In addition to direct involvement with design and development of many GLS/LGN games, I also worked with local schools and community centers where I engaged with University of Wisconsin-Madison faculty and students to conduct playtests, interviews, and focus group tests.
+                I am a doctoral student in the department of Curriculum & Instruction at the University of Wisconsin, Madison. My research focuses on scientific argumentation in games-based learning environments. In addition, how students serve as mentors through gameplay. Past experience includes supporting Games+Learning+Society, Learning Games Network, and Wisconsin Department of Public Instruction (Network Ed Fellow). I am originally from Minnesota and grew up playing video games alongside my older brother. From Oregon Trail to Halo II, games are a deep and meaningful way for me to connect with others.
               </p>
             </div>
           </div>
@@ -60,35 +58,27 @@
               <h4 class="text-green"><i class="fa fa-trophy text-white" aria-hidden="true"></i> Projects</h4>
               <div class="thickdiv mar10-bot mar10-top"></div>
               <ul class="text-lblue disc">
-                <li>Virulent</li>
-                <li>Progenitor X</li>
-                <li>Tenacity</li>
-                <li>Crystals of Kaydor</li>
-                <li>Oztoc</li>
-                <li>Zoodles</li>
-                <li>Econauts</li>
-                <li>Xenos</li>
                 <li>At Play in the Cosmos</li>
+                <li>Lifespan Development</li>
+                <li>Virulent (research)</li>
+                <li>Network Ed</li>
               </ul>
             </div>
             <div class="col-sm-4 pad15">
               <h4 class="text-green"><i class="fa fa-gamepad text-white" aria-hidden="true"></i> Playing Now</h4>
               <div class="thickdiv mar10-bot mar10-top"></div>
               <ul class="text-lblue disc">
-                <li>Diablo 3</li>
-                <li>Team Fortress 2</li>
-                <li>Titan Quest</li>
+                <li>Lego Dimensions</li>
+                <li>Fallout 3</li>
               </ul>
             </div>
             <div class="col-sm-4 pad15">
               <h4 class="text-green"><i class="fa fa-heart text-white" aria-hidden="true"></i> Favorites</h4>
               <div class="thickdiv mar10-bot mar10-top"></div>
               <ul class="text-lblue disc">
-                <li>Dig Dug</li>
-                <li>Telengard</li>
-                <li>Diablo 2</li>
-                <li>Team Fortress 2</li>
-                <li>Minecraft</li>
+                <li>Halo</li>
+                <li>Mortal Kombat</li>
+                <li>Super Mario Bros. 3</li>
               </ul>
             </div>
           </div>

@@ -78,7 +78,7 @@ ul{ list-style:none; margin-bottom: 0 !important;  }
   font-size: 17px;
   line-height: 1.6em;
   list-style: disc;
-  padding-left: 35px;
+  padding-left: 20px;
 }
 
 hr{ width: 100% !important;
@@ -594,6 +594,14 @@ iframe{ width: 100%; }
     min-height: 100%;
     width: 100%;
     background: url(img/portraits/portrait-leo.png);
+    opacity: .25;
+    background-position: center center;
+    background-size: cover;
+  }
+  .jen{
+    min-height: 100%;
+    width: 100%;
+    background: url(img/portraits/portrait-jen.png);
     opacity: .25;
     background-position: center center;
     background-size: cover;

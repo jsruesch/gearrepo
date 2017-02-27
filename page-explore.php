@@ -264,7 +264,20 @@
                 <div class="portrait-btn josephine"></div>
               </div>
               </a>
-            </div><!-- END: Greg -->
+            </div><!-- END: Josephine -->
+          <!-- Jen -->
+            <div class="col-sm-6 col-md-3 col-lg-15 pad5">
+              <a href="profile-jen">
+              <div class="row portrait-container">
+                <div class="row ptext">
+                  <div class="thickdiv mar10-bot"></div>
+                  <h4 class="text-green">Jen<br />Dalsen</h4>
+                  <p class="text-white small bold text-uppercase">Evaluation Lead</p>
+                </div>
+                <div class="portrait-btn jen"></div>
+              </div>
+              </a>
+            </div><!-- END: Jen -->
         </div><!-- END: Portraits -->
       </div>
       <!-- END: MEET OUR TEAM -->

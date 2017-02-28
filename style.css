@@ -1997,6 +1997,8 @@ textarea {
   margin-top: 30px !important;
   margin-bottom: 30px !important; }
 .post-body h3 {
+  width: 100%;
+  float: left;
   color: #87b840; }
 .post-body p {
   width: 100%;
@@ -2012,6 +2014,7 @@ textarea {
 
 .post-img-full {
   width: 100%;
+  height: auto !important;
   float: left;
   padding-top: 20px;
   padding-bottom: 20px; }

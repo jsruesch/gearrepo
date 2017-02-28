@@ -1074,6 +1074,7 @@ textarea{
   }
 
   h3{
+    @include full;
     color: $green;
   }
 
@@ -1094,6 +1095,7 @@ textarea{
 
   .post-img-full{
     width: 100%;
+    height: auto !important;
     float: left;
     padding-top: 20px;
     padding-bottom: 20px;

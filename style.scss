@@ -1076,6 +1076,10 @@ textarea{
   h3{
     color: $green;
   }
+
+  p{
+    @include full;
+  }
 }
 
   .post-img-left{

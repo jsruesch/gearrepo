@@ -71,7 +71,7 @@
                       <div class="row pad30 bg-ddblue">
                         <h4><a href="<?php the_permalink() ?>"  class="text-green"><?php the_title(); ?></a></h4>
                         <div class="thickdiv mar10-bot mar10-top"></div>
-                        <p><span  class="text-lblue"><?php the_content( $more_link_text , $strip_teaser ); ?>
+                        <p><span  class="text-lblue"><?php the_excerpt( $more_link_text , $strip_teaser ); ?>
                         </span></p>
                       </div>
                     </div>

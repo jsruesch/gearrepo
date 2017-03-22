@@ -1135,6 +1135,127 @@ textarea{
 
 /**
  * =========================================
+ * Calendar Styles
+ * =========================================
+ */
+.ecwd_calendar{
+
+}
+
+.ecwd_theme_calendar_grey .calendar-head{
+  background: $ddblue !important;
+}
+
+.ecwd_theme_calendar_grey .calendar-head .previous{
+  border-right: none !important;
+  a{
+    color: $white !important;
+    font-family: Montserrat,sans-serif!important;
+    font-weight: 800!important;
+    letter-spacing: .5px;
+    text-transform: uppercase;
+  }
+}
+.ecwd_theme_calendar_grey .calendar-head .next{
+  border-left: none !important;
+  a{
+    color: $white !important;
+    font-family: Montserrat,sans-serif!important;
+    font-weight: 800!important;
+    letter-spacing: .5px;
+    text-transform: uppercase;
+  }
+}
+.ecwd_theme_calendar_grey .calendar-head .current-month{
+  border-left: none !important; border-right: none !important;
+  color: $green !important;
+  font-family: Montserrat,sans-serif!important;
+  font-weight: 800!important;
+  letter-spacing: .5px;
+  text-transform: uppercase;
+  a{
+    display:none !important;
+  }
+}
+
+.ecwd_theme_calendar_grey .ecwd_calendar .ecwd_calendar_prev_next{ border: none !important; }
+.ecwd_calendar_view_tabs{ display: none !important; }
+
+.ecwd_theme_calendar_grey table.cal_blue.ecwd_calendar_container .normal-day-heading, .ecwd_theme_calendar_grey table.cal_blue.ecwd_calendar_container .weekend-heading{
+  background: $green !important;
+
+}
+
+.ecwd-event-arrow{ display: none !important; }
+
+.event-details{
+  background: $ddblue !important;
+  padding:30px !important;
+  border-bottom: none !important;
+
+  .event-details-title{
+    text-align: left !important;
+    a{
+      color: $green !important;
+      font-family: Montserrat,sans-serif!important;
+      font-weight: 800!important;
+      letter-spacing: .5px;
+      text-transform: uppercase;
+    }
+  }
+
+  .ecwd-detalis {
+    @include full;
+
+    border-top: 1px solid rgba(51,122,183,.35);
+    margin-top: 15px !important;
+
+    p{
+      padding-top: 10px !important;
+      color: $lblue;
+      font-family: 'Open Sans', sans-serif !important;
+      font-size: 17px;
+      line-height: 1.6em;
+      font-style: normal !important;
+    }
+  }
+
+  .ecwd-time,
+  .event-details-title,
+  .ecwd-date,
+  .metainfo,
+  .event-organizers,
+  .event-organizer a,
+  .event-metalabel{
+    width: 100% !important;
+    float: left !important;
+    padding: 0px !important;
+    margin: 0px !important;
+    background: none !important;
+
+    color: $white !important;
+    font-family: 'Open Sans', sans-serif !important;
+    font-size: 15px !important;
+    line-height: 1.6em;
+    font-style: normal !important;
+  }
+
+  .ecwd-location,
+  .ecwd-date,
+  .event-venue .ecwd-venue a{
+    color: $white !important;
+    font-family: 'Open Sans', sans-serif !important;
+    font-size: 17px;
+    line-height: 1.6em;
+    padding: 10px 0;
+    font-style: normal !important;
+  }
+}
+
+ /* END: Calendar Styles */
+
+/**
+ * =========================================
  * Footer
  * =========================================
  */

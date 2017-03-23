@@ -214,6 +214,31 @@
       </table>
     </div>
 
+    <div class="row bg-ddblue ">
+      <div class="row pad60 ">
+        <table class="sc-table">
+          <tr>
+            <td class="col-sm-2">
+              <div class="row bg-ddblue">
+                <img class="center-block cosmos-svg mar20" src="<?php echo get_template_directory_uri(); ?>/img/partner-logos/ww-norton-logo.svg" />
+              </div>
+
+            </td>
+            <td class="col-sm-10">
+              <div class="row mar10">
+                <h2 class="text-green">Developed in partnership with W. W. Norton & Co.</h2>
+                <div class="thickdiv mar10-bot mar10-top"></div>
+                <p class=" text-lblue">
+                  At Play in the Cosmos was developed in partnership with W. W. Norton & Co. For more information please contact W. W. Norton Marketing Manager, Katie Sweeney at <a href="mailto:ksweeney@wwnorton.com" target="_blank">ksweeney@wwnorton.com</a>. All images are copyright W. W. Norton & Co.
+                </p>
+              </div>
+
+            </td>
+          </tr>
+        </table>
+      </div>
+    </div>
+
       <!-- Tools -->
       <!-- <div class="row mar20-bot">
         <div class="col-sm-6">

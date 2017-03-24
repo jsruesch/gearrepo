@@ -59,7 +59,7 @@
               </video>
             </td>
             <td class="col-sm-6 pad60 ">
-              <h3 class="text-white">A unique tool to for medical and veterinary students</h3>
+              <h3 class="text-white">A unique tool for medical and veterinary students</h3>
               <div class="thickdiv mar10-bot mar10-top"></div>
               <p class="text-ddblue">
                 The APEX suite includes the APEXHuman and APEXCanine and allows anatomy students to view structures and relationships between different structures.  Students and professionals use the APEX software to learn and teach about muscles, bones, and other structures without the need for a cadaver in a full 3D environment!

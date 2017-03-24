@@ -45,7 +45,7 @@
           <!-- <div class="thickdiv mar10-bot mar10-top"></div> -->
           <p class="text-lblue large text-center">
             <strong><span class="text-white">The Anatomy and Physiology Exploration software</span></strong>, or <strong><span class="text-white">APEX</span></strong> for short, is a platform developed to allow the exploration of anatomy of quite literally any species.  In current development are APEXHuman and APEXCanine, with APEXVolucrine (bird anatomy) and a version of APEXHuman for infant anatomy coming soon!
-          </p>
+          </p>    
         </div>
       </div><!-- END: APEX Intro -->
       <!-- Unique Tool -->

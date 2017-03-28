@@ -487,8 +487,56 @@ iframe{ width: 100%; }
  */
 
  .com-svg{
+   position: relative;
+   z-index: 999;
    max-height: 75px;
+   opacity: 1 !important;
  }
+
+.bg-programming-spotlight{ background: url(img/community/community-programming-spotlight.png); }
+.bg-game-night{ background: url(img/community/community-game-night.png); }
+.bg-game-jams{ background: url(img/community/community-game-jam.png); }
+.bg-artist-spotlight{ background: url(img/community/community-artist-spotlight.png); }
+
+.com-section{
+  position: relative;
+
+  .com-bg-container{
+    position: relative;
+
+    .com-section-bg{
+      @include transition;
+      position: absolute;
+      height: 100%;
+      width: 100%;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background-position: center;
+      background-size: cover;
+      opacity: .5;
+      -webkit-filter: blur(4px);
+      filter: blur(4px);
+    }
+  }
+
+  &:hover{
+    .com-bg-container{
+      .com-section-bg{
+        @include transition;
+        -webkit-filter: blur(0px);
+        filter: blur(0px);
+      }
+    }
+  }
+}
+
+
+.com-section-title{
+  position: relative;
+  z-index: 999 !important;
+}
 
  /* END: Community */
 

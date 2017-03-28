@@ -37,6 +37,33 @@
  $white:   #ffffff;
  $grey:    #333333;
 
+   /*Community*/
+   $comred: #bc4d3b;
+   $comred-trans: rgba(188,77,59,.5);
+   $comblue: #3a7eca;
+   $comblue-trans: rgba(58,126,202,.5);
+   $comyellow: #d6b11b;
+   $comyellow-trans: rgba(214,177,27,.5);
+   $compink: #c84d8d;
+   $compink-trans: rgba(200,77,141,.5);
+
+   .text-comred{ color: $comred !important; }
+   .bg-comred{   background: $comred !important; }
+   .text-comred-trans{ color: $comred-trans !important; }
+   .bg-comred-trans{   background: $comred-trans !important; }
+   .text-comblue{ color: $comblue !important; }
+   .bg-comblue{   background: $comblue !important; }
+   .text-comblue-trans{ color: $comblue-trans !important; }
+   .bg-comblue-trans{   background: $comblue-trans !important; }
+   .text-comyellow{ color: $comyellow !important; }
+   .bg-comyellow{   background: $comyellow !important; }
+   .text-comyellow-trans{ color: $comyellow-trans !important; }
+   .bg-comyellow-trans{   background: $comyellow-trans !important; }
+   .text-compink{ color: $compink !important; }
+   .bg-compink{   background: $compink !important; }
+   .text-compink-trans{ color: $compink-trans !important; }
+   .bg-compink-trans{   background: $compink-trans !important; }
+
  /* END Variables */
 
 

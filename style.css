@@ -23,6 +23,55 @@ Version: 1
  * Variables
  * =========================================
  */
+/*Community*/
+.text-comred {
+  color: #bc4d3b !important; }
+
+.bg-comred {
+  background: #bc4d3b !important; }
+
+.text-comred-trans {
+  color: rgba(188, 77, 59, 0.5) !important; }
+
+.bg-comred-trans {
+  background: rgba(188, 77, 59, 0.5) !important; }
+
+.text-comblue {
+  color: #3a7eca !important; }
+
+.bg-comblue {
+  background: #3a7eca !important; }
+
+.text-comblue-trans {
+  color: rgba(58, 126, 202, 0.5) !important; }
+
+.bg-comblue-trans {
+  background: rgba(58, 126, 202, 0.5) !important; }
+
+.text-comyellow {
+  color: #d6b11b !important; }
+
+.bg-comyellow {
+  background: #d6b11b !important; }
+
+.text-comyellow-trans {
+  color: rgba(214, 177, 27, 0.5) !important; }
+
+.bg-comyellow-trans {
+  background: rgba(214, 177, 27, 0.5) !important; }
+
+.text-compink {
+  color: #c84d8d !important; }
+
+.bg-compink {
+  background: #c84d8d !important; }
+
+.text-compink-trans {
+  color: rgba(200, 77, 141, 0.5) !important; }
+
+.bg-compink-trans {
+  background: rgba(200, 77, 141, 0.5) !important; }
+
 /* END Variables */
 /**
  * =========================================
@@ -407,6 +456,55 @@ h1, h2, h3, h4, h5, p {
  * Variables
  * =========================================
  */
+/*Community*/
+.text-comred {
+  color: #bc4d3b !important; }
+
+.bg-comred {
+  background: #bc4d3b !important; }
+
+.text-comred-trans {
+  color: rgba(188, 77, 59, 0.5) !important; }
+
+.bg-comred-trans {
+  background: rgba(188, 77, 59, 0.5) !important; }
+
+.text-comblue {
+  color: #3a7eca !important; }
+
+.bg-comblue {
+  background: #3a7eca !important; }
+
+.text-comblue-trans {
+  color: rgba(58, 126, 202, 0.5) !important; }
+
+.bg-comblue-trans {
+  background: rgba(58, 126, 202, 0.5) !important; }
+
+.text-comyellow {
+  color: #d6b11b !important; }
+
+.bg-comyellow {
+  background: #d6b11b !important; }
+
+.text-comyellow-trans {
+  color: rgba(214, 177, 27, 0.5) !important; }
+
+.bg-comyellow-trans {
+  background: rgba(214, 177, 27, 0.5) !important; }
+
+.text-compink {
+  color: #c84d8d !important; }
+
+.bg-compink {
+  background: #c84d8d !important; }
+
+.text-compink-trans {
+  color: rgba(200, 77, 141, 0.5) !important; }
+
+.bg-compink-trans {
+  background: rgba(200, 77, 141, 0.5) !important; }
+
 /* END Variables */
 /**
  * =========================================
@@ -1484,7 +1582,55 @@ iframe {
  * =========================================
  */
 .com-svg {
-  max-height: 75px; }
+  position: relative;
+  z-index: 999;
+  max-height: 75px;
+  opacity: 1 !important; }
+
+.bg-programming-spotlight {
+  background: url(img/community/community-programming-spotlight.png); }
+
+.bg-game-night {
+  background: url(img/community/community-game-night.png); }
+
+.bg-game-jams {
+  background: url(img/community/community-game-jam.png); }
+
+.bg-artist-spotlight {
+  background: url(img/community/community-artist-spotlight.png); }
+
+.com-section {
+  position: relative; }
+  .com-section .com-bg-container {
+    position: relative; }
+    .com-section .com-bg-container .com-section-bg {
+      -webkit-transition: all 0.2s ease;
+      -moz-transition: all 0.2s ease;
+      -ms-transition: all 0.2s ease;
+      -o-transition: all 0.2s ease;
+      position: absolute;
+      height: 100%;
+      width: 100%;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background-position: center;
+      background-size: cover;
+      opacity: .5;
+      -webkit-filter: blur(4px);
+      filter: blur(4px); }
+  .com-section:hover .com-bg-container .com-section-bg {
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    -ms-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease;
+    -webkit-filter: blur(0px);
+    filter: blur(0px); }
+
+.com-section-title {
+  position: relative;
+  z-index: 999 !important; }
 
 /* END: Community */
 /**

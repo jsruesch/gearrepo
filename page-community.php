@@ -58,44 +58,89 @@
     <h2 class="text-white">Outreach <span class="text-green">Activities</span></h2>
     <div class="row">
       <div class="col-sm-6 pad15">
-        <div class="row bg-green pad20">
-          <div class="row mar20-bot">
+        <div class="row bg-comyellow-trans com-section">
+          <div class="row pad30 com-bg-container">
+            <div class="bg-game-jams com-section-bg"></div>
             <img class="center-block com-svg" src="<?php echo get_template_directory_uri(); ?>/img/misc/icon-game-jam.svg" />
           </div>
-          <div class="row">
+          <div class="row pad20 bg-comyellow">
             <h4 class="text-white text-center">Game Jams</h4>
+          </div>
+          <div class="row pad20 bg-comyellow-trans">
+            <p class="text-white mar20-bot">
+              In Gear Learning's Game Jams participants will
+            </p>
+            <ol class="disc text-white">
+              <li>Be introduced to game mechanics and narrative</li>
+              <li>Think critically about the communication of ideas and design</li>
+              <li>Collaborate with others within an interdisciplinary community </li>
+              <li>Learn about the process of designing a game from the ground up</li>
+            </ol>
           </div>
         </div>
       </div>
       <div class="col-sm-6 pad15">
-        <div class="row bg-green pad20">
-          <div class="row mar20-bot">
+        <div class="row bg-comblue-trans com-section">
+          <div class="row pad30 com-bg-container">
+            <div class="bg-artist-spotlight com-section-bg"></div>
             <img class="center-block com-svg" src="<?php echo get_template_directory_uri(); ?>/img/misc/icon-artist-spotlight.svg" />
           </div>
-          <div class="row">
+          <div class="row pad20 bg-comblue">
             <h4 class="text-white text-center">Artist Spotlight</h4>
+          </div>
+          <div class="row pad20 bg-comblue-trans">
+            <p class="text-white mar20-bot">
+              In Gear Learning's Artist Spotlights participants will
+            </p>
+            <ol class="disc text-white">
+              <li>Hear about an artist’s journey into the game design world</li>
+              <li>Learn about the challenges and rewards of the job</li>
+              <li>Be introduced to a new artistic skill, software, or activity *</li>
+            </ol>
           </div>
         </div>
       </div>
     </div>
     <div class="row">
       <div class="col-sm-6 pad15">
-        <div class="row bg-green pad20">
-          <div class="row mar20-bot">
+        <div class="row bg-compink-trans com-section">
+          <div class="row pad30 com-bg-container">
+            <div class="bg-game-night com-section-bg"></div>
             <img class="center-block com-svg" src="<?php echo get_template_directory_uri(); ?>/img/misc/icon-game-night.svg" />
           </div>
-          <div class="row">
+          <div class="row pad20 bg-compink">
             <h4 class="text-white text-center">Game Night</h4>
+          </div>
+          <div class="row pad20 bg-compink-trans">
+            <p class="text-white mar20-bot">
+              In Gear Learning's Game Nights participants will
+            </p>
+            <ol class="disc text-white">
+              <li>Engage in gameplay while learning critical scientific concepts</li>
+              <li>Explore, create, build, and master new conceptual frameworks</li>
+              <li>Explore problem solving techniques alongside classmates and friends</li>
+            </ol>
           </div>
         </div>
       </div>
       <div class="col-sm-6 pad15">
-        <div class="row bg-green pad20">
-          <div class="row mar20-bot">
+        <div class="row bg-comred-trans com-section">
+          <div class="row pad30 com-bg-container">
+            <div class="bg-programming-spotlight com-section-bg"></div>
             <img class="center-block com-svg" src="<?php echo get_template_directory_uri(); ?>/img/misc/icon-programmer-spotlight.svg" />
           </div>
-          <div class="row">
+          <div class="row pad20 bg-comred com-section-title">
             <h4 class="text-white text-center">Programming Spotlight</h4>
+          </div>
+          <div class="row pad20 bg-comred-trans">
+            <p class="text-white mar20-bot">
+              In Gear Learning's Programming Spotlights participants will
+            </p>
+            <ol class="disc text-white">
+              <li>Hear about a programmer’s responsibilities in game design</li>
+              <li>Learn about the challenges and rewards of the job</li>
+              <li>Be introduced to a new programming skill or concept *</li>
+            </ol>
           </div>
         </div>
       </div>

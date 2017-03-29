@@ -55,7 +55,8 @@
     </div><!-- END: Community Intro -->
   <!-- Outreach -->
   <div class="row pad60 bg-ddblue">
-    <h2 class="text-white">Outreach <span class="text-green">Activities</span></h2>
+    <h2 class="text-white pad10-left">Outreach <span class="text-green">Activities</span></h2>
+    <div class="thickdiv mar10-bot mar10-top mar10-left"></div>
     <div class="row">
       <div class="col-sm-6 pad15">
         <div class="row bg-comyellow-trans com-section">
@@ -146,16 +147,22 @@
       </div>
     </div>
     <div class="row pad15">
-      <div class="row pad15 bg-green">
-        <div class="row">
-
-        </div>
-        <div class="row">
+      <div class="row">
+        <div class="row pad20 bg-green">
           <h4 class="text-white text-center">Q&A with Professionals</h4>
+        </div>
+        <div class="row pad20 bg-ogreen">
+          <p class="text-white">
+            Other activities include game events with Q&A from professionals in the field (e.g. playing a game about biology and speaking with a biologist).
+          </p>
         </div>
       </div>
     </div>
-
+    <div class="row">
+      <p class="text-mblue text-center">
+        <strong><span class="text-lblue">*</span></strong> organizations may request specific activities or topics
+      </p>
+    </div>
   </div><!-- END:  -->
 
 

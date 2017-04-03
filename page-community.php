@@ -22,16 +22,18 @@
           Gear Learning is highly dedicated to building long-term relationships with local and statewide communities. For us, our goal is not simply to develop educational games for impact. Rather, to provide rich learning environments that encourage peer mentoring opportunities, critical thinking skills, and interest-driven experiences. Our team is ready to develop programming opportunities that fit your needs, learning objectives, and goals.
         </p>
       </div>
-      <div class="col-sm-4 pad15">
-        <div class="row bg-green pad30">
-          <div class="row mar20-bot">
-            <img class="center-block com-svg" src="<?php echo get_template_directory_uri(); ?>/img/misc/icon-partners.svg" />
-          </div>
-          <div class="row">
-            <h4 class="text-white text-center">Community<br /> Partners</h4>
+      <a href="/gear/community-partners">
+        <div class="col-sm-4 pad15">
+          <div class="row bg-green pad30">
+            <div class="row mar20-bot">
+              <img class="center-block com-svg" src="<?php echo get_template_directory_uri(); ?>/img/misc/icon-partners.svg" />
+            </div>
+            <div class="row">
+              <h4 class="text-white text-center">Community<br /> Partners</h4>
+            </div>
           </div>
         </div>
-      </div>
+      </a>
       <div class="col-sm-4 pad15">
         <div class="row bg-green pad30">
           <div class="row mar20-bot">

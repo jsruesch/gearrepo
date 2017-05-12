@@ -345,7 +345,7 @@
                 <img class="center-block partner-logo" src="<?php echo get_template_directory_uri(); ?>/img/partner-logos/partner-logo-lead.png" />
               </div>
               <div class="col-xs-6 col-sm-3 col-md-3 col-lg-2 pad20">
-                <img class="center-block partner-logo" src="<?php echo get_template_directory_uri(); ?>/img/partner-logos/partner-logo-devry.png" />
+                <img class="center-block partner-logo" src="<?php echo get_template_directory_uri(); ?>/img/partner-logos/partner-logo-ircs.png" />
               </div>
               <div class="col-xs-6 col-sm-3 col-md-3 col-lg-2 pad20">
                 <img class="center-block partner-logo" src="<?php echo get_template_directory_uri(); ?>/img/partner-logos/partner-logo-nysci.png" />

@@ -45,6 +45,22 @@
         </tr>
       </table>
     </div>
+    <div class="row bg-ddblue">
+      <table class="sc-table">
+        <tr>
+          <td class="col-sm-6 pad60">
+            <img class="full" src="<?php echo get_template_directory_uri(); ?>/img/community/community-partner-logo-people.svg" />
+          </td>
+          <td class="col-sm-6 pad60 ">
+            <h3 class="text-green">PEOPLE program</h3>
+            <div class="thickdiv mar10-bot mar10-top"></div>
+            <p class="text-lblue">
+              PEOPLE program (Pre-college Enrichment Opportunity Program for Learning Excellence) provides pre-college students of color and those from low-income households advanced opportunities for academic preparation and success.
+            </p>
+          </td>
+        </tr>
+      </table>
+    </div>
 
     </div><!-- /.container -->
   </div><!-- /.container-fluid -->

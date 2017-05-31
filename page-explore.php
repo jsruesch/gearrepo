@@ -278,6 +278,19 @@
               </div>
               </a>
             </div><!-- END: Jen -->
+          <!-- Greg Shives -->
+            <div class="col-sm-6 col-md-3 col-lg-15 pad5">
+              <a href="profile-greg-shives">
+              <div class="row portrait-container">
+                <div class="row ptext">
+                  <div class="thickdiv mar10-bot"></div>
+                  <h4 class="text-green">Greg<br />Shives</h4>
+                  <p class="text-white small bold text-uppercase">Project Manager</p>
+                </div>
+                <div class="portrait-btn gregs"></div>
+              </div>
+              </a>
+            </div><!-- END: Greg Shives -->
         </div><!-- END: Portraits -->
       </div>
       <!-- END: MEET OUR TEAM -->

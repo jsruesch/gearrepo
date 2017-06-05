@@ -19,7 +19,7 @@
         <div class="col-sm-3">
           <!-- Profile Image -->
           <div class="profile-image-container bg-ddblue">
-            <div class="greg"></div>
+            <div class="gregs"></div>
             <div class="corner-tr"></div>
             <div class="corner-bl"></div>
             <div class="profile-name">
@@ -34,10 +34,9 @@
             <ul class="text-dblue disc">
               <li>C#</li>
               <li>Unity3D</li>
-              <li>NodeJS / Javascript</li>
-              <li>Maya</li>
-              <li>Photoshop</li>
-              <li>iOS / Android Development</li>
+              <li>Modeling</li>
+              <li>Animation</li>
+              <li>Pipeline Design</li>
             </ul>
           </div>
           <div class="row bg-ddblue">
@@ -52,7 +51,7 @@
           <div class="row pad60">
             <div class="row">
               <p class="text-lblue">
-                After a 10 year career freelancing as a business application programmer, I formalized my self-taught education and earned my B.S in Game Development in 2011. I started in the educational games space with Games+Learning+Society and stuck with that development team as we evolved into Learning Games Network, and now Gear, as their Chief Technologist. I have shipped several games for mobile and desktop platforms and have been heavily involved in multiple open source projects.
+                My name is Greg Shives and I am the project manager for the Gear Learning team. I have spent the last 10 years making awesome games at many different levels of the industy. My early career was as a satellite engineer in the defense industry, but at the age of 30, I completed a degree in Computer Animation at Ringling School of Art. Upon graduation, I entered the AAA games space serving as a senior technical animator and later animation director with Activision. After five years and five titles, I left AAA to found my own independent game studio. There I would spend another five years honing my game dev skills at all levels of production. I am a jack of all trades, master of some and best described as a 3D technical generalist. Be it building pipelines, writing shaders, scripting gameplay, concepting levels, or fleshing out designs I love doing it all.
               </p>
             </div>
           </div>
@@ -62,29 +61,32 @@
               <div class="thickdiv mar10-bot mar10-top"></div>
               <ul class="text-lblue disc">
                 <li>At Play in the Cosmos</li>
-                <li>Crystals of Kaydor</li>
-                <li>Tenacity</li>
-                <li>APEX Anatomy Software</li>
-                <li>Ross Medical and Veterinary Games and Simulations</li>
-                <li>Anatomy Pro-Am</li>
+                <li>Slingwitch</li>
+                <li>Singlularity</li>
+                <li>Wolfenstein</li>
+                <li>X-Men Origins: Wolverine</li>
+                <li>Call of Duty Modern Warfare 3</li>
               </ul>
             </div>
             <div class="col-sm-4 pad15">
               <h4 class="text-green"><i class="fa fa-gamepad text-white" aria-hidden="true"></i> Playing Now</h4>
               <div class="thickdiv mar10-bot mar10-top"></div>
               <ul class="text-lblue disc">
-                <li>Final Fantasy XV</li>
+                <li>Witcher 3</li>
+                <li>Legend of Zelda: Breath of the Wild</li>
+                <li>Terraria</li>
+                <li>Portal Knights</li>
               </ul>
             </div>
             <div class="col-sm-4 pad15">
               <h4 class="text-green"><i class="fa fa-heart text-white" aria-hidden="true"></i> Favorites</h4>
               <div class="thickdiv mar10-bot mar10-top"></div>
               <ul class="text-lblue disc">
-                <li>Metroid Series</li>
-                <li>Megaman Series</li>
-                <li>Sonic the Hedgehog (2D)</li>
-                <li>Old JRPGs (Final Fantasy, Chrono Trigger, Secret of Mana)</li>
-                <li>Amplitude / Frequency</li>
+                <li>Legend of Zelda</li>
+                <li>River City Ransom (NES)</li>
+                <li>Old School Ppaer RPGs</li>
+                <li>Ambush!</li>
+                <li>Glory To Rome</li>
               </ul>
             </div>
           </div>

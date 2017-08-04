@@ -45,7 +45,7 @@
           <h2 class="text-green text-center mar20-bot">A First-of-its-kind resource for the<br /> introductory Astronomy course</h2>
           <!-- <div class="thickdiv mar10-bot mar10-top"></div> -->
           <p class="text-lblue large text-center">
-            <span class="text-white"><strong>At Play in the Cosmos</strong></span> is a videogame designed to engage students taking the introductory astronomy course for nonscience majors. In the game, students confront challenges and fly missions that span the entire scope of the course, from basic physics through cosmology.
+            <span class="text-white"><strong>At Play in the Cosmos</strong></span> is an award winning videogame designed to engage students taking the introductory astronomy course for nonscience majors. In the game, students confront challenges and fly missions that span the entire scope of the course, from basic physics through cosmology.
           </p>
         </div>
       </div><!-- END: First of its kind -->

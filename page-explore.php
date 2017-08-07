@@ -174,7 +174,7 @@
               </div>
               </a>
             </div><!-- END: Greg -->
-          <!-- Leo -->
+          <!-- Leo
             <div class="col-sm-6 col-md-3 col-lg-15 pad5">
               <a href="profile-leo">
               <div class="row portrait-container">
@@ -186,7 +186,7 @@
                 <div class="portrait-btn leo"></div>
               </div>
               </a>
-            </div><!-- END: Leo -->
+            </div>END: Leo -->
           <!-- John -->
             <div class="col-sm-6 col-md-3 col-lg-15 pad5">
               <a href="profile-john">

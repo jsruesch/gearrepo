@@ -102,19 +102,24 @@
                 <div class="sc-bot mar30-left mar30-bot mar30-right">
                     <!-- SM Buttons -->
                     <div class="row wow fadeInUp" data-wow-delay=".65s">
-                      <div class="col-xs-4 bg-lgreen">
+                      <div class="col-xs-3 bg-lgreen">
                         <div class="profile-link-button">
                           <a class="btn-gen" href="https://twitter.com/GearLearning" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
                         </div>
                       </div>
-                      <div class="col-xs-4">
+                      <div class="col-xs-3">
                         <div class="profile-link-button">
                           <a class="btn-gen" href="https://www.facebook.com/gearlearning" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                         </div>
                       </div>
-                      <div class="col-xs-4 bg-lgreen">
+                      <div class="col-xs-3 bg-lgreen">
                         <div class="profile-link-button">
                           <a class="btn-gen" href="https://www.instagram.com/gearlearning/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                        </div>
+                      </div>
+                      <div class="col-xs-3">
+                        <div class="profile-link-button">
+                          <a class="btn-gen" href="https://www.youtube.com/channel/UCgVtV1bGua4T2rYjYuELLtg" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a>
                         </div>
                       </div>
                     </div><!-- END: SM Buttons -->

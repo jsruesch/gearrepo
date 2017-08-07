@@ -265,7 +265,7 @@
               </div>
               </a>
             </div><!-- END: Josephine -->
-          <!-- Jen -->
+          <!-- Jen
             <div class="col-sm-6 col-md-3 col-lg-15 pad5">
               <a href="profile-jen">
               <div class="row portrait-container">
@@ -277,7 +277,7 @@
                 <div class="portrait-btn jen"></div>
               </div>
               </a>
-            </div><!-- END: Jen -->
+            </div>END: Jen -->
           <!-- Greg Shives -->
             <div class="col-sm-6 col-md-3 col-lg-15 pad5">
               <a href="profile-greg-shives">

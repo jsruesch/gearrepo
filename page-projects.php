@@ -21,7 +21,7 @@
           <a href="at-play-in-the-cosmos">
             <div class="row selproj-btn">
               <div class="row project-page-image pad30-bot">
-                <img src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/project-page-image-cosmos-01.png"/>
+                <img src="<?php echo get_template_directory_uri(); ?>/img/projects/cosmos/project-page-image-cosmos-02.png"/>
               </div>
               <div class="row bg-ddblue pad25">
                 <h3 class="text-green">At Play in the Cosmos</h3>

@@ -16,6 +16,22 @@
         <p class="text-lblue text-center">Explore many of the projects created or collaborated on by our team of talented designers and developers.</p>
       </div>
       <div class="row">
+        <!-- Sprocket Data Systems -->
+        <div class="col-sm-6 pad10">
+          <a href="sprocket-data-systems">
+            <div class="row selproj-btn">
+              <div class="row project-page-image pad30-bot">
+                <img src="<?php echo get_template_directory_uri(); ?>/img/projects/sprocket/project-page-image-sprocket-01.png"/>
+              </div>
+              <div class="row bg-ddblue pad25">
+                <h3 class="text-green">Sprocket Data Systems</h3>
+                <p class="text-lblue">
+                    Player Telemetry and Reporting
+                </p>
+              </div>
+            </div>
+            </a>
+        </div><!-- END: Sprocket Data Systems -->
         <!-- At Play in the Cosmos -->
         <div class="col-sm-6 pad10">
           <a href="at-play-in-the-cosmos">

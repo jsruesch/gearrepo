@@ -2008,6 +2008,11 @@ textarea {
   height: 445px;
   width: 100%; }
 
+.project-banner-sprocket {
+  background: url(img/projects/sprocket/banner-sprocket-01.png) 50% 0% no-repeat;
+  height: 445px;
+  width: 100%; }
+
 .project-banner-apex {
   background: url(img/projects/apex/apex-project-banner.png) 50% 0% no-repeat;
   height: 445px;

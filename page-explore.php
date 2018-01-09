@@ -285,7 +285,7 @@
                 <div class="row ptext">
                   <div class="thickdiv mar10-bot"></div>
                   <h4 class="text-green">Greg<br />Shives</h4>
-                  <p class="text-white small bold text-uppercase">Project Manager</p>
+                  <p class="text-white small bold text-uppercase">3D Artist</p>
                 </div>
                 <div class="portrait-btn gregs"></div>
               </div>
@@ -298,9 +298,9 @@
                 <div class="row ptext">
                   <div class="thickdiv mar10-bot"></div>
                   <h4 class="text-green">T. Cullen<br />Morris</h4>
-                  <p class="text-white small bold text-uppercase">Project Manager</p>
+                  <p class="text-white small bold text-uppercase">3D Artist</p>
                 </div>
-                <div class="portrait-btn gregs"></div>
+                <div class="portrait-btn cullen"></div>
               </div>
               </a>
             </div><!-- END: Cullen -->

@@ -293,7 +293,7 @@
             </div><!-- END: Greg Shives -->
           <!-- Cullen -->
             <div class="col-sm-6 col-md-3 col-lg-15 pad5">
-              <a href="profile-greg-shives">
+              <a href="profile-cullen">
               <div class="row portrait-container">
                 <div class="row ptext">
                   <div class="thickdiv mar10-bot"></div>

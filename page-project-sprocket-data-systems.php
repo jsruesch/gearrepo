@@ -14,6 +14,13 @@
   <div class="container-fluid">
     <div class="container">
       <div class="row pad30-left pad30-right">
+        <table class="project-img-table">
+          <tr>
+            <td>
+              <img class="center-block max-full" style="width:375px"  src="<?php echo get_template_directory_uri(); ?>/img/game-logos/sprocket.svg" />
+            </td>
+          </tr>
+        </table>
       </div>
     </div>
   </div>

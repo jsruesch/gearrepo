@@ -78,7 +78,7 @@
                 </td>
                 <td class="col-sm-10">
                   <div class="row mar10">
-                    <h2 class="text-green">Authentication</h2>
+                    <h3 class="text-green">Authentication</h3>
                     <div class="thickdiv mar10-bot mar10-top"></div>
                     <p class=" text-lblue">
                       Sprocket’s authentication module allows for custom user management and authentication, or connection to external authentication providers such as OAuth or LDAP systems.  This core piece of technology allows our games to authenticate against existing user databases, handling all necessary information about a user that may be necessary for properly storing and querying game play information.  Related, but separate, is a User Management module that allows special attributes to be given to a user that exist only in our system, and not written back to an external authentication system.
@@ -100,7 +100,7 @@
                 </td>
                 <td class="col-sm-10">
                   <div class="row mar10">
-                    <h2 class="text-green">Data Collection</h2>
+                    <h3 class="text-green">Data Collection</h3>
                     <div class="thickdiv mar10-bot mar10-top"></div>
                     <p class=" text-lblue">
                       The core purpose of Sprocket is to provide data collection services to games created by Gear Learning.  Through a unique method of hierarchical data tagging, we’re able to gather highly specific information about a player’s actions.  Doing so allows us to gain insight into why a player clicking “Button A” in “Mission 1” and clicking the same button in “Mission 2” might be done for completely different reasons.
@@ -122,7 +122,7 @@
                 </td>
                 <td class="col-sm-10">
                   <div class="row mar10">
-                    <h2 class="text-green">Data Querying</h2>
+                    <h3 class="text-green">Data Querying</h3>
                     <div class="thickdiv mar10-bot mar10-top"></div>
                     <p class=" text-lblue">
                       Sprocket also implements a secure, robust query API to allow external services access to the wealth of data collected on users and user group.  Current customers have used this to implement their own Data Dashboards, letting them drill into user gameplay sessions to see how their players compare, where they succeed, and where they fail.
@@ -144,7 +144,7 @@
                 </td>
                 <td class="col-sm-10">
                   <div class="row mar10">
-                    <h2 class="text-green">Remote Data Services</h2>
+                    <h3 class="text-green">Remote Data Services</h3>
                     <div class="thickdiv mar10-bot mar10-top"></div>
                     <p class=" text-lblue">
                       Sprocket implements two highly useful services for the constantly connected world, Remote Configuration and Remove Saving.  Remote Configuration allows games to be deployed and quickly updated remotely without the need for a client install update.  This can be very useful for changing content on-the-fly, or even doing experimental rollouts like A/B testing.  Remote Saving then allows a user to save their game progress remotely, allowing continued play across multiple devices as well as preventing progress loss in the event of a hardware failure or other user data corruption event.

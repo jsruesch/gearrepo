@@ -91,6 +91,7 @@
                 <li>Dark Souls III</li>
                 <li>Bloodborne</li>
                 <li>Team Fortress 2</li>
+                <li>Legend of Zelda: Breath of the Wild</li>
               </ul>
             </div>
             <div class="col-sm-4 pad15">
@@ -101,6 +102,7 @@
                 <li>Bloodborne</li>
                 <li>Street Fighter (IV/V)</li>
                 <li>Legend of Zelda: Occarina of Time</li>
+                <li>Legend of Zelda: Breath of the Wild</li>
                 <li>Bioshock</li>
                 <li>God of War</li>
                 <li>Path of Exile</li>

@@ -161,6 +161,19 @@
             </div>
             </a>
           </div><!-- END: Mike -->
+          <!-- Greg Shives -->
+            <div class="col-sm-6 col-md-3 col-lg-15 pad5">
+              <a href="profile-greg-shives">
+              <div class="row portrait-container">
+                <div class="row ptext">
+                  <div class="thickdiv mar10-bot"></div>
+                  <h4 class="text-green">Greg<br />Shives</h4>
+                  <p class="text-white small bold text-uppercase">Studio Manager</p>
+                </div>
+                <div class="portrait-btn gregs"></div>
+              </div>
+              </a>
+            </div><!-- END: Greg Shives -->
           <!-- Greg -->
             <div class="col-sm-6 col-md-3 col-lg-15 pad5">
               <a href="profile-greg">
@@ -278,19 +291,7 @@
               </div>
               </a>
             </div>END: Jen -->
-          <!-- Greg Shives -->
-            <div class="col-sm-6 col-md-3 col-lg-15 pad5">
-              <a href="profile-greg-shives">
-              <div class="row portrait-container">
-                <div class="row ptext">
-                  <div class="thickdiv mar10-bot"></div>
-                  <h4 class="text-green">Greg<br />Shives</h4>
-                  <p class="text-white small bold text-uppercase">3D Artist</p>
-                </div>
-                <div class="portrait-btn gregs"></div>
-              </div>
-              </a>
-            </div><!-- END: Greg Shives -->
+
           <!-- Cullen -->
             <div class="col-sm-6 col-md-3 col-lg-15 pad5">
               <a href="profile-cullen">
@@ -304,6 +305,19 @@
               </div>
               </a>
             </div><!-- END: Cullen -->
+          <!-- James -->
+            <div class="col-sm-6 col-md-3 col-lg-15 pad5">
+              <a href="profile-james">
+              <div class="row portrait-container">
+                <div class="row ptext">
+                  <div class="thickdiv mar10-bot"></div>
+                  <h4 class="text-green">James<br />Vlisides</h4>
+                  <p class="text-white small bold text-uppercase">Sr. Educational Editor</p>
+                </div>
+                <div class="portrait-btn james"></div>
+              </div>
+              </a>
+            </div><!-- END: James -->
         </div><!-- END: Portraits -->
       </div>
       <!-- END: MEET OUR TEAM -->

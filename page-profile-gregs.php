@@ -25,7 +25,7 @@
             <div class="profile-name">
               <h3 class="text-green">Greg<br />Shives</h3>
               <div class="thickdiv mar10-bot mar10-top"></div>
-              <h6 class="text-white small bold text-uppercase">Studio Manager</h6>
+              <h6 class="text-white small bold text-uppercase">Project Manager</h6>
             </div>
           </div><!-- END: Profile -->
           <div class="row bg-green pad30">

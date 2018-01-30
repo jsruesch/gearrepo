@@ -168,7 +168,7 @@
                 <div class="row ptext">
                   <div class="thickdiv mar10-bot"></div>
                   <h4 class="text-green">Greg<br />Shives</h4>
-                  <p class="text-white small bold text-uppercase">Studio Manager</p>
+                  <p class="text-white small bold text-uppercase">Project Manager</p>
                 </div>
                 <div class="portrait-btn gregs"></div>
               </div>

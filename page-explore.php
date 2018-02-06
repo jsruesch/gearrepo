@@ -318,6 +318,19 @@
               </div>
               </a>
             </div><!-- END: James -->
+          <!-- Tiffany -->
+            <div class="col-sm-6 col-md-3 col-lg-15 pad5">
+              <a href="profile-tiffany">
+              <div class="row portrait-container">
+                <div class="row ptext">
+                  <div class="thickdiv mar10-bot"></div>
+                  <h4 class="text-green">Tiffany<br />Herder</h4>
+                  <p class="text-white small bold text-uppercase">Graduate Researcher</p>
+                </div>
+                <div class="portrait-btn tiffany"></div>
+              </div>
+              </a>
+            </div><!-- END: Tiffany -->
         </div><!-- END: Portraits -->
       </div>
       <!-- END: MEET OUR TEAM -->

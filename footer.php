@@ -21,7 +21,7 @@
 				<div class="col-sm-3 pad10">
 					<div class="row mar20-bot">
 						<p class="text-lblue small">
-							Educational Sciences Room 146,<br /> 1025 West Johnson Street Madison, WI 53706
+							Educational Sciences Room 142,<br /> 1025 West Johnson Street Madison, WI 53706
 							<!-- <i class="fa fa-circle small-icon" aria-hidden="true"></i> Ph: 555-555-5555 -->
 						</p>
 					</div>

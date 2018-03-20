@@ -1019,7 +1019,15 @@ h1, h2, h3, h4, h5, p {
   .footer-container {
     text-align: center; }
     .footer-container nav {
-      text-align: center !important; } }
+      text-align: center !important; }
+
+  .elementor-image-box-img {
+    width: 100% !important;
+    float: left !important;
+    margin-bottom: 30px !important; }
+    .elementor-image-box-img img {
+      width: 100%;
+      float: left; } }
 /* Devices */
 /* Small devices */
 @media (min-width: 768px) {
@@ -1149,7 +1157,15 @@ h1, h2, h3, h4, h5, p {
     display: none; }
 
   .explore-img-full-hidden {
-    display: block !important; } }
+    display: block !important; }
+
+  .elementor-image-box-img {
+    width: 100% !important;
+    float: left !important;
+    margin-bottom: 30px !important; }
+    .elementor-image-box-img img {
+      width: 100%;
+      float: left; } }
 /* END: Imports */
 /**
  * =========================================

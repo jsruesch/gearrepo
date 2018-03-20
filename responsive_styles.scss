@@ -149,6 +149,17 @@
   .explore-img-full-hidden{ display: block !important; }
 
   .footer-container{ text-align: center; nav{ text-align: center !important; }}
+
+  .elementor-image-box-img{
+    width: 100% !important;
+    float: left !important;
+    margin-bottom: 30px !important;
+
+    img{
+      width: 100%;
+      float: left;
+    }
+  }
 }
 
 /* Devices */
@@ -283,5 +294,16 @@
 
     .explore-img-full{ display: none; }
     .explore-img-full-hidden{ display: block !important; }
+    
+    .elementor-image-box-img{
+      width: 100% !important;
+      float: left !important;
+      margin-bottom: 30px !important;
+
+      img{
+        width: 100%;
+        float: left;
+      }
+    }
 
 }

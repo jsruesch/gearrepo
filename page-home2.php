@@ -83,6 +83,11 @@
                           <div class="thickdiv mar10-bot mar10-top"></div>
                           <p><span  class="text-lblue"><?php the_excerpt( $more_link_text , $strip_teaser ); ?>
                           </span></p>
+                          <div class="row text-center mar20-top">
+                            <h4><a href="<?php the_permalink() ?>">
+                              Continue Reading
+                            </a></h4>
+                          </div>
                         </div>
                       </div><!-- /The Content -->
                     <?php endwhile; ?>

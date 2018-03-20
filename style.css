@@ -1851,6 +1851,45 @@ iframe {
   width: 100%;
   height: auto; }
 
+.news-featured-img {
+  position: relative; }
+  .news-featured-img img {
+    width: 100%;
+    float: left;
+    height: auto; }
+  .news-featured-img .news-featured-grad {
+    position: absolute;
+    width: 100%;
+    height: 60px;
+    bottom: 0;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#05070d+0,05070d+93&0+0,1+100 */
+    background: -moz-linear-gradient(top, rgba(5, 7, 13, 0) 0%, rgba(5, 7, 13, 0.93) 93%, #05070d 100%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, rgba(5, 7, 13, 0) 0%, rgba(5, 7, 13, 0.93) 93%, #05070d 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, rgba(5, 7, 13, 0) 0%, rgba(5, 7, 13, 0.93) 93%, #05070d 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0005070d', endColorstr='#05070d',GradientType=0 );
+    /* IE6-9 */ }
+
+.featured-post-paragraph {
+  position: relative; }
+  .featured-post-paragraph .news-featured-grad {
+    position: absolute;
+    z-index: 100;
+    width: 100%;
+    height: 150px;
+    bottom: 0;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#05070d+0,05070d+98&0+0,0.8+100 */
+    background: -moz-linear-gradient(top, rgba(5, 7, 13, 0) 0%, rgba(5, 7, 13, 0.78) 98%, rgba(5, 7, 13, 0.8) 100%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, rgba(5, 7, 13, 0) 0%, rgba(5, 7, 13, 0.78) 98%, rgba(5, 7, 13, 0.8) 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, rgba(5, 7, 13, 0) 0%, rgba(5, 7, 13, 0.78) 98%, rgba(5, 7, 13, 0.8) 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0005070d', endColorstr='#cc05070d',GradientType=0 );
+    /* IE6-9 */ }
+
 .featured-img-container {
   position: relative;
   box-shadow: 5px 0px 30px black;

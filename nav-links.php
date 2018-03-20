@@ -1,6 +1,6 @@
 <li class="cstbtn"><a href="/gear/explore">Company</a></li>
 <li class="cstbtn"><a href="/gear/projects">Projects</a></li>
-<li class="cstbtn"><a href="/gear/news-page">News</a></li>
+<li class="cstbtn"><a href="/gear/news">News</a></li>
 <!-- <li class="cstbtn"><a href="/gear/jobs">Jobs</a></li> -->
 <li class="cstbtn"><a href="/gear/contact">Contact</a></li>
 <div class="row footer-sm-buttons"><!-- footer-sm-buttons used to hide from main nav -->

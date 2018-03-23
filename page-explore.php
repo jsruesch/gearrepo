@@ -331,6 +331,32 @@
               </div>
               </a>
             </div><!-- END: Tiffany -->
+          <!-- Joey -->
+            <div class="col-sm-6 col-md-3 col-lg-15 pad5">
+              <a href="profile-joey">
+              <div class="row portrait-container">
+                <div class="row ptext">
+                  <div class="thickdiv mar10-bot"></div>
+                  <h4 class="text-green">Joey<br />Hering</h4>
+                  <p class="text-white small bold text-uppercase">Research Assistant</p>
+                </div>
+                <div class="portrait-btn joey"></div>
+              </div>
+              </a>
+            </div><!-- END: Joey -->
+          <!-- Mohammad -->
+            <div class="col-sm-6 col-md-3 col-lg-15 pad5">
+              <a href="profile-mohammad">
+              <div class="row portrait-container">
+                <div class="row ptext">
+                  <div class="thickdiv mar10-bot"></div>
+                  <h4 class="text-green">Mohammad<br />Akanda</h4>
+                  <p class="text-white small bold text-uppercase">Associate Researcher</p>
+                </div>
+                <div class="portrait-btn mohammad"></div>
+              </div>
+              </a>
+            </div><!-- END: Mohammad -->
         </div><!-- END: Portraits -->
       </div>
       <!-- END: MEET OUR TEAM -->

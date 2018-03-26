@@ -149,7 +149,7 @@
         <!-- Portraits -->
         <div class="row">
         <!-- Mike -->
-          <div class="col-sm-6 col-md-3 col-lg-15 pad5">
+          <div class="col-sm-6 col-md-3 pad5">
             <a href="profile-mike">
             <div class="row portrait-container">
               <div class="row ptext">
@@ -162,7 +162,7 @@
             </a>
           </div><!-- END: Mike -->
           <!-- Greg Shives -->
-            <div class="col-sm-6 col-md-3 col-lg-15 pad5">
+            <div class="col-sm-6 col-md-3 pad5">
               <a href="profile-greg-shives">
               <div class="row portrait-container">
                 <div class="row ptext">
@@ -175,7 +175,7 @@
               </a>
             </div><!-- END: Greg Shives -->
           <!-- Greg -->
-            <div class="col-sm-6 col-md-3 col-lg-15 pad5">
+            <div class="col-sm-6 col-md-3 pad5">
               <a href="profile-greg">
               <div class="row portrait-container">
                 <div class="row ptext">
@@ -201,7 +201,7 @@
               </a>
             </div>END: Leo -->
           <!-- John -->
-            <div class="col-sm-6 col-md-3 col-lg-15 pad5">
+            <div class="col-sm-6 col-md-3 pad5">
               <a href="profile-john">
               <div class="row portrait-container">
                 <div class="row ptext">
@@ -214,7 +214,7 @@
               </a>
             </div><!-- END: John -->
           <!-- Keith -->
-            <div class="col-sm-6 col-md-3 col-lg-15 pad5">
+            <div class="col-sm-6 col-md-3 pad5">
               <a href="profile-keith">
               <div class="row portrait-container">
                 <div class="row ptext">
@@ -227,7 +227,7 @@
               </a>
             </div><!-- END: Keith -->
           <!-- Sarah -->
-            <div class="col-sm-6 col-md-3 col-lg-15 pad5">
+            <div class="col-sm-6 col-md-3 pad5">
               <a href="profile-sarah">
               <div class="row portrait-container">
                 <div class="row ptext">
@@ -240,7 +240,7 @@
               </a>
             </div><!-- END: Sarah -->
           <!-- Jason -->
-            <div class="col-sm-6 col-md-3 col-lg-15 pad5">
+            <div class="col-sm-6 col-md-3 pad5">
               <a href="profile-jason">
               <div class="row portrait-container">
                 <div class="row ptext">
@@ -253,7 +253,7 @@
               </a>
             </div><!-- END: Jason -->
           <!-- Jake -->
-            <div class="col-sm-6 col-md-3 col-lg-15 pad5">
+            <div class="col-sm-6 col-md-3 pad5">
               <a href="profile-jake">
               <div class="row portrait-container">
                 <div class="row ptext">
@@ -266,7 +266,7 @@
               </a>
             </div><!-- END: Jake -->
           <!-- Josephine -->
-            <div class="col-sm-6 col-md-3 col-lg-15 pad5">
+            <div class="col-sm-6 col-md-3 pad5">
               <a href="profile-josephine">
               <div class="row portrait-container">
                 <div class="row ptext">
@@ -293,7 +293,7 @@
             </div>END: Jen -->
 
           <!-- Cullen -->
-            <div class="col-sm-6 col-md-3 col-lg-15 pad5">
+            <div class="col-sm-6 col-md-3 pad5">
               <a href="profile-cullen">
               <div class="row portrait-container">
                 <div class="row ptext">
@@ -306,7 +306,7 @@
               </a>
             </div><!-- END: Cullen -->
           <!-- James -->
-            <div class="col-sm-6 col-md-3 col-lg-15 pad5">
+            <div class="col-sm-6 col-md-3 pad5">
               <a href="profile-james">
               <div class="row portrait-container">
                 <div class="row ptext">
@@ -319,7 +319,7 @@
               </a>
             </div><!-- END: James -->
           <!-- Tiffany -->
-            <div class="col-sm-6 col-md-3 col-lg-15 pad5">
+            <div class="col-sm-6 col-md-3 pad5">
               <a href="profile-tiffany">
               <div class="row portrait-container">
                 <div class="row ptext">
@@ -332,7 +332,7 @@
               </a>
             </div><!-- END: Tiffany -->
           <!-- Joey -->
-            <div class="col-sm-6 col-md-3 col-lg-15 pad5">
+            <div class="col-sm-6 col-md-3 pad5">
               <a href="profile-joey">
               <div class="row portrait-container">
                 <div class="row ptext">
@@ -345,7 +345,7 @@
               </a>
             </div><!-- END: Joey -->
           <!-- Mohammad -->
-            <div class="col-sm-6 col-md-3 col-lg-15 pad5">
+            <div class="col-sm-6 col-md-3 pad5">
               <a href="profile-mohammad">
               <div class="row portrait-container">
                 <div class="row ptext">

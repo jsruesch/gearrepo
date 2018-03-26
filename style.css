@@ -1423,6 +1423,9 @@ iframe {
   max-width: 100%;
   vertical-align: middle; }
 
+.small {
+  font-size: 80% !important; }
+
 /* END: Utility Classes */
 /**
  * =========================================

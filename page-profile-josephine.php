@@ -62,7 +62,7 @@
           <div class="row pad60">
             <div class="row">
               <p class="text-lblue">
-                Hello, I am a graduate of MATC in 2016 with an Associates of Art Degree in Animation and Concept Development. I began interning with the team at Learning Games Network in October of 2015. Since then I have been brought onto the team as it’s newest artist creating animations, 3d models and concept art.
+                Games are my life. I decided early on that I wanted to make games and worked towards that goal since. I met this team as an intern for Learning Games Network in 2015 while still in the Animation Program at MATC. I graduated with an Associate of Art Degree in Animation and Concept Development in 2016. In 2017 I became a full time 2D/3D Artist here at Gear Learning. Since then I have worked on a number of projects spearheaded by Gear. I now get to fulfill my dream of working on games with this great team of talented people.
               </p>
             </div>
           </div>
@@ -72,15 +72,18 @@
               <div class="thickdiv mar10-bot mar10-top"></div>
               <ul class="text-lblue disc">
                 <li>At Play in the Cosmos</li>
+                <li>Ecolibrium</li>
+                <li>Fairplay</li>
+                <li>Hidden Village</li>
               </ul>
             </div>
             <div class="col-sm-4 pad15">
               <h4 class="text-green"><i class="fa fa-gamepad text-white" aria-hidden="true"></i> Playing Now</h4>
               <div class="thickdiv mar10-bot mar10-top"></div>
               <ul class="text-lblue disc">
-                <li>Team Fortress 2</li>
+                <li>Fallout 4</li>
                 <li>Skyrim Special Edition</li>
-                <li>Dark Souls III</li>
+                <li>Starbound</li>
               </ul>
             </div>
             <div class="col-sm-4 pad15">

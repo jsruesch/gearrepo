@@ -104,7 +104,7 @@
         -->
           <div class="col-sm-6 pad10-top pad20-bot pad10-left pad10-right">
             <div class="row">
-              <?php query_posts('category_name=inside-gear&posts_per_page=1');?>
+              <?php query_posts('category_name=gearbox&posts_per_page=1&offset=1');?>
           		<?php if (have_posts()) : ?>
           				<?php $post = $posts[0]; // Hack. Set $post so that the_date() works. ?>
           				<?php /* If this is a category archive */ if (is_category()) { ?>

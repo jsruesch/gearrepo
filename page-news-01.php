@@ -123,7 +123,7 @@
                       <div class="row pad30 bg-ddblue">
                         <h4 class="text-center"><a href="<?php the_permalink() ?>"  class="text-green"><?php the_title(); ?></a></h4>
                         <p class="text-lblue text-center mar10-top">
-                            <small><i>An <?php foreach((get_the_category()) as $category) { echo $category->cat_name . ' '; } ?> piece by <span class="text-white"><?php the_author(); ?></span></i></small>
+                            <small><i>A <?php foreach((get_the_category()) as $category) { echo $category->cat_name . ' '; } ?> piece by <span class="text-white"><?php the_author(); ?></span></i></small>
                         </p>
                       </div>
                     </div><!-- /The Content -->

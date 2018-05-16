@@ -526,7 +526,7 @@
           <h3 class="text-green">RFPs</h3>
           <div class="thickdiv mar10-bot mar10-top"></div>
           <p class="text-lblue">
-            Send us your next Request for Proposal. Contact or send to <a href="mailto:mike@gearlearning.org" target="_blank">Mike Beall</a>. We will respond as soon as we can.
+            Send us your next Request for Proposal. Contact or send to <a href="mailto:mbeall@wisc.edu" target="_blank">Mike Beall</a>. We will respond as soon as we can.
           </p>
         </div><!-- END: RFPs -->
       </div><!-- /.container -->

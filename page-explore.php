@@ -351,7 +351,7 @@
                 <div class="row ptext">
                   <div class="thickdiv mar10-bot"></div>
                   <h4 class="text-green">Mohammad<br />Akanda</h4>
-                  <p class="text-white small bold text-uppercase">Associate Researcher</p>
+                  <p class="text-white small bold text-uppercase">Data Analyst</p>
                 </div>
                 <div class="portrait-btn mohammad"></div>
               </div>

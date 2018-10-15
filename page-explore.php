@@ -252,6 +252,19 @@
               </div>
               </a>
             </div> END: Jason -->
+            <!-- Cullen -->
+            <div class="col-sm-6 col-md-3 pad5">
+              <a href="profile-cullen">
+              <div class="row portrait-container">
+                <div class="row ptext">
+                  <div class="thickdiv mar10-bot"></div>
+                  <h4 class="text-green">T. Cullen<br />Morris</h4>
+                  <p class="text-white small bold text-uppercase">Technical Art Lead</p>
+                </div>
+                <div class="portrait-btn cullen"></div>
+              </div>
+              </a>
+            </div><!-- END: Cullen -->
           <!-- Jake -->
             <div class="col-sm-6 col-md-3 pad5">
               <a href="profile-jake">
@@ -259,7 +272,7 @@
                 <div class="row ptext">
                   <div class="thickdiv mar10-bot"></div>
                   <h4 class="text-green">Jake<br />Ruesch</h4>
-                  <p class="text-white small bold text-uppercase">UI / UX / Web Designer</p>
+                  <p class="text-white small bold text-uppercase">Art Director</p>
                 </div>
                 <div class="portrait-btn jake"></div>
               </div>
@@ -278,6 +291,32 @@
               </div>
               </a>
             </div><!-- END: Josephine -->
+          <!-- Nathalie -->
+            <div class="col-sm-6 col-md-3 pad5">
+              <a href="profile-nathalie">
+              <div class="row portrait-container">
+                <div class="row ptext">
+                  <div class="thickdiv mar10-bot"></div>
+                  <h4 class="text-green">Nathalie<br />Fourdraine</h4>
+                  <p class="text-white small bold text-uppercase">2D / 3D Artist</p>
+                </div>
+                <div class="portrait-btn josephine"></div>
+              </div>
+              </a>
+            </div><!-- END: Nathalie -->
+          <!-- Iva -->
+            <div class="col-sm-6 col-md-3 pad5">
+              <a href="profile-iva">
+              <div class="row portrait-container">
+                <div class="row ptext">
+                  <div class="thickdiv mar10-bot"></div>
+                  <h4 class="text-green">Iva<br />Ivanova</h4>
+                  <p class="text-white small bold text-uppercase">2D / 3D Artist</p>
+                </div>
+                <div class="portrait-btn josephine"></div>
+              </div>
+              </a>
+            </div><!-- END: Iva -->
           <!-- Jen
             <div class="col-sm-6 col-md-3 col-lg-15 pad5">
               <a href="profile-jen">
@@ -291,20 +330,6 @@
               </div>
               </a>
             </div>END: Jen -->
-
-          <!-- Cullen -->
-            <div class="col-sm-6 col-md-3 pad5">
-              <a href="profile-cullen">
-              <div class="row portrait-container">
-                <div class="row ptext">
-                  <div class="thickdiv mar10-bot"></div>
-                  <h4 class="text-green">T. Cullen<br />Morris</h4>
-                  <p class="text-white small bold text-uppercase">3D Artist</p>
-                </div>
-                <div class="portrait-btn cullen"></div>
-              </div>
-              </a>
-            </div><!-- END: Cullen -->
           <!-- James -->
             <div class="col-sm-6 col-md-3 pad5">
               <a href="profile-james">

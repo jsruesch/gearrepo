@@ -25,7 +25,7 @@
             <div class="profile-name">
               <h3 class="text-green">Jake<br />Ruesch</h3>
               <div class="thickdiv mar10-bot mar10-top"></div>
-              <h6 class="text-white small bold text-uppercase">UI / UX / Web Designer</h6>
+              <h6 class="text-white small bold text-uppercase">Art Director</h6>
             </div>
           </div><!-- END: Profile -->
           <div class="row bg-green pad30">

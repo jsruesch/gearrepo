@@ -25,18 +25,18 @@
             <div class="profile-name">
               <h3 class="text-green">T. Cullen<br />Morris</h3>
               <div class="thickdiv mar10-bot mar10-top"></div>
-              <h6 class="text-white small bold text-uppercase">Technical Art Lead</h6>
+              <h6 class="text-white small bold text-uppercase">Senior Artist</h6>
             </div>
           </div><!-- END: Profile -->
           <div class="row bg-green pad30">
             <h4 class="text-dblue"><i class="fa fa-star text-white" aria-hidden="true"></i> Skills</h4>
             <div class="thickdiv mar10-bot mar10-top"></div>
             <ul class="text-dblue disc">
-              <li>Sculpting</li>
-              <li>Modeling</li>
-              <li>Texturing</li>
-              <li>Rigging</li>
-              <li>Unity</li>
+              <li>Project Management</li>
+              <li>Art Pipeline Development</li>
+              <li>Game Development</li>
+              <li>2D / 3D Content</li>
+              <li>Technical Art</li>
             </ul>
           </div>
           <div class="row bg-ddblue">

@@ -51,7 +51,7 @@
           <div class="row pad60">
             <div class="row">
               <p class="text-lblue">
-                Mike Beall is the Director of Gear Learning at the Wisconsin Center for Education Research. He is a lifelong game enthusiast with a professional history as a game designer, producer, and artist working with the Learning Games Network and Games Learning Society at the University of Wisconsin-Madison. Mike has led design and development for several game titles including Progenitor X, Tenacity, Crystals of Kaydor, Oztoc, and At Play in the Cosmos. In addition to direct involvement with design and development of Gear Learning games, Mike also works with outreach organizations and community centers where he partners with University of Wisconsin-Madison faculty and students to engage with the local communities to learn through playing games, participate in playtests, and inform the design of future games through focus groups.
+                As the Director of Gear Learning, my work focuses on building relationships with faculty and other stakeholders that lead to impactful game-based learning. I have been designing learning games since 2009 when I was recruited by UW School of Education professors Kurt Squire and Richard Halverson to help design and develop the systems biology game Virulent. Over the last decade, I have led design and development for several learning game titles including Progenitor X, Crystals of Kaydor, Oztoc, and At Play in the Cosmos. In addition to building relationships and direct involvement with design and development of Gear Learning games, I also work with outreach organizations and community centers to engage with the local communities to learn through playing games, participate in playtests, and inform the design of future games through focus groups.              
               </p>
             </div>
           </div>
@@ -77,7 +77,9 @@
               <ul class="text-lblue disc">
                 <li>Diablo 3</li>
                 <li>Team Fortress 2</li>
-                <li>Titan Quest</li>
+                <li>Starcraft 2</li>
+                <li>Minecraft</li>
+                <li>Divinity: Original Sin 2</li>
               </ul>
             </div>
             <div class="col-sm-4 pad15">

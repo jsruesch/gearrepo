@@ -259,7 +259,7 @@
                 <div class="row ptext">
                   <div class="thickdiv mar10-bot"></div>
                   <h4 class="text-green">T. Cullen<br />Morris</h4>
-                  <p class="text-white small bold text-uppercase">Technical Art Lead</p>
+                  <p class="text-white small bold text-uppercase">Senior Artist</p>
                 </div>
                 <div class="portrait-btn cullen"></div>
               </div>
@@ -304,7 +304,7 @@
               </div>
               </a>
             </div><!-- END: Nathalie -->
-          <!-- Iva -->
+          <!-- Evil -->
             <div class="col-sm-6 col-md-3 pad5">
               <a href="profile-iva">
               <div class="row portrait-container">
@@ -313,10 +313,10 @@
                   <h4 class="text-green">Iva<br />Ivanova</h4>
                   <p class="text-white small bold text-uppercase">2D / 3D Artist</p>
                 </div>
-                <div class="portrait-btn josephine"></div>
+                <div class="portrait-btn evil"></div>
               </div>
               </a>
-            </div><!-- END: Iva -->
+            </div><!-- END: Evil -->
           <!-- Jen
             <div class="col-sm-6 col-md-3 col-lg-15 pad5">
               <a href="profile-jen">

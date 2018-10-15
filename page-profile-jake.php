@@ -32,7 +32,9 @@
             <h4 class="text-dblue"><i class="fa fa-star text-white" aria-hidden="true"></i> Skills</h4>
             <div class="thickdiv mar10-bot mar10-top"></div>
             <ul class="text-dblue disc">
+              <li>Art Direction</li>
               <li>Photoshop</li>
+              <li>Adobe Xd</li>
               <li>Illustrator</li>
               <li>InDesign</li>
               <li>After Effects</li>
@@ -67,6 +69,7 @@
               <h4 class="text-green"><i class="fa fa-trophy text-white" aria-hidden="true"></i> Projects</h4>
               <div class="thickdiv mar10-bot mar10-top"></div>
               <ul class="text-lblue disc">
+                <li>Unnamed Pharmaceutical Game</li>
                 <li>At Play in the Cosmos</li>
                 <li>Econauts</li>
                 <li>Oztoc Expedition</li>
@@ -78,6 +81,7 @@
                 <li>Soul of a Place</li>
                 <li>Tenacity</li>
                 <li>Fair Play</li>
+                <li>Fair Play K12</li>
                 <li>Virulent</li>
                 <li>Xenos</li>
                 <li>Ross Medical and Veterinary Games and Simulations</li>
@@ -88,10 +92,8 @@
               <h4 class="text-green"><i class="fa fa-gamepad text-white" aria-hidden="true"></i> Playing Now</h4>
               <div class="thickdiv mar10-bot mar10-top"></div>
               <ul class="text-lblue disc">
-                <li>Dark Souls III</li>
-                <li>Bloodborne</li>
-                <li>Team Fortress 2</li>
-                <li>Legend of Zelda: Breath of the Wild</li>
+                <li>Dragon Ball FighterZ</li>
+                <li>Destiny 2</li>
               </ul>
             </div>
             <div class="col-sm-4 pad15">

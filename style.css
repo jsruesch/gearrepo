@@ -1713,6 +1713,22 @@ iframe {
   background-position: center center;
   background-size: cover; }
 
+.nathalie {
+  min-height: 100%;
+  width: 100%;
+  background: url(img/portraits/portrait-jake.png);
+  opacity: .25;
+  background-position: center center;
+  background-size: cover; }
+
+.evil {
+  min-height: 100%;
+  width: 100%;
+  background: url(img/portraits/portrait-evil.png);
+  opacity: .25;
+  background-position: center center;
+  background-size: cover; }
+
 .sarah {
   min-height: 100%;
   width: 100%;

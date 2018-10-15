@@ -226,7 +226,7 @@
               </div>
               </a>
             </div><!-- END: Keith -->
-          <!-- Sarah -->
+          <!-- Sarah
             <div class="col-sm-6 col-md-3 pad5">
               <a href="profile-sarah">
               <div class="row portrait-container">
@@ -238,8 +238,8 @@
                 <div class="portrait-btn sarah"></div>
               </div>
               </a>
-            </div><!-- END: Sarah -->
-          <!-- Jason -->
+            </div> END: Sarah -->
+          <!-- Jason
             <div class="col-sm-6 col-md-3 pad5">
               <a href="profile-jason">
               <div class="row portrait-container">
@@ -251,7 +251,7 @@
                 <div class="portrait-btn jason"></div>
               </div>
               </a>
-            </div><!-- END: Jason -->
+            </div> END: Jason -->
           <!-- Jake -->
             <div class="col-sm-6 col-md-3 pad5">
               <a href="profile-jake">

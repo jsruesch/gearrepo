@@ -4,13 +4,21 @@
 	<div class="footer-container container-fluid">
 		<div class="container">
 			<div class="row pad60">
-				<div class="col-sm-2">
+				<!-- Footer Logo -->
+				<div class="row">
+					<div class="col-sm-6 col-sm-offset-3 mar30-bot">
+						<a href="http://gearlearning.org" class="footer-logo-v2 center-block">
+							<img src="<?php echo get_template_directory_uri(); ?>/img/gear-wcer-soe-logo-light.svg" class=""/>
+						</a>
+					</div>
+				</div><!-- END: Footer Logo -->
+				<!-- <div class="col-sm-4">
 					<div class="row mar20-bot">
 						<a href="http://gearlearning.org"><img class="footer-logo center-block" src="<?php echo get_template_directory_uri(); ?>/img/gear-logo-text.svg"/></a>
 					</div>
-				</div>
+				</div> -->
 
-				<div class="col-sm-3 pad10">
+				<div class="col-sm-4 pad10">
 					<div class="row">
 						<p class="text-lblue small">
 							Gear Learning is part of the <a href="http://www.wcer.wisc.edu/" taget="_blank">Wisconsin Center for Education Research</a> in the <a href="http://www.wisc.edu/" target="_blank">University of Wisconsin-Madison's</a> <a href="http://www.education.wisc.edu/" target="_blank">School of Education</a>.
@@ -18,7 +26,7 @@
 					</div>
 				</div>
 
-				<div class="col-sm-3 pad10">
+				<div class="col-sm-4 pad10">
 					<div class="row mar20-bot">
 						<p class="text-lblue small">
 							Educational Sciences Room 142,<br /> 1025 West Johnson Street Madison, WI 53706

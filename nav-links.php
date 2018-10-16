@@ -2,7 +2,7 @@
 <li class="cstbtn"><a href="/gear/projects">Projects</a></li>
 <li class="cstbtn"><a href="/gear/blog">Blog</a></li>
 <!-- <li class="cstbtn"><a href="/gear/jobs">Jobs</a></li> -->
-<li class="cstbtn"><a href="/gear/contact">Contact</a></li>
+<li class="cstbtn"><a href="/gear/contact-v2">Contact</a></li>
 <div class="row footer-sm-buttons"><!-- footer-sm-buttons used to hide from main nav -->
   <li class="cstbtn"><a href="https://twitter.com/GearLearning" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
   <li class="cstbtn"><a href="https://www.facebook.com/gearlearning" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>

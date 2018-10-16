@@ -1233,6 +1233,9 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: .5px;
   text-transform: uppercase; }
 
+.text-small {
+  font-size: 12px !important; }
+
 ::selection {
   background: #333333;
   color: #fff; }
@@ -1446,7 +1449,6 @@ iframe {
     float: left;
     position: absolute;
     padding: 10px 25px;
-    background: #05070d;
     border-radius: 5px; }
     .nav-full-container .nav-logo img {
       height: 40px; }

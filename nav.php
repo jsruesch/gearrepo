@@ -36,3 +36,6 @@
     </div><!-- /.row -->
   </div><!-- /.container -->
 </div><!-- /.container-fluid .nav-full-container -->
+<div class="row bg-dblue pad5">
+  <p class="text-small text-lblue text-center">Gear Learning is part of the Wisconsin Center for Education Research in the University of Wisconsin-Madison's School of Education</p>
+</div>

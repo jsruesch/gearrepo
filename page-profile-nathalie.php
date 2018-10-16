@@ -19,7 +19,7 @@
         <div class="col-sm-3">
           <!-- Profile Image -->
           <div class="profile-image-container bg-ddblue">
-            <div class="mike"></div>
+            <div class="nathalie"></div>
             <div class="corner-tr"></div>
             <div class="corner-bl"></div>
             <div class="profile-name">
@@ -32,17 +32,18 @@
             <h4 class="text-dblue"><i class="fa fa-star text-white" aria-hidden="true"></i> Skills</h4>
             <div class="thickdiv mar10-bot mar10-top"></div>
             <ul class="text-dblue disc">
-              <li>Project Management</li>
-              <li>Game Design</li>
-              <li>Unity3D</li>
+              <li>Concept Art</li>
+              <li>Photoshop</li>
               <li>Maya</li>
-              <li>Adobe Creative Suite</li>
+              <li>3DS Max</li>
+              <li>Substance Painter</li>
+              <li>Unity3D</li>
             </ul>
           </div>
           <div class="row bg-ddblue">
             <div class="col-sm-12">
               <div class="profile-link-button">
-                <a class="text-center btn-gen" href="mailto:mbeall@wisc.edu" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+                <a class="text-center btn-gen" href="mailto:NATHALIEFOURDRAINE@GMAIL.COM" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
               </div>
             </div>
           </div>
@@ -51,7 +52,7 @@
           <div class="row pad60">
             <div class="row">
               <p class="text-lblue">
-                Mike Beall is the Director of Gear Learning at the Wisconsin Center for Education Research. He is a lifelong game enthusiast with a professional history as a game designer, producer, and artist working with the Learning Games Network and Games Learning Society at the University of Wisconsin-Madison. Mike has led design and development for several game titles including Progenitor X, Tenacity, Crystals of Kaydor, Oztoc, and At Play in the Cosmos. In addition to direct involvement with design and development of Gear Learning games, Mike also works with outreach organizations and community centers where he partners with University of Wisconsin-Madison faculty and students to engage with the local communities to learn through playing games, participate in playtests, and inform the design of future games through focus groups.
+              Hi, I'm Nathalie! I'm a concept artist, illustrator, and 3D modeler here at Gear Learning. I recently graduated from Madison College's Concepting and Animation program. I'm also a cover artist for IDW's Sonic the Hedgehog and concept artist for Everything Unlimited Ltd. When I'm not drawing, I'm usually walking outside, toying with my cats, or playing cheesy rpg video games!
               </p>
             </div>
           </div>

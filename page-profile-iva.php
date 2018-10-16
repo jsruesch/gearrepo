@@ -44,7 +44,7 @@
           <div class="row bg-ddblue">
             <div class="col-sm-12">
               <div class="profile-link-button">
-                <a class="text-center btn-gen" href="mailto:mbeall@wisc.edu" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+                <a class="text-center btn-gen" href="mailto:IIVANOVA@WISC.EDU" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
               </div>
             </div>
           </div>

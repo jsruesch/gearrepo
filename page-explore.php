@@ -300,7 +300,7 @@
                   <h4 class="text-green">Nathalie<br />Fourdraine</h4>
                   <p class="text-white small bold text-uppercase">2D / 3D Artist</p>
                 </div>
-                <div class="portrait-btn josephine"></div>
+                <div class="portrait-btn nathalie"></div>
               </div>
               </a>
             </div><!-- END: Nathalie -->

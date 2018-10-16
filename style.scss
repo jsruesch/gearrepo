@@ -1455,7 +1455,10 @@ textarea{
   .footer-logo-v2{ 
     width: 100%;  
     max-width: 100%;
-    max-height: 100px; 
+    
+    img{
+      max-height: 100px;
+    }
   }
   .small-icon{
     font-size: 6px;

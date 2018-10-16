@@ -52,7 +52,7 @@
           <div class="row pad60">
             <div class="row">
               <p class="text-lblue">
-              Hi, I'm Nathalie! I'm a concept artist, illustrator, and 3D modeler here at Gear Learning. I recently graduated from Madison College's Concepting and Animation program. I'm also a cover artist for IDW's Sonic the Hedgehog and concept artist for Everything Unlimited Ltd. When I'm not drawing, I'm usually walking outside, toying with my cats, or playing cheesy rpg video games!
+              Hi, I'm Nathalie! I'm a concept artist, illustrator, and 3D modeler here at Gear Learning. I recently graduated from Madison College's Concepting and Animation program. I'm also a cover artist for IDW's Sonic the Hedgehog and concept artist for Everything Unlimited Ltd. When I'm not drawing, I'm usually walking outside, toying with my cats, or playing cheesy RPG video games!
               </p>
             </div>
           </div>
@@ -61,35 +61,30 @@
               <h4 class="text-green"><i class="fa fa-trophy text-white" aria-hidden="true"></i> Projects</h4>
               <div class="thickdiv mar10-bot mar10-top"></div>
               <ul class="text-lblue disc">
-                <li>Virulent</li>
-                <li>Progenitor X</li>
-                <li>Tenacity</li>
-                <li>Crystals of Kaydor</li>
-                <li>Oztoc</li>
-                <li>Zoodles</li>
-                <li>Econauts</li>
-                <li>Xenos</li>
-                <li>At Play in the Cosmos</li>
+                <li>Untitled Pharmaceutical Game</li>
+                <li>BOOM! Comics</li>
+                <li>IDW Comics</li>
               </ul>
             </div>
             <div class="col-sm-4 pad15">
               <h4 class="text-green"><i class="fa fa-gamepad text-white" aria-hidden="true"></i> Playing Now</h4>
               <div class="thickdiv mar10-bot mar10-top"></div>
               <ul class="text-lblue disc">
-                <li>Diablo 3</li>
-                <li>Team Fortress 2</li>
-                <li>Titan Quest</li>
+                <li>Tales of Symphonia</li>
+                <li>Persona 5</li>
+                <li>Cuphead</li>
               </ul>
             </div>
             <div class="col-sm-4 pad15">
               <h4 class="text-green"><i class="fa fa-heart text-white" aria-hidden="true"></i> Favorites</h4>
               <div class="thickdiv mar10-bot mar10-top"></div>
               <ul class="text-lblue disc">
-                <li>Dig Dug</li>
-                <li>Telengard</li>
-                <li>Diablo 2</li>
-                <li>Team Fortress 2</li>
-                <li>Minecraft</li>
+                <li>Earthbound</li>
+                <li>Mother 3</li>
+                <li>Super Mario RPG</li>
+                <li>Paper Mario and the Thousand Year Door</li>
+                <li>Metroid Prime</li>
+                <li>Undertale</li>
               </ul>
             </div>
           </div>

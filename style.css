@@ -1445,11 +1445,11 @@ iframe {
   .nav-full-container .nav-logo {
     float: left;
     position: absolute;
-    padding: 15px 18px;
+    padding: 10px 25px;
     background: #05070d;
     border-radius: 5px; }
     .nav-full-container .nav-logo img {
-      height: 75px; }
+      height: 40px; }
 
 .mobile-dropdown {
   display: none;
